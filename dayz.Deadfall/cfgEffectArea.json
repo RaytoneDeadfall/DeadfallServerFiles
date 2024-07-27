@@ -1,0 +1,288 @@
+{
+    "Areas": [
+        {
+            "AreaName": "Passage 1",
+            "Type": "ContaminatedArea_Static",
+            "TriggerType": "ContaminatedTrigger",
+            "Data": {
+                "Pos": [ 4314.36, 339.0, 4446.46 ],
+                "Radius": 200,
+                "PosHeight": 20,
+                "NegHeight": 0,
+                "InnerRingCount": 2,
+                "InnerPartDist": 50,
+                "OuterRingToggle": false,
+                "OuterPartDist": 25,
+                "OuterOffset": 0,
+                "VerticalLayers": 0,
+                "VerticalOffset": 0,
+                "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+            },
+            "PlayerData": {
+                "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+                "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+                "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+            }
+        },
+        {
+            "AreaName": "Passage 2",
+            "Type": "ContaminatedArea_Static",
+            "TriggerType": "ContaminatedTrigger",
+            "Data": {
+                "Pos": [ 4431.18, 339.0, 4166.15 ],
+                "Radius": 280,
+                "PosHeight": 20,
+                "NegHeight": 0,
+                "InnerRingCount": 2,
+                "InnerPartDist": 50,
+                "OuterRingToggle": false,
+                "OuterPartDist": 25,
+                "OuterOffset": 0,
+                "VerticalLayers": 0,
+                "VerticalOffset": 0,
+                "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+            },
+            "PlayerData": {
+                "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+                "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+                "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+            }
+        },
+        {
+            "AreaName": "Passage 3",
+            "Type": "ContaminatedArea_Static",
+            "TriggerType": "ContaminatedTrigger",
+            "Data": {
+                "Pos": [ 4551.85, 339.0, 4361.9 ],
+                "Radius": 120,
+                "PosHeight": 20,
+                "NegHeight": 0,
+                "InnerRingCount": 2,
+                "InnerPartDist": 50,
+                "OuterRingToggle": false,
+                "OuterPartDist": 25,
+                "OuterOffset": 0,
+                "VerticalLayers": 0,
+                "VerticalOffset": 0,
+                "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+            },
+            "PlayerData": {
+                "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+                "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+                "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+            }
+        },
+        {
+            "AreaName": "Passage 4",
+            "Type": "ContaminatedArea_Static",
+            "TriggerType": "ContaminatedTrigger",
+            "Data": {
+                "Pos": [ 4566.15, 339.0, 3958.46 ],
+                "Radius": 150,
+                "PosHeight": 20,
+                "NegHeight": 0,
+                "InnerRingCount": 2,
+                "InnerPartDist": 50,
+                "OuterRingToggle": false,
+                "OuterPartDist": 25,
+                "OuterOffset": 0,
+                "VerticalLayers": 0,
+                "VerticalOffset": 0,
+                "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+            },
+            "PlayerData": {
+                "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+                "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+                "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+            }
+        },
+        {
+            "AreaName": "Passage 5",
+            "Type": "ContaminatedArea_Static",
+            "TriggerType": "ContaminatedTrigger",
+            "Data": {
+                "Pos": [ 4142.67, 339.0, 4345.33 ],
+                "Radius": 180,
+                "PosHeight": 20,
+                "NegHeight": 0,
+                "InnerRingCount": 2,
+                "InnerPartDist": 50,
+                "OuterRingToggle": false,
+                "OuterPartDist": 25,
+                "OuterOffset": 0,
+                "VerticalLayers": 0,
+                "VerticalOffset": 0,
+                "ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+            },
+            "PlayerData": {
+                "AroundPartName": "graphics/particles/contaminated_area_gas_around",
+                "TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+                "PPERequesterType": "PPERequester_ContaminatedAreaTint"
+            }
+        },
+		{ 	"AreaName": "Heli 1", 
+			"Type": "SpookyArea", 
+			"TriggerType": "SpookyTrigger",
+			"Data": { 
+				"Pos": [4611.39, 0, 914.655],
+				"Radius": 150,
+				"PosHeight": 10,
+				"NegHeight": 30,
+				"InnerRingCount": 1,
+				"InnerPartDist": 100,
+				"OuterRingToggle": true, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": ""
+			}
+		},
+        { 	"AreaName": "Maze 1",
+			"Type": "SpookyArea", 
+			"TriggerType": "SpookyTrigger",
+			"Data": { 
+				"Pos": [2951.58, 147.372, 2833.2],
+				"Radius": 175,
+				"PosHeight": 25,
+				"NegHeight": 5,
+				"InnerRingCount": 1,
+				"InnerPartDist": 100,
+				"OuterRingToggle": true, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": ""
+			}
+		},
+        { 	"AreaName": "Maze 2",
+			"Type": "SpookyArea", 
+			"TriggerType": "SpookyTrigger",
+			"Data": { 
+				"Pos": [2787.96, 147.372, 3095.26],
+				"Radius": 240,
+				"PosHeight": 25,
+				"NegHeight": 5,
+				"InnerRingCount": 1,
+				"InnerPartDist": 100,
+				"OuterRingToggle": true, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": ""
+			}
+		},
+        { 	"AreaName": "Maze 3",
+			"Type": "SpookyArea", 
+			"TriggerType": "SpookyTrigger",
+			"Data": { 
+				"Pos": [2603.73, 147.372, 3468.21],
+				"Radius": 100,
+				"PosHeight": 25,
+				"NegHeight": 5,
+				"InnerRingCount": 1,
+				"InnerPartDist": 100,
+				"OuterRingToggle": true, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": ""
+			}
+		},
+        { 	"AreaName": "Maze 4",
+			"Type": "SpookyArea", 
+			"TriggerType": "SpookyTrigger",
+			"Data": { 
+				"Pos": [2484.19, 147.3721, 3646.93],
+				"Radius": 50,
+				"PosHeight": 25,
+				"NegHeight": 5,
+				"InnerRingCount": 1,
+				"InnerPartDist": 100,
+				"OuterRingToggle": true, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+			},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": ""
+			}
+		},
+        {
+            "AreaName": "Castle 1",
+            "Type": "SpookyArea",
+            "TriggerType": "SpookyTrigger",
+            "Data": {
+                "Pos": [ 1545.67, 217.5, 1802.59 ],
+                "Radius": 250,
+                "PosHeight": 20,
+                "NegHeight": 20,
+                "InnerRingCount": 1,
+                "InnerPartDist": 50,
+                "OuterRingToggle": true,
+                "OuterPartDist": 50,
+                "OuterOffset": 0,
+                "VerticalLayers": 0,
+                "VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+			},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": ""
+			}
+        },
+        {
+            "AreaName": "Castle 2",
+            "Type": "SpookyArea",
+            "TriggerType": "SpookyTrigger",
+            "Data": {
+                "Pos": [ 1310.66, 256.46, 1481.59 ],
+                "Radius": 350,
+                "PosHeight": 15,
+                "NegHeight": 20,
+                "InnerRingCount": 1,
+                "InnerPartDist": 50,
+                "OuterRingToggle": true,
+                "OuterPartDist": 50,
+                "OuterOffset": 0,
+                "VerticalLayers": 0,
+                "VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+			},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": ""
+			}
+        }
+    ],
+    "SafePositions": []
+}

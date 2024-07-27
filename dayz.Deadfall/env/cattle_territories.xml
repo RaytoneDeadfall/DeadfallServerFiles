@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="864420070">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="1625.72" z="7939.67" r="100"/>
+    </territory>
+    <territory color="864420070">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="8075" z="6472.08" r="50"/>
+    </territory>
+    <territory color="866779391">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7691.43" z="2531.43" r="50"/>
+    </territory>
+    <territory color="833224959">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="5911.43" z="6677.14" r="70"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6094.29" z="6768.57" r="70"/>
+    </territory>
+    <territory color="864420070">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="6003.96" z="7659.34" r="50"/>
+    </territory>
+    <territory color="900333823">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8220" z="4028" r="50"/>
+    </territory>
+</territory-type>

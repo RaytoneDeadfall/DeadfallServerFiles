@@ -1,0 +1,62 @@
+{
+    "DebugLogs_enabled": 0,
+    "TeleportLogs_enabled": 1,
+    "Active_Portals_Min": 4,
+    "Active_Portals_Max": 4,
+    "Portal_Creator": [
+        {
+            "_Name": "Harbor R",
+            "Classname_Portal_Object": "land_CBD_Pedestal_Rust",
+            "Portal_Position": [2450.120850, 144.692261, 3640.100342],
+            "Portal_Orientation": [0.0, 0.0, 0.0],
+            "Trigger_Area_Min": [-1.0, -1.0, -1.0],
+            "Trigger_Area_Max": [1.0, 1.0, 1.0],
+            "Teleport_Destination": [
+                [9480.06, 194.098, 10040],
+                [9575.35, 178.231, 10007.9],
+                [9539.88, 178.231, 9930.57],
+                [9615.2, 178.231, 9864.5]
+            ]
+        },
+        {
+            "_Name": "Harbor L",
+            "Classname_Portal_Object": "land_CBD_Pedestal_Rust",
+            "Portal_Position": [3104.752930, 144.678253, 2719.368164],
+            "Portal_Orientation": [0.0, 0.0, 0.0],
+            "Trigger_Area_Min": [-1.0, -1.0, -1.0],
+            "Trigger_Area_Max": [1.0, 1.0, 1.0],
+            "Teleport_Destination": [
+                [9973.14, 178.231, 9346.78],
+                [9964.83, 178.231, 9458.8],
+                [9964.92, 186.155, 9511.56],
+                [9850.97, 194.1, 9529.36]
+            ]
+        },
+        {
+            "_Name": "Harbor Exit",
+            "Classname_Portal_Object": "land_CBD_Pedestal_Grey",
+            "Portal_Position": [9821.472656, 178.723236, 9755.822266],
+            "Portal_Orientation": [0.0, 0.0, 0.0],
+            "Trigger_Area_Min": [-1.0, -1.0, -1.0],
+            "Trigger_Area_Max": [1.0, 1.0, 1.0],
+            "Teleport_Destination": [
+                [2771.92, 157.546, 3133.87],
+                [2739.65, 157.546, 3157.1],
+                [2733.42, 157.546, 3118.75]
+            ]
+        },
+        {
+            "Classname_Portal_Object": "land_CBD_Pedestal_Orlin",
+            "Portal_Position": [449.426, 326.497925, 1030.48],
+            "Portal_Orientation": [0.0, 0.0, 0.0],
+            "Trigger_Area_Min": [-45.0, -10.0, -45.0],
+            "Trigger_Area_Max": [45.0, 10.0, 45.0],
+            "Teleport_Destination": [
+                [844.681, 180.03, 4040.7],
+                [2726.64, 184.618, 932.057],
+                [3940.39, 147.657, 2533.01],
+                [2265.43, 149.028, 4508.11]
+            ]
+        }
+   ]
+}

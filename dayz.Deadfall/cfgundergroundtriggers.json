@@ -1,0 +1,1238 @@
+{
+	"Triggers": [{
+			"_Name": "MilHosTrans",
+			"Position": [3855.3, 156.5, 5890.3],
+			"Orientation": [9.8, 0, 0],
+			"Size": [61.0, 7.0, 83.0],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [{
+					"Position": [3855.3, 160, 5890.3],
+					"EyeAccommodation": 0.9,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{
+					"Position": [3855.3, 159.13, 5890.3],
+					"EyeAccommodation": 0.7,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{
+					"Position": [3855.3, 158.25, 5890.3],
+					"EyeAccommodation": 0.5,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{
+					"Position": [3855.3, 157.38, 5890.3],
+					"EyeAccommodation": 0.4,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{
+					"Position": [3855.3, 156.5, 5890.3],
+					"EyeAccommodation": 0.3,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{
+					"Position": [3855.3, 155.63, 5890.3],
+					"EyeAccommodation": 0.2,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{
+					"Position": [3855.3, 154.75, 5890.3],
+					"EyeAccommodation": 0.15,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{
+					"Position": [3855.3, 153.88, 5890.3],
+					"EyeAccommodation": 0.1,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{
+					"Position": [3855.3, 153, 5890.3],
+					"EyeAccommodation": 0.05,
+					"UseRaycast": 0,
+					"Radius": 10
+				}
+			]
+		},
+		{
+			"_Name": "MilHosInner",
+			"Position": [3855.3, 147.0, 5890.3],
+			"Orientation": [9.8, 0, 0],
+			"Size": [61.0, 14.0, 83.0],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "EndTunnelTrans1",
+			"Position": [976.627, 255, 1117.068],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 80, 200],
+			"EyeAccommodation": 0.2,
+			"Breadcrumbs": [
+				{
+					"Position": [1076.73, 256.659, 1216.65],
+					"EyeAccommodation": 0.5,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{
+					"Position": [1074.64, 256.678, 1214.29],
+					"EyeAccommodation": 0.2,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{
+					"Position": [1071.83, 256.655, 1211.19],
+					"EyeAccommodation": 0.2,
+					"UseRaycast": 0,
+					"Radius": 10
+				}
+			]
+		},
+		{
+			"_Name": "EndTunnelInner1",
+			"Position": [934.091, 255, 1035.716],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 140, 200],
+			"EyeAccommodation": 0.2,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "EndTunnelInner2",
+			"Position": [825.519, 310, 922.164],
+			"Orientation": [0, 0, 0],
+			"Size": [265, 200, 265],
+			"EyeAccommodation": 0.2,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "EndTunnelTrans3-patch",
+			"Position": [735.269, 272.261, 789.405],
+			"Orientation": [0, 0, 0],
+			"Size": [20, 20, 20],
+			"EyeAccommodation": 0.2,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "EndTunnelTrans3-patch2",
+			"Position": [729.636, 271.979, 778.981],
+			"Orientation": [0, 0, 0],
+			"Size": [20, 20, 20],
+			"EyeAccommodation": 0.2,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "EndTunnelTrans3-patch3",
+			"Position": [722.794, 271.894, 768.479],
+			"Orientation": [0, 0, 0],
+			"Size": [20, 20, 20],
+			"EyeAccommodation": 0.2,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "EndTunnelTrans3 To Haven",
+			"Position": [645.431, 375, 879.104],
+			"Orientation": [0, 0, 0],
+			"Size": [100, 100, 100],
+			"EyeAccommodation": 0.2,
+			"Breadcrumbs": [
+				{
+					"Position": [596.505, 372.353, 886.395],
+					"EyeAccommodation": 0.5,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{
+					"Position": [606.242, 371.778, 883.06],
+					"EyeAccommodation": 0.25,
+					"UseRaycast": 0,
+					"Radius": 10
+				}
+			]
+		},
+		{
+			"_Name": "EndTunnelTrans2 To Makr Area",
+			"Position": [787.476, 255, 831.626],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 80, 200],
+			"EyeAccommodation": 0.2,
+			"Breadcrumbs": [
+				{
+					"Position": [688.096, 264.477, 733.743],
+					"EyeAccommodation": 0.5,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{
+					"Position": [694.412, 265.807, 739.441],
+					"EyeAccommodation": 0.4,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{
+					"Position": [702.333, 267.348, 745.575],
+					"EyeAccommodation": 0.3,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{
+					"Position": [708.435, 268.71, 750.898],
+					"EyeAccommodation": 0.25,
+					"UseRaycast": 0,
+					"Radius": 10
+				}
+			]
+		},
+		{
+			"_Name": "Harbor1",
+			"Position": [9485.197, 180, 10033.388],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 200, 200],
+			"EyeAccommodation": 0.15,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "Harbor2",
+			"Position": [9677.597, 180, 10033.424],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 200, 200],
+			"EyeAccommodation": 0.15,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "Harbor3",
+			"Position": [9555.268, 180, 9851.344],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 200, 200],
+			"EyeAccommodation": 0.15,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "Harbor4",
+			"Position": [9747.668, 180, 9851.380],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 200, 200],
+			"EyeAccommodation": 0.15,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "Harbor5",
+			"Position": [9630.472, 180, 9673.883],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 200, 200],
+			"EyeAccommodation": 0.15,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "Harbor6",
+			"Position": [9822.872, 180, 9673.919],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 200, 200],
+			"EyeAccommodation": 0.15,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "Harbor7",
+			"Position": [9755.063, 180, 9537.950],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 200, 200],
+			"EyeAccommodation": 0.15,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "Harbor8",
+			"Position": [9947.463, 180, 9537.985],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 200, 200],
+			"EyeAccommodation": 0.15,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "Harbor9",
+			"Position": [9858.846, 180, 9402.551],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 200, 200],
+			"EyeAccommodation": 0.15,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "Harbor10",
+			"Position": [10051.246, 180, 9402.586],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 200, 200],
+			"EyeAccommodation": 0.15,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "BaseTrans1",
+			"Position": [4270.05, 312.5, 4654.3],
+			"Orientation": [0, 0, 0],
+			"Size": [39.1, 250, 16],
+			"EyeAccommodation": 0.3,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "BaseTrans2",
+			"Position": [4687.05, 312.5, 4411.175],
+			"Orientation": [136.8, 0, 0],
+			"Size": [16.1, 250, 39.1],
+			"EyeAccommodation": 0.3,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "BaseTrans3",
+			"Position": [4720.85, 312.5, 3977.3],
+			"Orientation": [0, 0, 0],
+			"Size": [16.1, 250, 39],
+			"EyeAccommodation": 0.3,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "BaseExitTransition3",
+			"Position": [4150.5, 174.2, 3606.35],
+			"Orientation": [0, 0, 0],
+			"Size": [114.6, 500, 72.1],
+			"EyeAccommodation": 0.3,
+			"Breadcrumbs": [
+				{
+					"Position": [4160.24, 160.773, 3571.92],
+					"EyeAccommodation": 0.5,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{
+					"Position": [4158.54, 170.074, 3588.06],
+					"EyeAccommodation": 0.25,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{
+					"Position": [4162.58, 176.898, 3603.06],
+					"EyeAccommodation": 0.15,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{
+					"Position": [4154.05, 181.493, 3618.37],
+					"EyeAccommodation": 0.05,
+					"UseRaycast": 0,
+					"Radius": 10
+				}
+			]
+		},
+		{
+			"_Name": "BaseExitTransition2",
+			"Position": [3915.9, 173.4, 3929.8],
+			"Orientation": [126.033, 0, 0],
+			"Size": [72.2, 500, 114.5],
+			"EyeAccommodation": 0.3,
+			"Breadcrumbs": [
+				{
+					"Position": [3885.11, 163.99, 3908.29],
+					"EyeAccommodation": 0.5,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{
+					"Position": [3895.34, 165.286, 3909.54],
+					"EyeAccommodation": 0.25,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{
+					"Position": [3902.54, 167.574, 3912.7],
+					"EyeAccommodation": 0.15,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{
+					"Position": [3905.48, 169.809, 3917.93],
+					"EyeAccommodation": 0.05,
+					"UseRaycast": 0,
+					"Radius": 10
+				}
+			]
+		},
+		{
+			"_Name": "BaseExitTransition1",
+			"Position": [3525.2, 155.4, 4448.7],
+			"Orientation": [0, 0, 0],
+			"Size": [72.11, 500, 114.53],
+			"EyeAccommodation": 0.3,
+			"Breadcrumbs": [
+				{
+					"Position": [3491.94, 140.321, 4452.6],
+					"EyeAccommodation": 0.5,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{
+					"Position": [3502.81, 146.279, 4456.55],
+					"EyeAccommodation": 0.25,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{
+					"Position": [3522.7, 157.514, 4452.75],
+					"EyeAccommodation": 0.15,
+					"UseRaycast": 0,
+					"Radius": 15
+				},
+				{
+					"Position": [3535.27, 164.555, 4449],
+					"EyeAccommodation": 0.05,
+					"UseRaycast": 0,
+					"Radius": 15
+				}
+			]
+		},
+		{
+			"_Name": "BaseInner1",
+			"Position": [4329.35, 312.5, 4590.615],
+			"Orientation": [0, 0, 0],
+			"Size": [229.3, 250, 114.57],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "BaseInner2",
+			"Position": [4377.3, 312.5, 4481.25],
+			"Orientation": [0, 0, 0],
+			"Size": [229.2, 250, 114.7],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "BaseInner3",
+			"Position": [4170.35, 312.5, 4420.75],
+			"Orientation": [0, 0, 0],
+			"Size": [229.3, 250, 114.7],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "BaseInner4",
+			"Position": [4397.75, 312.5, 4400.1],
+			"Orientation": [0, 0, 0],
+			"Size": [229.3, 250, 114.7],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "BaseInner5",
+			"Position": [4427.05, 312.5, 4337.25],
+			"Orientation": [0, 0, 0],
+			"Size": [229.3, 250, 114.7],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "BaseInner6",
+			"Position": [4605.05, 312.5, 4333.7],
+			"Orientation": [0, 0, 0],
+			"Size": [229.3, 250, 114.7],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "BaseInner7",
+			"Position": [4605, 312.5, 4224.75],
+			"Orientation": [0, 0, 0],
+			"Size": [229.3, 250, 114.7],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "BaseInner8",
+			"Position": [4605.75, 312.5, 4112.35],
+			"Orientation": [0, 0, 0],
+			"Size": [229.3, 250, 114.7],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "BaseInner9",
+			"Position": [4599.95, 312.5, 3999.05],
+			"Orientation": [0, 0, 0],
+			"Size": [229.3, 250, 114.7],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "BaseInner10",
+			"Position": [4600.05, 312.5, 3886.05],
+			"Orientation": [0, 0, 0],
+			"Size": [229.3, 250, 114.7],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "BaseInner11",
+			"Position": [4427.15, 312.5, 4225.1],
+			"Orientation": [0, 0, 0],
+			"Size": [229.3, 250, 114.7],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "BaseInner12",
+			"Position": [4378.85, 312.5, 4118.95],
+			"Orientation": [0, 0, 0],
+			"Size": [229.3, 250, 114.7],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "BaseInner13",
+			"Position": [4380.05, 312.5, 4037.6],
+			"Orientation": [0, 0, 0],
+			"Size": [229.3, 250, 114.7],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "BaseInner14",
+			"Position": [4184.95, 312.5, 4320.4],
+			"Orientation": [0, 0, 0],
+			"Size": [229.3, 250, 114.7],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "BaseInner24",
+			"Position": [3836.8, 312.5, 4367.55],
+			"Orientation": [0, 0, 0],
+			"Size": [230, 400, 115],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "BaseInner29",
+			"Position": [4150.925, 248, 3754.824],
+			"Orientation": [1.316, 0, 0],
+			"Size": [115, 400, 230],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "BaseInner30",
+			"Position": [3652.853, 245, 4402.033],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 400, 200],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "BaseInner31",
+			"Position": [4047.827, 335, 4349.692],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 400, 200],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "BaseInner32",
+			"Position": [4148.120, 335, 4181.006],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 400, 200],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "BaseInner33",
+			"Position": [4291.214, 335, 4256.313],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 400, 200],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "BaseInner34",
+			"Position": [4234.62, 335, 4059.265],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 400, 200],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "BaseInner35",
+			"Position": [4329.738, 335, 3915.272],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 400, 200],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "BaseInner36",
+			"Position": [4211.255, 335, 3812.872],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 400, 200],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "BaseInner37",
+			"Position": [4024.360, 335, 4024.603],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 400, 200],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "BaseInner38",
+			"Position": [4408.849, 335, 4506.78],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 400, 200],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "BaseInner39",
+			"Position": [4477.217, 335, 4414.648],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 400, 200],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "BaseInner40",
+			"Position": [4534.35, 335, 4344.701],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 400, 200],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "BaseInner41",
+			"Position": [4583.522, 335, 4310.907],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 400, 200],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "CoreysCorner",
+			"Position": [4550.792, 335, 4491.449],
+			"Orientation": [45, 0, 0],
+			"Size": [50, 200, 50],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "CoreysCorner2",
+			"Position": [4539.100, 335, 4507.958],
+			"Orientation": [0, 0, 0],
+			"Size": [50, 200, 50],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "TunnelTrans1",
+			"Position": [4338.0, 164.0, 6295.0],
+			"Orientation": [0, 0, 0],
+			"Size": [10.0, 12.0, 10.0],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [{
+					"Position": [4337.4, 170, 6294.6],
+					"EyeAccommodation": 0.9,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [4337.4, 168.5, 6294.6],
+					"EyeAccommodation": 0.7,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [4337.4, 167, 6294.6],
+					"EyeAccommodation": 0.5,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [4337.4, 165.5, 6294.6],
+					"EyeAccommodation": 0.4,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [4337.4, 164, 6294.6],
+					"EyeAccommodation": 0.3,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [4337.4, 162.5, 6294.6],
+					"EyeAccommodation": 0.2,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [4337.4, 161, 6294.6],
+					"EyeAccommodation": 0.15,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [4337.4, 159.5, 6294.6],
+					"EyeAccommodation": 0.1,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [4337.4, 158, 6294.6],
+					"EyeAccommodation": 0.05,
+					"UseRaycast": 0,
+					"Radius": -1
+				}
+			]
+		},
+		{
+			"_Name": "TunnelTrans2",
+			"Position": [5506.0, 171.5, 6087.5],
+			"Orientation": [0, 0, 0],
+			"Size": [12.0, 27.0, 11.0],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [{
+					"Position": [5506.5, 185, 6086.5],
+					"EyeAccommodation": 0.9,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [5506.5, 181.63, 6086.5],
+					"EyeAccommodation": 0.7,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [5506.5, 178.25, 6086.5],
+					"EyeAccommodation": 0.5,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [5506.5, 174.88, 6086.5],
+					"EyeAccommodation": 0.4,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [5506.5, 171.5, 6086.5],
+					"EyeAccommodation": 0.3,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [5506.5, 168.13, 6086.5],
+					"EyeAccommodation": 0.2,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [5506.5, 164.75, 6086.5],
+					"EyeAccommodation": 0.15,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [5506.5, 161.38, 6086.5],
+					"EyeAccommodation": 0.1,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [5506.5, 158, 6086.5],
+					"EyeAccommodation": 0.05,
+					"UseRaycast": 0,
+					"Radius": -1
+				}
+			]
+		},
+		{
+			"_Name": "TunnelTrans3",
+			"Position": [6090.0, 164.0, 5664.0],
+			"Orientation": [0, 0, 0],
+			"Size": [12.0, 12.0, 10.0],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [{
+					"Position": [6089.0, 170, 5664.0],
+					"EyeAccommodation": 0.9,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [6089, 168.5, 5664],
+					"EyeAccommodation": 0.7,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [6089, 167, 5664],
+					"EyeAccommodation": 0.5,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [6089, 165.5, 5664],
+					"EyeAccommodation": 0.4,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [6089, 164.0, 5664.0],
+					"EyeAccommodation": 0.3,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [6089, 162.5, 5664],
+					"EyeAccommodation": 0.2,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [6089, 161, 5664],
+					"EyeAccommodation": 0.15,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [6089, 159.5, 5664],
+					"EyeAccommodation": 0.1,
+					"UseRaycast": 0,
+					"Radius": -1
+				},
+				{
+					"Position": [6089, 158, 5664.0],
+					"EyeAccommodation": 0.05,
+					"UseRaycast": 0,
+					"Radius": -1
+				}
+			]
+		},
+		{
+			"_Name": "TunnelInner1",
+			"Position": [4765.5, 153.0, 6305.5],
+			"Orientation": [0, 0, 0],
+			"Size": [875.0, 12.0, 73.0],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "TunnelInner2",
+			"Position": [5151.508, 153, 6291.403],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 12, 200],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "TunnelInner3",
+			"Position": [5335.409, 153, 6202.476],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 12, 200],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "TunnelInner4",
+			"Position": [5516.871, 153, 6136.564],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 12, 200],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "TunnelInner5",
+			"Position": [5699.032, 153, 6023.099],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 12, 200],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "TunnelInner6",
+			"Position": [5861.866, 153, 5880.215],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 12, 200],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "TunnelInner7",
+			"Position": [6030.340, 153, 5761.633],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 12, 200],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "TunnelInner8",
+			"Position": [6106.231, 153, 5606.586],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 12, 200],
+			"EyeAccommodation": 0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "MineEntranceTransition",
+			"Position": [6783.929, 48.3, 3678.743],
+			"Orientation": [45, 0, 0],
+			"Size": [20, 20, 20],
+			"EyeAccommodation": 0.3,
+			"Breadcrumbs": [
+				{
+					"Position": [6777.49, 48.5591, 3674.89],
+					"EyeAccommodation": 0.5,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{
+					"Position": [6781.54, 48.6153, 3676.64],
+					"EyeAccommodation": 0.25,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{
+					"Position": [6786.09, 48.6214, 3678.72],
+					"EyeAccommodation": 0.15,
+					"UseRaycast": 0,
+					"Radius": 10
+				},
+				{
+					"Position": [6788.63, 48.6053, 3680.08],
+					"EyeAccommodation": 0.05,
+					"UseRaycast": 0,
+					"Radius": 10
+				}
+			]
+		},
+		{
+			"_Name": "MineInner1",
+			"Position": [6822.161, 93.7, 3682.88],
+			"Orientation": [45, 0, 0],
+			"Size": [50, 90, 50],
+			"EyeAccommodation": 0.3,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "MineInner2",
+			"Position": [6827.695, 93.7, 3656.096],
+			"Orientation": [45, 0, 0],
+			"Size": [50, 90, 50],
+			"EyeAccommodation": 0.3,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "MineInner3",
+			"Position": [6811.209, 93.7, 3649.290],
+			"Orientation": [45, 0, 0],
+			"Size": [50, 90, 50],
+			"EyeAccommodation": 0.3,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "MineInner4",
+			"Position": [6783.166, 97.6, 3676.401],
+			"Orientation": [0, 0, 0],
+			"Size": [50, 82.2, 50],
+			"EyeAccommodation": 0.3,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "MineInner5",
+			"Position": [6820.491, 93.7, 3667.215],
+			"Orientation": [0, 0, 0],
+			"Size": [50, 90, 50],
+			"EyeAccommodation": 0.3,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "MineInner6",
+			"Position": [6817.015, 93.7, 3686.231],
+			"Orientation": [0, 0, 0],
+			"Size": [50, 90, 50],
+			"EyeAccommodation": 0.3,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "MineInner7",
+			"Position": [6830.064, 93.7, 3691.167],
+			"Orientation": [0, 0, 0],
+			"Size": [50, 90, 50],
+			"EyeAccommodation": 0.3,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "MineUpper1",
+			"Position": [6821.383, 143, 3640.132],
+			"Orientation": [45, 0, 0],
+			"Size": [25, 10, 25],
+			"EyeAccommodation": 0.8,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "MineUpper2",
+			"Position": [6826.142, 143, 3638.460],
+			"Orientation": [45, 0, 0],
+			"Size": [25, 10, 25],
+			"EyeAccommodation": 0.8,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "MonolithInner1",
+			"Position": [2263.893, 182, 4744.139],
+			"Orientation": [0, 0, 0],
+			"Size": [50, 48, 50],
+			"EyeAccommodation": 0.3,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "MonolithInner2",
+			"Position": [2263.980, 182, 4694.385],
+			"Orientation": [0, 0, 0],
+			"Size": [50, 48, 50],
+			"EyeAccommodation": 0.3,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "MonolithInner3",
+			"Position": [2243.286, 182, 4671.882],
+			"Orientation": [0, 0, 0],
+			"Size": [50, 48, 50],
+			"EyeAccommodation": 0.3,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "MonolithInner4",
+			"Position": [2234.786, 182, 4663.081],
+			"Orientation": [0, 0, 0],
+			"Size": [50, 48, 50],
+			"EyeAccommodation": 0.3,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "MonolithInner5",
+			"Position": [2200.631, 182, 4665.727],
+			"Orientation": [0, 0, 0],
+			"Size": [50, 48, 50],
+			"EyeAccommodation": 0.3,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "MonolithInner6",
+			"Position": [2216.439, 182, 4681.337],
+			"Orientation": [0, 0, 0],
+			"Size": [50, 48, 50],
+			"EyeAccommodation": 0.3,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "MonolithInner7",
+			"Position": [2228.656, 182, 4685.581],
+			"Orientation": [0, 0, 0],
+			"Size": [50, 48, 50],
+			"EyeAccommodation": 0.3,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "MonolithInner8",
+			"Position": [2233.132, 182, 4717.008],
+			"Orientation": [0, 0, 0],
+			"Size": [50, 48, 50],
+			"EyeAccommodation": 0.3,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "MonolithInner9",
+			"Position": [2241.455, 182, 4742.862],
+			"Orientation": [0, 0, 0],
+			"Size": [50, 48, 50],
+			"EyeAccommodation": 0.3,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "MonolithTrans1",
+			"Position": [2255.336, 165, 4786.672],
+			"Orientation": [0, 0, 0],
+			"Size": [40, 14, 40],
+			"EyeAccommodation": 0.8,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "MonolithTrans2",
+			"Position": [2218.402, 210, 4683.071],
+			"Orientation": [0, 0, 0],
+			"Size": [20, 10, 20],
+			"EyeAccommodation": 0.8,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "MonolithTrans3",
+			"Position": [2199.152, 165, 4638.108],
+			"Orientation": [0, 0, 0],
+			"Size": [10, 14, 10],
+			"EyeAccommodation": 0.8,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "MonolithTrans4",
+			"Position": [2199.199, 165, 4630.347],
+			"Orientation": [0, 0, 0],
+			"Size": [10, 14, 10],
+			"EyeAccommodation": 0.8,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "Odyssey1",
+			"Position": [9821.836, 180, 10040.482],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 200, 200],
+			"EyeAccommodation": 0.15,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "Odyssey2",
+			"Position": [9856.105, 180, 10131.470],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 200, 200],
+			"EyeAccommodation": 0.15,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "Odyssey3",
+			"Position": [10012.825, 180, 10122.982],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 200, 200],
+			"EyeAccommodation": 0.15,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "Odyssey4",
+			"Position": [10014.608, 180, 9930.570],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 200, 200],
+			"EyeAccommodation": 0.15,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "Odyssey5",
+			"Position": [10014.128, 180, 9731.541],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 200, 200],
+			"EyeAccommodation": 0.15,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "Odyssey6",
+			"Position": [10135.488, 180, 9667.613],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 200, 200],
+			"EyeAccommodation": 0.15,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "Odyssey7",
+			"Position": [10134.442, 180, 9481.761],
+			"Orientation": [0, 0, 0],
+			"Size": [200, 200, 200],
+			"EyeAccommodation": 0.15,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
+		}
+	]
+}

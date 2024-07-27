@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<lists>
+    <categories>
+        <category name="tools" />
+        <category name="containers" />
+        <category name="clothes" />
+        <category name="lootdispatch" />
+        <category name="food" />
+        <category name="garden" />
+        <category name="weapons" />
+        <category name="books" />
+        <category name="explosives" />
+        <category name="snipers" />
+        <category name="keybox" />
+        <category name="altar" />
+    </categories>
+    <tags>
+        <tag name="floor" />
+        <tag name="shelves" />
+        <tag name="ground" />
+    </tags>
+    <usageflags>
+        <usage name="Military" />
+        <usage name="Police" />
+        <usage name="Medic" />
+        <usage name="Firefighter" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+        <usage name="Coast" />
+        <usage name="Town" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Office" />
+        <usage name="School" />
+        <usage name="Prison" />
+        <usage name="SeasonalEvent" />
+        <usage name="ContaminatedArea" />
+        <usage name="Special" />
+        <usage name="Underground" />
+        <usage name="Mining" />
+        <usage name="Incubation" />
+        <usage name="Extraction"/>
+        <usage name="Tunnels"/>
+        <usage name="Historical"/>
+    </usageflags>
+    <valueflags>
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <value name="Unique" />
+    </valueflags>
+</lists>
