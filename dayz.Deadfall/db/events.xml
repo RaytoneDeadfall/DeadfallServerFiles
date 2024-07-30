@@ -756,7 +756,7 @@
         <restock>0</restock>
         <saferadius>100</saferadius>
         <distanceradius>50</distanceradius>
-        <cleanupradius>50</cleanupradius>
+        <cleanupradius>100</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="1" />
         <position>player</position>
         <limit>custom</limit>
@@ -775,7 +775,7 @@
         <restock>0</restock>
         <saferadius>100</saferadius>
         <distanceradius>50</distanceradius>
-        <cleanupradius>50</cleanupradius>
+        <cleanupradius>100</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="1" />
         <position>player</position>
         <limit>custom</limit>
@@ -798,7 +798,7 @@
         <restock>0</restock>
         <saferadius>100</saferadius>
         <distanceradius>50</distanceradius>
-        <cleanupradius>50</cleanupradius>
+        <cleanupradius>100</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="1" />
         <position>player</position>
         <limit>custom</limit>
