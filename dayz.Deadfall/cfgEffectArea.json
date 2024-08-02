@@ -7,7 +7,7 @@
             "Data": {
                 "Pos": [ 4314.36, 339.0, 4446.46 ],
                 "Radius": 200,
-                "PosHeight": 20,
+                "PosHeight": 30,
                 "NegHeight": 0,
                 "InnerRingCount": 2,
                 "InnerPartDist": 50,
@@ -31,7 +31,7 @@
             "Data": {
                 "Pos": [ 4431.18, 339.0, 4166.15 ],
                 "Radius": 280,
-                "PosHeight": 20,
+                "PosHeight": 30,
                 "NegHeight": 0,
                 "InnerRingCount": 2,
                 "InnerPartDist": 50,
@@ -55,7 +55,7 @@
             "Data": {
                 "Pos": [ 4551.85, 339.0, 4361.9 ],
                 "Radius": 120,
-                "PosHeight": 20,
+                "PosHeight": 30,
                 "NegHeight": 0,
                 "InnerRingCount": 2,
                 "InnerPartDist": 50,
@@ -79,7 +79,7 @@
             "Data": {
                 "Pos": [ 4566.15, 339.0, 3958.46 ],
                 "Radius": 150,
-                "PosHeight": 20,
+                "PosHeight": 30,
                 "NegHeight": 0,
                 "InnerRingCount": 2,
                 "InnerPartDist": 50,
@@ -103,7 +103,7 @@
             "Data": {
                 "Pos": [ 4142.67, 339.0, 4345.33 ],
                 "Radius": 180,
-                "PosHeight": 20,
+                "PosHeight": 30,
                 "NegHeight": 0,
                 "InnerRingCount": 2,
                 "InnerPartDist": 50,
