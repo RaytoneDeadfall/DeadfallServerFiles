@@ -17,7 +17,7 @@ areas/gaps of the terrain that they are not intended to.
 
 The following mods and profile config files are provided to enrich the overall Deadfall experience.
 
-### Stargate Teleporter (required)
+### Stargate Teleporters Complete (required)
 
 Deadfall has a hard dependency on the Stargate Teleport mod, as some of the terrain is inaccessible without
 teleportation.
