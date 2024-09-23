@@ -1233,6 +1233,15 @@
 			"EyeAccommodation": 0.15,
 			"Breadcrumbs": [],
 			"InterpolationSpeed": 1
+		},
+		{
+			"_Name": "HavenBottom",
+			"Position": [448.709, 260, 1030.299],
+			"Orientation": [0, 0, 0],
+			"Size": [100, 130, 100],
+			"EyeAccommodation": 0.0,
+			"Breadcrumbs": [],
+			"InterpolationSpeed": 1
 		}
 	]
 }
