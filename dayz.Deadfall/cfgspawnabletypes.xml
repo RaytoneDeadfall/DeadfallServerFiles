@@ -101,9 +101,6 @@
 		<attachments chance="0.85">
 			<item name="Battery9V" chance="1.00" />
 		</attachments>
-		<attachments chance="0.01">
-			<item name="NVGoggles" chance="1.00" />
-		</attachments>
 	</type>
 	<type name="SmallStone">
 		<damage min="0.0" max="0.0" />
@@ -2805,6 +2802,9 @@
 		<cargo chance="0.25"><item name="Ammo_makr" /></cargo>
 	</type>
 	<type name="DF_Paper_Map">
+		<damage min="0.0" max="0.35" />
+	</type>
+	<type name="DF_Paper_Poem">
 		<damage min="0.0" max="0.35" />
 	</type>
 </spawnabletypes>

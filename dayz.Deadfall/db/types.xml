@@ -601,7 +601,7 @@
         <nominal>8</nominal>
         <lifetime>5400</lifetime>
         <restock>300</restock>
-        <min>3</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -699,7 +699,7 @@
         <nominal>8</nominal>
         <lifetime>5400</lifetime>
         <restock>300</restock>
-        <min>3</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -723,10 +723,10 @@
         <value name="Tier2" />
     </type>
     <type name="AmmoBox_762x39Tracer_20Rnd">
-        <nominal>6</nominal>
+        <nominal>8</nominal>
         <lifetime>5400</lifetime>
         <restock>300</restock>
-        <min>3</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -753,7 +753,7 @@
         <nominal>8</nominal>
         <lifetime>5400</lifetime>
         <restock>300</restock>
-        <min>3</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -884,7 +884,7 @@
         <value name="Tier2" />
     </type>
     <type name="Ammo_308WinTracer">
-        <nominal>15</nominal>
+        <nominal>20</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
         <min>10</min>
@@ -1060,7 +1060,7 @@
         <value name="Tier2" />
     </type>
     <type name="Ammo_556x45Tracer">
-        <nominal>15</nominal>
+        <nominal>20</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
         <min>10</min>
@@ -1092,7 +1092,7 @@
         <value name="Tier2" />
     </type>
     <type name="Ammo_762x39Tracer">
-        <nominal>15</nominal>
+        <nominal>20</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
         <min>10</min>
@@ -1125,7 +1125,7 @@
         <value name="Tier2" />
     </type>
     <type name="Ammo_762x54Tracer">
-        <nominal>15</nominal>
+        <nominal>20</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
         <min>10</min>
@@ -11141,10 +11141,10 @@
         <usage name="Firefighter" />
     </type>
     <type name="NVGHeadstrap">
-        <nominal>6</nominal>
+        <nominal>0</nominal>
         <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11153,10 +11153,10 @@
         <usage name="Military" />
     </type>
     <type name="NVGoggles">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -18614,6 +18614,19 @@
         <value name="Tier1" />
         <value name="Tier2" />
     </type>
+    <type name="DF_HipPack">
+        <nominal>1</nominal>
+        <lifetime>5400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="containers" />
+        <usage name="Military" />
+        <value name="Tier4" />
+    </type>
     <type name="DF_Cereal">
         <nominal>0</nominal>
         <lifetime>5400</lifetime>
@@ -18697,6 +18710,19 @@
         <category name="tools" />
         <tag name="shelves" />
         <usage name="ContaminatedArea" />
+    </type>
+    <type name="DF_Paper_Poem">
+        <nominal>3</nominal>
+        <lifetime>5400</lifetime>
+        <restock>300</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="tools" />
+        <usage name="Village" />
+        <value name="Tier3" />
     </type>
     <type name="DF_TTsKO_Jacket">
         <nominal>1</nominal>
@@ -18816,6 +18842,23 @@
         <tag name="shelves" />
         <usage name="Village" />
         <value name="Tier3" />
+    </type>
+    <type name="DF_Heatpack">
+        <nominal>5</nominal>
+        <lifetime>5400</lifetime>
+        <restock>1800</restock>
+        <min>3</min>
+        <quantmin>20</quantmin>
+        <quantmax>40</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="tools" />
+        <tag name="shelves" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Military" />
+        <value name="Tier3" />
+        <value name="Tier5" />
     </type>
 
     <!-- makr -->
