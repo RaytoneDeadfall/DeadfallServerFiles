@@ -46,7 +46,7 @@
             ]
         },
         {
-            "_Name": "Gauntlet Jump Hole Entrace",
+            "_Name": "Gauntlet Jump Hole Entrance",
             "Classname_Portal_Object": "land_CBD_Pedestal_Orlin",
             "Portal_Position": [449.426, 326.497925, 1030.48],
             "Portal_Orientation": [0.0, 0.0, 0.0],
