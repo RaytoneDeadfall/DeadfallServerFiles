@@ -423,6 +423,273 @@
                 "Deadfall_Creatures_Skeleton_2"
             ],
             "bubakinventory": []
+        },
+        {
+            "name": "GAUNTLET 1",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "9739.67 132.11 9927.09",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 2.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "9823.04 131.46 9990.78",
+                "9779.28 131.46 10045.4",
+                "9789.66 131.46 10064.6",
+                "9784.78 131.46 10064.9"
+            ],
+            "spawnradius": 5.0,
+            "bubaknum": 8,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Deadfall_Creatures_Wraith_1",
+                "Deadfall_Creatures_Wraith_2",
+                "Deadfall_Creatures_Skeleton_2",
+                "Deadfall_Creatures_Skeleton_3",
+                "Deadfall_Creatures_Skeleton_4",
+                "Deadfall_Creatures_Spiderskull_normal"
+            ],
+            "bubakinventory": []
+        },
+        {
+            "name": "GAUNTLET 2",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "9827.26 131.472 10086.7",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 4.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "9829.59 131.46 10112.7",
+                "9835.55 131.46 10130.9",
+                "9863.71 131.46 10143",
+                "9888.66 131.46 10153.5"
+            ],
+            "spawnradius": 4.0,
+            "bubaknum": 8,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Deadfall_Creatures_Wraith_2",
+                "Deadfall_Creatures_Wraith_3",
+                "Deadfall_Creatures_Skeleton_2",
+                "Deadfall_Creatures_Skeleton_3",
+                "Deadfall_Creatures_Skeleton_4"
+            ],
+            "bubakinventory": []
+        },
+        {
+            "name": "GAUNTLET 3",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "9880.79 131.472 10152.1",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 4.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "9915.93 131.46 10159.6",
+                "9919.15 131.46 10141.4",
+                "9931.4 131.46 10142.9",
+                "9933.98 131.46 10135.7",
+                "9941.84 131.46 10140.1"
+            ],
+            "spawnradius": 3.0,
+            "bubaknum": 5,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Deadfall_Creatures_Wraith_2",
+                "Deadfall_Creatures_Wraith_3",
+                "Deadfall_Creatures_Skeleton_2",
+                "Deadfall_Creatures_Skeleton_3",
+                "Deadfall_Creatures_Skeleton_4"
+            ],
+            "bubakinventory": []
+        },
+        {
+            "name": "GAUNTLET 4",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "10012.3 131.472 9996.9",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 4.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "9997.75 132.577 9944.05",
+                "10007.6 133.003 9929.66",
+                "10020.5 133.004 9934.58",
+                "10005.2 131.472 10008.3",
+                "10026.8 131.473 10012.6"
+            ],
+            "spawnradius": 2.0,
+            "bubaknum": 5,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Deadfall_Creatures_Spiderskull_small"
+            ],
+            "bubakinventory": []
+        },
+        {
+            "name": "GAUNTLET 5",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "9954.67 131.936 10131.4",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 2.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "10002.4 131.754 10071",
+                "10009.9 131.814 10060.3",
+                "10008.9 131.683 10031",
+                "10016.3 131.46 10013.5",
+                "10001.6 131.46 10015.7",
+                "10025.5 131.472 10011.3"                
+            ],
+            "spawnradius": 2.0,
+            "bubaknum": 8,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Deadfall_Creatures_Wraith_2",
+                "Deadfall_Creatures_Wraith_3",
+                "Deadfall_Creatures_Skeleton_3",
+                "Deadfall_Creatures_Skeleton_4",
+                "Deadfall_Creatures_Skeleton_5"
+            ],
+            "bubakinventory": []
+        },
+        {
+            "name": "GAUNTLET 6",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "10006.7 131.472 9918.22",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 2.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "9999.44 131.46 9867.51",
+                "9987.57 131.46 9854.16",
+                "9989.94 131.46 9828.9",
+                "9997.57 131.46 9802.54",
+                "9985.56 131.46 9755.78",
+                "9978.53 131.46 9729.63",
+                "9988.34 131.46 9641.96",
+                "9950.95 131.46 9702.55"
+            ],
+            "spawnradius": 2.0,
+            "bubaknum": 10,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Deadfall_Creatures_Wraith_2",
+                "Deadfall_Creatures_Wraith_3",
+                "Deadfall_Creatures_Skeleton_3",
+                "Deadfall_Creatures_Skeleton_4",
+                "Deadfall_Creatures_Skeleton_5",
+                "Deadfall_Creatures_Spiderskull_normal",
+                "Deadfall_Creatures_Spiderskull_small"
+            ],
+            "bubakinventory": []
+        },
+        {
+            "name": "GAUNTLET 7",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "10044.9 183.339 9664.04",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 2.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "10097.4 183.355 9638.43",
+                "10133.3 149.386 9569.55",
+                "10112.6 149.373 9524.12",
+                "10123.1 149.365 9546.13"
+            ],
+            "spawnradius": 2.0,
+            "bubaknum": 4,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "ZmbM_PatrolNormal_Autumn",
+                "ZmbM_PatrolNormal_Flat",
+                "ZmbM_PatrolNormal_PautRev",
+                "ZmbM_PatrolNormal_Summer",
+                "ZmbM_SoldierNormal",
+                "ZmbM_usSoldier_Heavy_Woodland",
+                "ZmbM_usSoldier_Officer_Desert",
+                "ZmbM_usSoldier_normal_Desert",
+                "ZmbM_usSoldier_normal_Woodland"
+            ],
+            "bubakinventory": []
+        },
+        {
+            "name": "GAUNTLET 8",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "10133.7 135.347 9662.67",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 2.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "10121 135.202 9677.04",
+                "10135.5 135.374 9710.26",
+                "10155.8 135.411 9700.3",
+                "10160.3 135.411 9661.28",
+                "10150 133.328 9691.16",
+                "10130.2 134.049 9602.57",
+                "10124.7 134.205 9605.16"
+            ],
+            "spawnradius": 2.0,
+            "bubaknum": 6,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Deadfall_Creatures_Spiderskull_normal",
+                "Deadfall_Creatures_Spiderskull_small"
+            ],
+            "bubakinventory": []
         }
     ]
 }
