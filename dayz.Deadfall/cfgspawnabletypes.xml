@@ -126,6 +126,26 @@
 		<cargo preset="mixArmy" />
 		<cargo preset="mixArmy" />
 	</type>
+	<type name="AssaultBag_Winter">
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="CoyoteBag_Brown">
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="CoyoteBag_Green">
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="CoyoteBag_Winter">
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+	</type>
 	<type name="DryBag_Orange">
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsIndustrial" />
@@ -207,6 +227,10 @@
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="TortillaBag">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="TortillaBag_Winter">
 		<cargo preset="foodArmy" />
 		<cargo preset="mixArmy" />
 	</type>
@@ -398,6 +422,48 @@
 		<cargo chance="0.40"><item name="DF_FrozenWater" /></cargo>
 		<cargo chance="0.40"><item name="HuntingKnife" /></cargo>
 	</type>
+	<type name="FishingRod">
+		<attachments chance="0.35">
+			<item name="Hook" chance="0.75" />
+			<item name="Jig" chance="0.25" />
+		</attachments>
+	</type>	
+	<type name="BoonieHat_Orange">
+		<attachments chance="0.35">
+			<item name="Hook" chance="0.75" />
+			<item name="Jig" chance="0.25" />
+		</attachments>
+	</type>	
+	<type name="BoonieHat_Red">
+		<attachments chance="0.35">
+			<item name="Hook" chance="0.75" />
+			<item name="Jig" chance="0.25" />
+		</attachments>
+	</type>	
+	<type name="BoonieHat_Tan">
+		<attachments chance="0.35">
+			<item name="Hook" chance="0.75" />
+			<item name="Jig" chance="0.25" />
+		</attachments>
+	</type>	
+	<type name="BoonieHat_Olive">
+		<attachments chance="0.35">
+			<item name="Hook" chance="0.75" />
+			<item name="Jig" chance="0.25" />
+		</attachments>
+	</type>	
+	<type name="BoonieHat_Blue">
+		<attachments chance="0.35">
+			<item name="Hook" chance="0.75" />
+			<item name="Jig" chance="0.25" />
+		</attachments>
+	</type>	
+	<type name="BoonieHat_Winter">
+		<attachments chance="0.35">
+			<item name="Hook" chance="0.75" />
+			<item name="Jig" chance="0.25" />
+		</attachments>
+	</type>	
 	<type name="AirborneMask">
 		<damage min="0.0" max="0.35" />
 		<cargo chance="0.2">
@@ -567,6 +633,9 @@
 	<type name="GorkaPants_PautRev">
 		<cargo preset="mixArmy" />
 	</type>
+	<type name="GorkaPants_Winter">
+		<cargo preset="mixArmy" />
+	</type>
 	<type name="ParamedicJacket_Blue">
 		<cargo preset="toolsMedic" />
 	</type>
@@ -598,6 +667,9 @@
 		<cargo preset="mixArmy" />
 	</type>
 	<type name="USMCPants_Woodland">
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="OMKPants_Navy">
 		<cargo preset="mixArmy" />
 	</type>
 	<type name="SlacksPants_Beige">
@@ -863,6 +935,10 @@
 		<cargo preset="ammoArmy" />
 	</type>
 	<type name="GorkaEJacket_PautRev">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="GorkaEJacket_Winter">
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
 	</type>
@@ -1845,6 +1921,18 @@
 		<attachments preset="glassesVillage" />
 		<attachments preset="hatsIndustrial" />
 		<attachments preset="vestsIndustrial" />
+	</type>
+	<type name="ZmbM_Gamedev_Black">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsCity" />
+	</type>
+	<type name="ZmbM_Gamedev_Blue">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsCity" />
+	</type>
+	<type name="ZmbM_Gamedev_Gray">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsCity" />
 	</type>
 	<!-- FireFighter -->
 	<type name="ZmbM_FirefighterNormal">
