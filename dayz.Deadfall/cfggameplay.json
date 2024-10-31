@@ -5,7 +5,7 @@
 		"disableBaseDamage": false,
 		"disableContainerDamage": false,
 		"disableRespawnDialog": false,
-		"disableRespawnInUnconsciousness": true
+		"disableRespawnInUnconsciousness": false
 	},
     "PlayerData":
 	{
