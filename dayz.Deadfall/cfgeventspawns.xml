@@ -39,6 +39,7 @@
 	<event name="InfectedSkeleton" />
 	<event name="InfectedNBC" />
 	<event name="AnimalDeer" />
+	<event name="AnimalReindeer" />
 	<event name="AnimalCow" />
 	<event name="AnimalSheep" />
 	<event name="AnimalRoeDeer" />

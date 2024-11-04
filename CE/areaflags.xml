@@ -1175,5 +1175,23 @@
                 <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="7775" z="6570" r="50" d="2"/>
             </territory>
         </territory-type>
+        <territory-type name="reindeer_territories">
+            <territory name="Territory 02" visible="1" color="1521156095">
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="743.333" z="4255" r="150" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1310" z="3993.33" r="150" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="1730" z="4950" r="150" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="2593.33" z="4451.67" r="150" d="2"/>
+                <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="1770" z="3165" r="150" d="2"/>
+                <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="1890" z="3835" r="150" d="2"/>
+            </territory>
+            <territory name="Territory 01" visible="1" color="1521156095">
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="2886.67" z="1537.67" r="120" d="2"/>
+                <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="2541.33" z="2101.67" r="120" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2270.33" z="1321.67" r="120" d="2"/>
+                <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="2868.33" z="2061.33" r="120" d="2"/>
+                <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4619.33" z="2074.33" r="120" d="2"/>
+                <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2213.33" z="860" r="120" d="2"/>
+            </territory>
+        </territory-type>
     </territory-type-list>
 </zg-config>

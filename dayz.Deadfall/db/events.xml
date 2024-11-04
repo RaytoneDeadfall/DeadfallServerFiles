@@ -149,6 +149,24 @@
             <child lootmax="0" lootmin="0" max="3" min="1" type="Animal_CapreolusCapreolusF" />
         </children>
     </event>
+    <event name="AnimalReindeer">
+        <nominal>2</nominal>
+        <min>2</min>
+        <max>3</max>
+        <lifetime>180</lifetime>
+        <restock>0</restock>
+        <saferadius>200</saferadius>
+        <distanceradius>0</distanceradius>
+        <cleanupradius>0</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="Animal_RangiferTarandus"/>
+            <child lootmax="0" lootmin="0" max="3" min="1" type="Animal_RangiferTarandusF"/>
+        </children>
+    </event>
     <event name="AnimalSheep">
         <nominal>3</nominal>
         <min>2</min>
