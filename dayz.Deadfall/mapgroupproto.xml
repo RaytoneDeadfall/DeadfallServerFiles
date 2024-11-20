@@ -19487,5 +19487,18 @@
                 <point pos="2.946778 -1.439209 0.272705" range="1.008301" height="1.597408" />
         </container>
     </group>
-
+    <group name="Land_Misc_Pallet_Spawn" lootmax="1">
+        <usage name="Hunting" />
+        <container name="lootWeapons" lootmax="2">
+                <category name="weapons" />
+                <point pos="0.111456 0.067085 0.032727" range="1.1" height="0.507813" />
+        </container>
+    </group>
+    <group name="Land_Misc_WoodenCrate_Spawn" lootmax="1">
+        <usage name="Hunting" />
+        <container name="lootWeapons" lootmax="2">
+                <category name="weapons" />
+                <point pos="-0.017323 0.332375 0.012931" range="1.1" height="1.023438" />
+        </container>
+    </group>
 </prototype>
