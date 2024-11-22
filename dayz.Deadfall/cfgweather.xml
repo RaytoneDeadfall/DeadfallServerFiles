@@ -2,7 +2,7 @@
 <!-- 'reset' and 'enable' are a bool, and therefore supports: 0/1, true/false, yes/no -->
 <!-- 'reset' controls whether you want to load in the weather from storage or not (false by default) -->
 <!-- 'enable' controls whether this file is enabled or not (true by default) -->
-<weather reset="0" enable="1">
+<weather reset="1" enable="1">
     <overcast>
         <!-- Initial conditions of the overcast (target value, time to change, how long will it stay) -->
         <current actual="0.45" time="120" duration="240" />
@@ -33,7 +33,7 @@
         <!-- How much should the rain change (0..1) -->
         <changelimits min="0.0" max="1.0" />
         <!-- What range of the overcast value allows the rain to be preset (min, max overcast value, time in seconds it takes for rain to stop if the overcast is outside of the specified range) -->
-        <thresholds min="0.8" max="1.0" end="60" />
+        <thresholds min="0.9" max="1.0" end="60" />
     </rain>
     <windMagnitude>
         <!-- Initial conditions of the wind magnitude (target value, time to change, how long will it stay), restricted by thresholds (see below) -->
@@ -69,5 +69,5 @@
         <thresholds min="1.0" max="1.0" end="120" />
     </snowfall>
     <!-- Lightning density (0..1), threshold for the lightning appearance (tied to the overcast value, 0..1), time (seconds) between the lightning strikes -->
-    <storm density="1.0" threshold="0.7" timeout="25"/>
+    <storm density="1.0" threshold="0.75" timeout="25"/>
 </weather>
