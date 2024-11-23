@@ -609,7 +609,7 @@
         <children />
     </event>
     <event name="StaticAirplaneCrate">
-        <nominal>4</nominal>
+        <nominal>6</nominal>
         <min>0</min>
         <max>0</max>
         <lifetime>1800</lifetime>
@@ -623,8 +623,8 @@
         <limit>child</limit>
         <active>1</active>
         <children>
-            <child lootmax="5" lootmin="3" max="2" min="1" type="StaticObj_Misc_SupplyBox1_DE"/>
-            <child lootmax="5" lootmin="3" max="2" min="1" type="StaticObj_Misc_SupplyBox3_DE"/>
+            <child lootmax="5" lootmin="3" max="3" min="3" type="StaticObj_Misc_SupplyBox1_DE"/>
+            <child lootmax="5" lootmin="3" max="3" min="3" type="StaticObj_Misc_SupplyBox3_DE"/>
         </children>
     </event>
     <event name="StaticContaminatedArea">
