@@ -234,14 +234,16 @@
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="5" lootmin="0" max="0" min="25" type="ZmbM_PatrolNormal_Autumn" />
+            <child lootmax="5" lootmin="0" max="0" min="20" type="ZmbM_PatrolNormal_Autumn" />
             <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_PatrolNormal_Flat" />
             <child lootmax="5" lootmin="0" max="0" min="20" type="ZmbM_PatrolNormal_PautRev" />
             <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_PatrolNormal_Summer" />
             <child lootmax="5" lootmin="0" max="0" min="20" type="ZmbM_SoldierNormal" />
+            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_usSoldier_Officer_Desert" />
             <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_usSoldier_normal_Desert" />
             <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_usSoldier_normal_Woodland" />
-            <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_usSoldier_Officer_Desert" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbM_usSoldier_Heavy_Woodland" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="ZmbM_eastSoldier_Heavy_Navy"/>
         </children>
     </event>
     <event name="InfectedArmyHard">
@@ -258,15 +260,16 @@
         <limit>custom</limit>
         <active>1</active>
         <children>
-            <child lootmax="5" lootmin="0" max="0" min="23" type="ZmbM_PatrolNormal_Autumn" />
+            <child lootmax="5" lootmin="0" max="0" min="20" type="ZmbM_PatrolNormal_Autumn" />
             <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_PatrolNormal_Flat" />
             <child lootmax="5" lootmin="0" max="0" min="20" type="ZmbM_PatrolNormal_PautRev" />
             <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_PatrolNormal_Summer" />
             <child lootmax="5" lootmin="0" max="0" min="20" type="ZmbM_SoldierNormal" />
-            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbM_usSoldier_Heavy_Woodland" />
             <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_usSoldier_Officer_Desert" />
             <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_usSoldier_normal_Desert" />
             <child lootmax="5" lootmin="0" max="0" min="5" type="ZmbM_usSoldier_normal_Woodland" />
+            <child lootmax="5" lootmin="0" max="0" min="2" type="ZmbM_usSoldier_Heavy_Woodland" />
+            <child lootmax="5" lootmin="0" max="0" min="3" type="ZmbM_eastSoldier_Heavy_Navy"/>
         </children>
     </event>
     <event name="InfectedCity">
