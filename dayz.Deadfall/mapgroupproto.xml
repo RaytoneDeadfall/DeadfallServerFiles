@@ -18382,7 +18382,6 @@
     <group name="Land_MobileLaboratory" lootmax="5">
         <usage name="Military" />
         <usage name="Medic" />
-        <usage name="ContaminatedArea" />
         <container name="lootFloor" lootmax="5">
                 <category name="tools" />
                 <category name="containers" />
