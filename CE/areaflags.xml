@@ -39,6 +39,7 @@
             <value name="Tier4"/>
             <value name="Tier5"/>
             <value name="Unique"/>
+            <value name="Winter" />
         </values>
     </areas>
     <brush color="1761607424" outline="0" outline_color="2" outline_width="1" size="4"/>
@@ -60,6 +61,7 @@
         <layer usage_flags="2" value_flags="0" color="2885681407" visible="0" name="Police"/>
         <layer usage_flags="32768" value_flags="0" color="4294945535" visible="0" name="Lore"/>
         <layer usage_flags="1" value_flags="0" color="4278233600" visible="0" name="Military"/>
+        <layer usage_flags="0" value_flags="64" color="2030043135" visible="1" name="Winter"/>
     </layers>
     <!--Territories-->
     <territory-type-list>

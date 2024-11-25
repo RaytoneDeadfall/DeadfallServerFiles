@@ -2150,7 +2150,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
         <usage name="Military"/>
-        <value name="Tier3" />
+        <value name="Winter" />
     </type>
     <type name="AthleticShoes_Black">
         <nominal>0</nominal>
@@ -2676,7 +2676,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
-        <value name="Tier3" />
+        <value name="Winter" />
     </type>
     <type name="BallisticHelmet_Woodland">
         <nominal>3</nominal>
@@ -3777,7 +3777,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Hunting"/>
-        <value name="Tier3" />
+        <value name="Winter" />
     </type>
     <type name="BoxCerealCrunchin">
         <nominal>8</nominal>
@@ -5248,7 +5248,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
         <usage name="Military"/>
-        <value name="Tier3" />
+        <value name="Winter" />
     </type>
     <type name="CrabCan">
         <nominal>0</nominal>
@@ -6962,7 +6962,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <usage name="Military"/>
-        <value name="Tier3" />
+        <value name="Winter" />
     </type>
     <type name="GhillieAtt_Woodland">
         <nominal>1</nominal>
@@ -7053,7 +7053,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Military"/>
-        <value name="Tier3" />
+        <value name="Winter" />
     </type>
     <type name="GhillieHood_Woodland">
         <nominal>1</nominal>
@@ -7104,7 +7104,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Military"/>
-        <value name="Tier3" />
+        <value name="Winter" />
     </type>
     <type name="GhillieSuit_Woodland">
         <nominal>1</nominal>
@@ -7153,7 +7153,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Military"/>
-        <value name="Tier3" />
+        <value name="Winter" />
     </type>
     <type name="GhillieTop_Woodland">
         <nominal>1</nominal>
@@ -7293,7 +7293,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
-        <value name="Tier3" />
+        <value name="Winter" />
     </type>
     <!-- assault helmet -->
     <type name="GorkaHelmet">
@@ -7389,7 +7389,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Military"/>
-        <value name="Tier3" />
+        <value name="Winter" />
     </type>
     <type name="GreatHelm">
         <nominal>3</nominal>
@@ -8117,7 +8117,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Hunting" />
-        <value name="Tier3" />
+        <value name="Winter" />
     </type>
     <type name="HuntingBag">
         <nominal>3</nominal>
@@ -8214,7 +8214,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Hunting" />
-        <value name="Tier3" />
+        <value name="Winter" />
     </type>
     <type name="HuntingKnife">
         <nominal>20</nominal>
@@ -8268,7 +8268,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Hunting"/>
-        <value name="Tier3" />
+        <value name="Winter" />
     </type>
     <type name="Iceaxe">
         <nominal>0</nominal>
@@ -16249,7 +16249,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="containers"/>
         <usage name="Military"/>
-        <value name="Tier3" />
+        <value name="Winter" />
     </type>
     <type name="TrackSuitJacket_Black">
         <nominal>6</nominal>
@@ -16513,7 +16513,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Military"/>
-        <value name="Tier3" />
+        <value name="Winter" />
     </type>
     <type name="UMP45">
         <nominal>8</nominal>
