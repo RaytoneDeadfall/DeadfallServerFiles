@@ -7,13 +7,11 @@ Example messages:
 
 1) following message will be displayed to every player in countdown manner
     and shuts down server in 10 hours from its start
--->
     <message>
         <deadline>240</deadline>
         <shutdown>1</shutdown>
         <text>#name will shutdown in #tmin minutes.</text>
     </message>
-<!--
 
 2) following message will be displayed every 15 minutes to every player
 
