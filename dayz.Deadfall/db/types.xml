@@ -11443,7 +11443,7 @@
         <value name="Tier2" />
     </type>
     <type name="MountainBag_Blue">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -11454,10 +11454,9 @@
         <category name="containers" />
         <usage name="Village" />
         <value name="Tier2" />
-        <value name="Tier3" />
     </type>
     <type name="MountainBag_Green">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -11468,10 +11467,9 @@
         <category name="containers" />
         <usage name="Village" />
         <value name="Tier2" />
-        <value name="Tier3" />
     </type>
     <type name="MountainBag_Orange">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -11482,10 +11480,9 @@
         <category name="containers" />
         <usage name="Village" />
         <value name="Tier2" />
-        <value name="Tier3" />
     </type>
     <type name="MountainBag_Red">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -11496,7 +11493,6 @@
         <category name="containers" />
         <usage name="Village" />
         <value name="Tier2" />
-        <value name="Tier3" />
     </type>
     <type name="MouthRag">
         <nominal>0</nominal>
