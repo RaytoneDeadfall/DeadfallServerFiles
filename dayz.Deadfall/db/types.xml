@@ -6820,10 +6820,10 @@
     </type>
     <!-- requires filter -->
     <type name="GP5GasMask">
-        <nominal>20</nominal>
+        <nominal>15</nominal>
         <lifetime>5400</lifetime>
         <restock>300</restock>
-        <min>15</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6903,16 +6903,15 @@
         <usage name="Tunnels" />
     </type>
     <type name="GasMask_Filter">
-        <nominal>18</nominal>
-        <lifetime>1200</lifetime>
+        <nominal>15</nominal>
+        <lifetime>5400</lifetime>
         <restock>300</restock>
-        <min>12</min>
+        <min>10</min>
         <quantmin>20</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="tools" />
-        <tag name="shelves" />
         <usage name="Medic" />
         <usage name="Firefighter" />
         <value name="Tier2" />
