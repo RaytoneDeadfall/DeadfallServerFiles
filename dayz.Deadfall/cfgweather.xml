@@ -2,22 +2,22 @@
 <weather reset="1" enable="1">
     <overcast>
         <current actual="0.4" time="120" duration="240" />
-        <limits min="0.1" max="1.0" />
+        <limits min="0.1" max="0.8" />
         <timelimits min="600" max="900" />
         <changelimits min="0.0" max="0.8" />
     </overcast>
     <fog>
         <current actual="0.1" time="120" duration="240" />
-        <limits min="0.1" max="0.35" />
+        <limits min="0.05" max="0.5" />
         <timelimits min="900" max="900" />
-        <changelimits min="0.1" max="0.35" />
+        <changelimits min="0.05" max="0.5" />
     </fog>
     <rain>
         <current actual="0.0" time="120" duration="240" />
-        <limits min="0.0" max="0.4" />
+        <limits min="0.0" max="0.5" />
         <timelimits min="300" max="600" />
-        <changelimits min="0.0" max="0.4" />
-        <thresholds min="0.98" max="1.0" end="45" />
+        <changelimits min="0.0" max="0.5" />
+        <thresholds min="0.75" max="1.0" end="45" />
     </rain>
     <windMagnitude>
         <current actual="8.0" time="120" duration="240" />
@@ -38,5 +38,5 @@
         <changelimits min="0.0" max="0.0" />
         <thresholds min="1.0" max="1.0" end="120" />
     </snowfall>
-    <storm density="0.4" threshold="0.8" timeout="80"/>
+    <storm density="0.4" threshold="0.7" timeout="80"/>
 </weather>
