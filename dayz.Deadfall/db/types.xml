@@ -19877,10 +19877,10 @@
         <value name="Tier3" />
     </type>
     <type name="DF_Heatpack">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>5400</lifetime>
         <restock>1800</restock>
-        <min>3</min>
+        <min>0</min>
         <quantmin>20</quantmin>
         <quantmax>40</quantmax>
         <cost>100</cost>
