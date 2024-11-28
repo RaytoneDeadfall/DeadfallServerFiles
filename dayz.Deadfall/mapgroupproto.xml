@@ -19294,9 +19294,9 @@
             <category name="tools" />
             <category name="clothes" />
             <category name="weapons" />
-            <point pos="0.714473 0.432296 0.127776" range="0.4" height="1" />
-            <point pos="-0.071132 0.432296 0.025703" range="1" height="1" />
-            <point pos="-0.770341 0.432296 0.254931" range="0.3" height="1" />
+            <point pos="-0.127547 0.074951 -0.826052" range="0.203125" height="0.507813" />
+            <point pos="0.474334 0.432281 -0.136158" range="0.443750" height="1.109375" />
+            <point pos="-0.470391 0.432281 0.065138" range="0.512500" height="1.281250" />
         </container>
     </group>
     <group name="Land_Misc_Table_Market_Spawn" lootmax="2">
