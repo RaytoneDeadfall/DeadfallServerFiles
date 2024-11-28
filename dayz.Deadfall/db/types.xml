@@ -7173,10 +7173,10 @@
         <value name="Tier3" />
     </type>
     <type name="GlassBottle">
-        <nominal>12</nominal>
+        <nominal>8</nominal>
         <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>5</min>
         <quantmin>0</quantmin>
         <quantmax>0</quantmax>
         <cost>100</cost>
