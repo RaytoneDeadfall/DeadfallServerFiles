@@ -15136,9 +15136,9 @@
             <point pos="5.194458 3.507839 -0.667969" range="1.199951" height="2.000000" />
         </container>
     </group>
-    <group name="Land_DieselPowerPlant_Tank_Small" lootmax="3">
+    <group name="Land_DieselPowerPlant_Tank_Small" lootmax="0">
         <usage name="Industrial" />
-        <container name="lootFloor" lootmax="3">
+        <container name="lootFloor" lootmax="0">
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
