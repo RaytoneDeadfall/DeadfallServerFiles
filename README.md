@@ -13,9 +13,13 @@ to be an adventure-style map.  Base building and vehicles/helicopters are not re
 The roads have not been tested for vehicles and helicopters would allow players to see and get through 
 areas/gaps of the terrain that they are not intended to.
 
-## Additional Mods
+## Additional Mods and Configuration
 
-The following mods and profile config files are provided to enrich the overall Deadfall experience.
+The following mod profile config files are provided to enrich the overall Deadfall experience.
+
+### Use CfgGameplayFile (recommended)
+
+To enable the usage of this file, set a parameter "enableCfgGameplayFile = 1;" in your server.cfg file.
 
 ### Stargate Teleporters Complete (required)
 
