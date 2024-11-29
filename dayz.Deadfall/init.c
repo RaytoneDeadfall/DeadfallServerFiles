@@ -21,10 +21,6 @@ void main()
 		
 		GetGame().GetWorld().SetDate( year, month, day, hour, minute );
 	}
-
-	GetGame().GetWeather().SetDynVolFogDistanceDensity( 0, 0);
-	GetGame().GetWeather().SetDynVolFogHeightDensity( 0.1, 0);
-	GetGame().GetWeather().SetDynVolFogHeightBias( 150, 0);
 }
 
 class CustomMission: MissionServer
