@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<weather reset="1" enable="1">
+<weather reset="0" enable="0">
     <overcast>
         <current actual="0.4" time="120" duration="240" />
         <limits min="0.1" max="0.8" />
