@@ -7767,6 +7767,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Village" />
+        <value name="Tier1" />
+        <value name="Tier2" />
     </type>
     <type name="HikingJacket_Blue">
         <nominal>6</nominal>
@@ -7779,6 +7781,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Village" />
+        <value name="Tier1" />
+        <value name="Tier2" />
     </type>
     <type name="HikingJacket_Green">
         <nominal>6</nominal>
@@ -7791,6 +7795,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Village" />
+        <value name="Tier1" />
+        <value name="Tier2" />
     </type>
     <type name="HikingJacket_Red">
         <nominal>6</nominal>
@@ -7803,6 +7809,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Village" />
+        <value name="Tier1" />
+        <value name="Tier2" />
     </type>
     <type name="HipPack_Black">
         <nominal>3</nominal>
