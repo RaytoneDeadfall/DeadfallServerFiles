@@ -4162,7 +4162,7 @@
         <usage name="Military" />
     </type>
     <type name="CanOpener">
-        <nominal>15</nominal>
+        <nominal>20</nominal>
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>10</min>
@@ -8357,7 +8357,7 @@
         <value name="Tier1" />
     </type>
     <type name="Izh18Shotgun">
-        <nominal>8</nominal>
+        <nominal>10</nominal>
         <lifetime>5400</lifetime>
         <restock>300</restock>
         <min>5</min>
@@ -8374,7 +8374,7 @@
         <nominal>12</nominal>
         <lifetime>5400</lifetime>
         <restock>300</restock>
-        <min>6</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8402,7 +8402,7 @@
         <value name="Tier2" />
     </type>
     <type name="Jeans_Blue">
-        <nominal>5</nominal>
+        <nominal>8</nominal>
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -8574,10 +8574,10 @@
         <value name="Tier2" />
     </type>
     <type name="JumpsuitJacket_Blue">
-        <nominal>6</nominal>
+        <nominal>8</nominal>
         <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8612,10 +8612,10 @@
         <usage name="Farm" />
     </type>
     <type name="JumpsuitJacket_Red">
-        <nominal>6</nominal>
+        <nominal>8</nominal>
         <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8624,10 +8624,10 @@
         <usage name="Industrial" />
     </type>
     <type name="JumpsuitPants_Blue">
-        <nominal>6</nominal>
+        <nominal>8</nominal>
         <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8636,10 +8636,10 @@
         <usage name="Industrial" />
     </type>
     <type name="JumpsuitPants_Green">
-        <nominal>6</nominal>
+        <nominal>8</nominal>
         <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8649,10 +8649,10 @@
         <usage name="Farm" />
     </type>
     <type name="JumpsuitPants_Grey">
-        <nominal>6</nominal>
+        <nominal>8</nominal>
         <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8662,10 +8662,10 @@
         <usage name="Farm" />
     </type>
     <type name="JumpsuitPants_Red">
-        <nominal>6</nominal>
+        <nominal>8</nominal>
         <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11506,7 +11506,7 @@
         <category name="tools" />
     </type>
     <type name="Mp133Shotgun">
-        <nominal>6</nominal>
+        <nominal>8</nominal>
         <lifetime>5400</lifetime>
         <restock>300</restock>
         <min>3</min>
@@ -12018,7 +12018,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="P1">
-        <nominal>8</nominal>
+        <nominal>10</nominal>
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -15468,7 +15468,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>
     <type name="SteakKnife">
-        <nominal>25</nominal>
+        <nominal>30</nominal>
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>15</min>
@@ -16756,7 +16756,7 @@
         <category name="tools" />
     </type>
     <type name="WaterBottle">
-        <nominal>20</nominal>
+        <nominal>25</nominal>
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>10</min>
