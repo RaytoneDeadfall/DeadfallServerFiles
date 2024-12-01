@@ -72,9 +72,15 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2621103156
 There is an event named `InfectedMonster` which you can use to customize spawning a unique creature or
 mutant in the labyrinth.  To do this, simply add children to this event.  Only 1 creature will spawn by default.
 
-For example, edit the InfectedMonster event and set children elements:
+For example, set the children elements to the `InfectedMonster` event:
+
 ```
 <children>
     <child lootmax="5" lootmin="0" max="0" min="100" type="SMCS_Mutant" />
 </children>
 ```
+
+Note: You can also avoid editing mission files directly by overriding them in your own types.xml and events.xml
+files.  Doing this makes it easier to maintain your customizations.
+
+Read more: https://community.bistudio.com/wiki/DayZ:Central_Economy_mission_files_modding
