@@ -19506,17 +19506,24 @@
         </container>
     </group>
     <group name="Land_Misc_Pallet_Spawn" lootmax="1">
+        <usage name="Military" />
         <usage name="Hunting" />
-        <container name="lootWeapons" lootmax="2">
+        <container name="lootWeapons" lootmax="1">
                 <category name="weapons" />
                 <point pos="0.111456 0.067085 0.032727" range="1.1" height="0.507813" />
         </container>
     </group>
     <group name="Land_Misc_WoodenCrate_Spawn" lootmax="1">
+        <usage name="Military" />
         <usage name="Hunting" />
-        <container name="lootWeapons" lootmax="2">
-                <category name="weapons" />
-                <point pos="-0.017323 0.332375 0.012931" range="1.1" height="1.023438" />
+        <container name="loot" lootmax="1">
+            <category name="tools" />
+            <category name="clothes" />
+            <category name="weapons" />
+            <category name="explosives"/>
+            <tag name="shelves" />
+            <point pos="-0.511108 0.332373 -0.242920" range="0.134375" height="0.335938" />
+            <point pos="0.288574 0.332373 0.025391" range="0.375000" height="0.937500" />
         </container>
     </group>
 </prototype>
