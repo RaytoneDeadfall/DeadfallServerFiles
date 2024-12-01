@@ -67,7 +67,7 @@ GasMasksOnly by Crocodoc
 https://steamcommunity.com/sharedfiles/filedetails/?id=2621103156
 
 
-### Cusom Labyrinth Monsters (optional)
+### Custom Labyrinth Monsters (optional)
 
 There is an event named `InfectedMonster` which you can use to customize spawning a unique creature or
 mutant in the labyrinth.  To do this, simply add children to this event.  Only 1 creature will spawn by default.
