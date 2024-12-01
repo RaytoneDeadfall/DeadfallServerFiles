@@ -19,7 +19,8 @@ The following mod profile config files are provided to enrich the overall Deadfa
 
 ### Use CfgGameplayFile (recommended)
 
-To enable the usage of this file, set a parameter "enableCfgGameplayFile = 1;" in your server.cfg file.
+To enable the usage of this file, set a parameter "enableCfgGameplayFile = 1;" in your server.cfg file.  This
+file controls the world temperatures, which is important since Deadfall has cold zones.
 
 ### Stargate Teleporters Complete (required)
 
@@ -38,7 +39,7 @@ profiles/CBD_PortalTeleporterSystem.json
 Stargate Teleporters Complete by Chris
 https://steamcommunity.com/sharedfiles/filedetails/?id=2933015619
 
-### SpawnerBubaku (server mod only)
+### SpawnerBubaku (optional)
 
 To spawn AI in many underground and difficult-to-place areas, there is an included configuration file at
 `extras/SpawnerBubaku/SpawnerBubaku.json`.  This must be placed in your server profile directory.
@@ -49,9 +50,12 @@ For example, if your profiles directory is set to `profiles`, this file location
 profiles/SpawnerBubaku/SpawnerBubaku.json
 ```
 
+You can customize this file to spawn whatever creatures you'd like.
+
 SpawnerBubaku by Hunterz
 https://steamcommunity.com/sharedfiles/filedetails/?id=2482312670
 
+Note: This mod can be run server-side only.
 
 ### GasMasksOnly (recommended)
 
@@ -61,3 +65,16 @@ economy via `db/types.xml`.
 
 GasMasksOnly by Crocodoc
 https://steamcommunity.com/sharedfiles/filedetails/?id=2621103156
+
+
+### Cusom Labyrinth Monsters (optional)
+
+There is an event named `InfectedMonster` which you can use to customize spawning a unique creature or
+mutant in the labyrinth.  To do this, simply add children to this event.  Only 1 creature will spawn by default.
+
+For example, edit the InfectedMonster event and set children elements:
+```
+<children>
+    <child lootmax="5" lootmin="0" max="0" min="100" type="SMCS_Mutant" />
+</children>
+```
