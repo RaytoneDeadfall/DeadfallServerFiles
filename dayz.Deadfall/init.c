@@ -1,14 +1,5 @@
 void main()
 {
-	// Support Dynamic Weather Plugin mod
-	//INIT WEATHER BEFORE ECONOMY INIT------------------------
-	string weatherConfig = "$mission:weather.json";
-	if (FileExist(weatherConfig))
-	{
-		Weather weather = g_Game.GetWeather();
-		weather.MissionWeather(false);    // false = use weather controller from Weather.c
-	}
-
 	//INIT ECONOMY--------------------------------------
 	Hive ce = CreateHive();
 	if ( ce )
