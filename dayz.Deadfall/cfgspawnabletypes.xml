@@ -544,6 +544,18 @@
 	<type name="TTSKOPants">
 		<cargo preset="mixArmy" />
 	</type>
+	<type name="HuntingVest">
+		<cargo preset="mixHunter" />
+		<attachments chance="0.35">
+			<item name="Hook" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="HuntingVest_Winter">
+		<cargo preset="mixHunter" />
+		<attachments chance="0.35">
+			<item name="Hook" chance="1.0" />
+		</attachments>
+	</type>
 	<type name="HuntingJacket_Autumn">
 		<cargo preset="mixHunter" />
 	</type>
@@ -1341,7 +1353,7 @@
 		<attachments preset="hatsArmy" />
 		<attachments preset="vestsArmy" />
 	</type>
-	
+
 	<!-- City -->
 	<type name="ZmbF_Clerk_Normal_Blue">
 		<cargo preset="foodCity" />

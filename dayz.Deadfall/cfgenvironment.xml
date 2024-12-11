@@ -63,7 +63,7 @@
 			</agent>
 			<item name="zoneTouchDisableEditPeriodSec" val="300" />
 		</territory>
-		
+
 		<!-- FOX -->
 		<territory type="Ambient" name="AmbientFox" behavior="DZAmbientLifeGroupBeh">
 			<file usable="fox_territories" />
