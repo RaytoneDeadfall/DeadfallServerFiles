@@ -20038,20 +20038,40 @@
         <lifetime>900</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>
+    <type name="Deadfall_Creatures_Skeleton_1_Head">
+        <lifetime>5400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
     <type name="Deadfall_Creatures_Skeleton_2">
         <lifetime>900</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="Deadfall_Creatures_Skeleton_2_Head">
+        <lifetime>5400</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>
     <type name="Deadfall_Creatures_Skeleton_3">
         <lifetime>900</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>
+    <type name="Deadfall_Creatures_Skeleton_3_Head">
+        <lifetime>5400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
     <type name="Deadfall_Creatures_Skeleton_4">
         <lifetime>900</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>
+    <type name="Deadfall_Creatures_Skeleton_4_Head">
+        <lifetime>5400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
     <type name="Deadfall_Creatures_Skeleton_5">
         <lifetime>900</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="Deadfall_Creatures_Skeleton_5_Head">
+        <lifetime>5400</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>
 
