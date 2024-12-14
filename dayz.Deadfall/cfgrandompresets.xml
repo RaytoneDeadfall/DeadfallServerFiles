@@ -115,6 +115,7 @@
 		<item name="CombatKnife" chance="0.05" />
 		<item name="Morphine" chance="0.05" />
 		<item name="BandageDressing" chance="0.05" />
+		<item name="GasMask_Filter" chance="0.03" />
 	</cargo>
 	<cargo chance="0.15" name="toolsHunter">
 		<item name="Paper" chance="0.1" />
