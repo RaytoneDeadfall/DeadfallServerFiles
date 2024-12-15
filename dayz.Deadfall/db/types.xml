@@ -2282,7 +2282,7 @@
         <usage name="Town" />
     </type>
     <type name="B95">
-        <nominal>6</nominal>
+        <nominal>5</nominal>
         <lifetime>5400</lifetime>
         <restock>1800</restock>
         <min>3</min>
@@ -9427,6 +9427,7 @@
         <category name="weapons" />
         <usage name="Farm" />
         <usage name="Hunting" />
+        <value name="Tier1" />
         <value name="Tier2" />
     </type>
     <type name="LugWrench">
@@ -10262,19 +10263,17 @@
         <usage name="Police" />
     </type>
     <type name="Mag_IJ70_8Rnd">
-        <nominal>20</nominal>
+        <nominal>12</nominal>
         <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>8</min>
         <quantmin>10</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
-        <usage name="Town" />
         <usage name="Village" />
         <value name="Tier1" />
-        <value name="Tier2" />
     </type>
     <type name="Mag_M14_10Rnd">
         <nominal>3</nominal>
@@ -10593,20 +10592,18 @@
         <value name="Tier2" />
     </type>
     <type name="MakarovIJ70">
-        <nominal>20</nominal>
+        <nominal>12</nominal>
         <lifetime>5400</lifetime>
         <restock>300</restock>
-        <min>10</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
         <tag name="shelves" />
-        <usage name="Town" />
         <usage name="Village" />
         <value name="Tier1" />
-        <value name="Tier2" />
     </type>
     <type name="ManSuit_Beige">
         <nominal>3</nominal>
@@ -11274,6 +11271,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="snipers" />
+        <value name="Tier1" />
+        <value name="Tier2" />
     </type>
     <type name="Mosin9130_Camo">
         <nominal>0</nominal>
@@ -12029,7 +12028,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="P1">
-        <nominal>10</nominal>
+        <nominal>8</nominal>
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>5</min>
@@ -12041,7 +12040,6 @@
         <usage name="Police" />
         <usage name="Town" />
         <value name="Tier1" />
-        <value name="Tier2" />
     </type>
     <type name="PP19">
         <nominal>4</nominal>
@@ -14214,7 +14212,7 @@
         <category name="food" />
     </type>
     <type name="Scout">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>5400</lifetime>
         <restock>1800</restock>
         <min>2</min>
@@ -14248,6 +14246,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="snipers" />
+        <value name="Tier1" />
+        <value name="Tier2" />
     </type>
     <type name="Screwdriver">
         <nominal>20</nominal>
@@ -16893,10 +16893,10 @@
         <usage name="Coast" />
     </type>
     <type name="WeaponCleaningKit">
-        <nominal>15</nominal>
+        <nominal>10</nominal>
         <lifetime>5400</lifetime>
         <restock>300</restock>
-        <min>10</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16906,7 +16906,6 @@
         <usage name="Police" />
         <usage name="Hunting" />
         <value name="Tier2" />
-        <value name="Tier3" />
     </type>
     <type name="WeldingMask">
         <nominal>15</nominal>
@@ -19654,10 +19653,10 @@
         <value name="Tier5" />
     </type>
     <type name="DF_WeaponCleaningKit">
-        <nominal>3</nominal>
+        <nominal>5</nominal>
         <lifetime>5400</lifetime>
         <restock>300</restock>
-        <min>1</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -19665,7 +19664,7 @@
         <category name="tools" />
         <usage name="Village" />
         <usage name="Hunting" />
-        <value name="Tier3" />
+        <value name="Winter" />
     </type>
     <type name="DF_WoodenCrate">
         <nominal>1</nominal>
@@ -19677,8 +19676,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="containers" />
-        <usage name="Historical" />
-        <value name="Tier4" />
+        <usage name="Hunting" />
+        <value name="Winter" />
     </type>
     <type name="DF_CargoPants">
         <nominal>1</nominal>

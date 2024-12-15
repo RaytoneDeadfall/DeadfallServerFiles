@@ -15486,7 +15486,6 @@
     </group>
     <group name="Land_Ruin_HouseSmall1">
         <usage name="Village" />
-        <usage name="Hunting" />
         <container name="lootFloor" lootmax="2">
             <category name="tools" />
             <category name="containers" />
@@ -15505,7 +15504,6 @@
     </group>
     <group name="Land_Ruin_HouseSmall1_NoIvy">
         <usage name="Village" />
-        <usage name="Hunting" />
         <container name="lootFloor" lootmax="2">
             <category name="tools" />
             <category name="containers" />
@@ -15524,7 +15522,6 @@
     </group>
     <group name="Land_Ruin_HouseSmall2">
         <usage name="Village" />
-        <usage name="Hunting" />
         <container name="lootFloor" lootmax="2">
             <category name="tools" />
             <category name="containers" />
@@ -15578,7 +15575,6 @@
     </group>
     <group name="Land_Ruin_HouseSmall2_NoIvy">
         <usage name="Village" />
-        <usage name="Hunting" />
         <container name="lootFloor" lootmax="2">
             <category name="tools" />
             <category name="containers" />
@@ -15632,7 +15628,6 @@
     </group>
     <group name="Land_Ruin_Church2">
         <usage name="Village" />
-        <usage name="Hunting" />
         <container name="lootFloor" lootmax="2">
             <category name="tools" />
             <category name="containers" />
@@ -15662,7 +15657,6 @@
     </group>
     <group name="Land_Ruin_Church2_NoIvy">
         <usage name="Village" />
-        <usage name="Hunting" />
         <container name="lootFloor" lootmax="2">
             <category name="tools" />
             <category name="containers" />
@@ -15713,7 +15707,6 @@
     </group>
     <group name="Land_Ruin_HouseBig1">
         <usage name="Village" />
-        <usage name="Hunting" />
         <container name="lootFloor" lootmax="3">
             <category name="tools" />
             <category name="containers" />
@@ -15761,7 +15754,6 @@
     </group>
     <group name="Land_Ruin_HouseBig1_NoIvy">
         <usage name="Village" />
-        <usage name="Hunting" />
         <container name="lootFloor" lootmax="3">
             <category name="tools" />
             <category name="containers" />
@@ -15809,7 +15801,6 @@
     </group>
     <group name="Land_Ruin_HouseBig1_Half">
         <usage name="Village" />
-        <usage name="Hunting" />
         <container name="lootFloor" lootmax="3">
             <category name="tools" />
             <category name="containers" />
@@ -15846,7 +15837,6 @@
     </group>
     <group name="Land_Ruin_HouseBig1_NoIvy_Half">
         <usage name="Village" />
-        <usage name="Hunting" />
         <container name="lootFloor" lootmax="3">
             <category name="tools" />
             <category name="containers" />
@@ -15883,7 +15873,6 @@
     </group>
     <group name="Land_Ruin_HouseBig2" lootmax="15">
         <usage name="Village" />
-        <usage name="Hunting" />
         <container name="lootFloor" lootmax="4">
             <category name="tools" />
             <category name="containers" />
@@ -15962,7 +15951,6 @@
     </group>
     <group name="Land_Ruin_HouseBig2_NoIvy" lootmax="15">
         <usage name="Village" />
-        <usage name="Hunting" />
         <container name="lootFloor" lootmax="4">
             <category name="tools" />
             <category name="containers" />
@@ -16041,7 +16029,6 @@
     </group>
     <group name="Land_Ruin_HouseBig2_Half" lootmax="4">
         <usage name="Village" />
-        <usage name="Hunting" />
         <container name="lootFloor" lootmax="2">
             <category name="tools" />
             <category name="containers" />
@@ -16079,7 +16066,6 @@
     </group>
     <group name="Land_Ruin_HouseBig2_NoIvy_Half" lootmax="4">
         <usage name="Village" />
-        <usage name="Hunting" />
         <container name="lootFloor" lootmax="2">
             <category name="tools" />
             <category name="containers" />
@@ -16117,7 +16103,6 @@
     </group>
     <group name="Land_Ruin_HouseBig3" lootmax="10">
         <usage name="Village" />
-        <usage name="Hunting" />
         <container name="lootFloor" lootmax="4">
             <category name="tools" />
             <category name="containers" />
@@ -16171,7 +16156,6 @@
     </group>
     <group name="Land_Ruin_HouseBig3_NoIvy" lootmax="10">
         <usage name="Village" />
-        <usage name="Hunting" />
         <container name="lootFloor" lootmax="4">
             <category name="tools" />
             <category name="containers" />
@@ -16225,7 +16209,6 @@
     </group>
     <group name="Land_Ruin_HouseBig3_Half">
         <usage name="Village" />
-        <usage name="Hunting" />
         <container name="lootFloor">
             <category name="tools" />
             <category name="containers" />
@@ -16268,7 +16251,6 @@
     </group>
     <group name="Land_Ruin_HouseBig3_NoIvy_Half">
         <usage name="Village" />
-        <usage name="Hunting" />
         <container name="lootFloor">
             <category name="tools" />
             <category name="containers" />
