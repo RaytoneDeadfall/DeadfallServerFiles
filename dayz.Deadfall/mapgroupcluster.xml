@@ -1329,13 +1329,13 @@
     <group name="PiceaAbies_3d" pos="605.591858 227.164459 8405.685547" a="62.999996" />
     <group name="PathR10" pos="632.899231 217.460007 8437.681641" a="127.654907" />
     <group name="FagusSylvatica_fallen" pos="636.526001 218.094528 8466.490234" a="118.799973" />
-    <group name="FagusSylvatica_fallenB" pos="630.588989 218.115311 8447.599609" a="152.999985" />
     <group name="FagusSylvatica_fallenB" pos="638.857971 218.115311 8451.089844" a="-45.000000" />
+    <group name="FagusSylvatica_fallenB" pos="630.588989 218.115311 8447.599609" a="152.999985" />
     <group name="FagusSylvatica_fallenB" pos="622.166992 218.115311 8459.379883" a="-107.999992" />
     <group name="FagusSylvatica_fallenB" pos="618.341003 218.115311 8451.290039" a="45.000000" />
-    <group name="Haybale" pos="630.538269 218.132233 8458.391602" a="141.498276" />
     <group name="Haybale" pos="633.215332 218.132233 8456.785156" a="-164.810989" />
     <group name="Haybale" pos="633.144531 218.240234 8459.542969" a="141.497620" />
+    <group name="Haybale" pos="630.538269 218.132233 8458.391602" a="141.498276" />
     <group name="Haybale" pos="631.100098 218.132233 8513.054688" a="121.413231" />
     <group name="Haybale" pos="636.831970 218.154129 8540.955078" a="137.824173" />
     <group name="Haybale" pos="634.290833 218.264343 8542.059570" a="141.497620" />
@@ -1483,9 +1483,9 @@
     <group name="PiceaAbies_fallene" pos="647.437500 162.035019 8014.658203" a="95.000008" />
     <group name="PiceaAbies_3d" pos="658.059998 226.636719 8408.955078" a="90.000000" />
     <group name="FagusSylvatica_stumpB" pos="646.914001 218.421677 8472.360352" a="72.000000" />
-    <group name="FagusSylvatica_fallenB" pos="642.872986 218.115311 8468.669922" a="36.000000" />
-    <group name="FagusSylvatica_fallenB" pos="642.237976 218.115311 8453.929688" a="107.999992" />
     <group name="FagusSylvatica_fallenB" pos="640.166016 218.115311 8471.669922" a="-8.999904" />
+    <group name="FagusSylvatica_fallenB" pos="642.237976 218.115311 8453.929688" a="107.999992" />
+    <group name="FagusSylvatica_fallenB" pos="642.872986 218.115311 8468.669922" a="36.000000" />
     <group name="Haybale" pos="659.127625 218.240234 8509.195313" a="141.497620" />
     <group name="Haybale" pos="644.741699 218.132233 8490.669922" a="-138.994354" />
     <group name="Haybale" pos="643.017029 218.240234 8530.199219" a="141.497620" />
@@ -2143,8 +2143,8 @@
     <group name="FagusSylvatica_stumpB" pos="845.937256 158.831665 8149.265137" a="125.508339" />
     <group name="FagusSylvatica_fallenB" pos="846.128662 158.456955 8136.064453" a="-122.892715" />
     <group name="FagusSylvatica_fallenB" pos="841.556824 158.410568 8136.611816" a="123.120506" />
-    <group name="FagusSylvatica_fallenB" pos="845.527954 158.318802 8129.597168" a="-150.903687" />
     <group name="FagusSylvatica_fallenB" pos="848.456482 158.274124 8133.727051" a="-132.169815" />
+    <group name="FagusSylvatica_fallenB" pos="845.527954 158.318802 8129.597168" a="-150.903687" />
     <group name="FagusSylvatica_fallenB" pos="841.142883 158.283768 8127.106934" a="164.397522" />
     <group name="BetulaPendula_fallen" pos="850.437500 174.593430 8349.658203" a="170.999985" />
     <group name="BetulaPendula_fallen" pos="847.437500 175.487518 8375.658203" a="84.999992" />
@@ -2604,9 +2604,9 @@
     <group name="Stones" pos="1037.731445 160.252945 5100.287109" a="167.593811" />
     <group name="BetulaPendula_fallen" pos="1029.712891 160.722565 5085.873047" a="-43.199997" />
     <group name="FagusSylvatica_fallenC" pos="1019.668884 160.845627 5092.053223" a="-101.406303" />
-    <group name="FagusSylvatica_fallenB" pos="1022.568298 160.895370 5195.037109" a="-63.000000" />
     <group name="FagusSylvatica_fallenB" pos="1012.788147 160.895218 5188.346680" a="-8.999904" />
     <group name="FagusSylvatica_fallenB" pos="1000.098145 160.895294 5187.976563" a="-45.000000" />
+    <group name="FagusSylvatica_fallenB" pos="1022.568298 160.895370 5195.037109" a="-63.000000" />
     <group name="PiceaAbies_fallene" pos="1033.727173 160.918671 5207.426758" a="152.999985" />
     <group name="BetulaPendula_fallen" pos="1016.728455 160.722565 5204.346680" a="-90.000000" />
     <group name="FagusSylvatica_fallenB" pos="1021.698547 160.895142 5200.687500" a="-80.999992" />
@@ -2622,9 +2622,9 @@
     <group name="PiceaAbies_fallene" pos="1003.861694 364.700226 5834.854980" a="-21.756695" />
     <group name="PiceaAbies_stumpc" pos="1001.540527 355.410217 5842.497559" a="111.985695" />
     <group name="BetulaPendula_fallen" pos="1033.828125 128.886948 6507.601563" a="32.999992" />
-    <group name="Stones" pos="1007.296875 101.043144 6624.731934" a="124.999985" />
-    <group name="Stones" pos="1035.750000 101.408859 6634.189453" a="-173.000015" />
     <group name="Stones" pos="1039.750000 101.426270 6636.189453" a="25.999998" />
+    <group name="Stones" pos="1035.750000 101.408859 6634.189453" a="-173.000015" />
+    <group name="Stones" pos="1007.296875 101.043144 6624.731934" a="124.999985" />
     <group name="Stones" pos="1037.750000 101.446556 6635.189453" a="30.999996" />
     <group name="Stones" pos="1028.296875 92.863220 6671.731934" a="-17.000002" />
     <group name="Stones" pos="1017.750000 100.435333 6641.189453" a="-164.000000" />
@@ -2715,10 +2715,10 @@
     <group name="BetulaPendula_fallen" pos="1069.143188 160.722626 5085.583008" a="55.800297" />
     <group name="Stones" pos="1072.945190 160.252945 5192.110840" a="135.999969" />
     <group name="BetulaPendula_fallen" pos="1073.487183 160.722229 5197.497070" a="90.000000" />
-    <group name="FagusSylvatica_fallenB" pos="1043.286987 160.895370 5178.556641" a="17.999998" />
-    <group name="FagusSylvatica_fallenB" pos="1071.387085 160.895004 5194.247070" a="180.000000" />
-    <group name="FagusSylvatica_fallenB" pos="1061.557007 160.895081 5186.957031" a="72.000000" />
     <group name="FagusSylvatica_fallenB" pos="1077.917114 160.895554 5182.006836" a="45.000000" />
+    <group name="FagusSylvatica_fallenB" pos="1071.387085 160.895004 5194.247070" a="180.000000" />
+    <group name="FagusSylvatica_fallenB" pos="1043.286987 160.895370 5178.556641" a="17.999998" />
+    <group name="FagusSylvatica_fallenB" pos="1061.557007 160.895081 5186.957031" a="72.000000" />
     <group name="PiceaAbies_fallene" pos="1061.496948 160.916641 5202.426758" a="-162.000046" />
     <group name="PiceaAbies_fallene" pos="1047.337036 160.916824 5205.107422" a="-107.999992" />
     <group name="FagusSylvatica_fallenB" pos="1046.117065 160.895126 5201.306641" a="-135.000000" />
@@ -2852,8 +2852,8 @@
     <group name="PiceaAbies_fallene" pos="1118.140625 184.447464 8770.341797" a="107.999992" />
     <group name="PiceaAbies_fallene" pos="1119.140625 180.413696 8793.341797" a="71.000000" />
     <group name="BetulaPendula_fallen" pos="1104.680054 164.991318 9061.459961" a="99.000015" />
-    <group name="BetulaPendula_fallen" pos="1100.500000 164.953094 9052.669922" a="-117.000000" />
     <group name="BetulaPendula_fallen" pos="1116.589966 164.635620 9064.759766" a="-45.000000" />
+    <group name="BetulaPendula_fallen" pos="1100.500000 164.953094 9052.669922" a="-117.000000" />
     <group name="PiceaAbies_stumpc" pos="1105.780151 164.782333 9062.799805" a="90.000000" />
     <group name="FagusSylvatica_stumpC" pos="1104.410034 164.555450 9050.399414" a="90.000000" />
     <group name="PathR30" pos="1114.678101 164.623886 9102.143555" a="2.172435" />
@@ -2861,9 +2861,9 @@
     <group name="PiceaAbies_fallene" pos="1108.469971 164.942749 9107.219727" a="125.999809" />
     <group name="BetulaPendula_fallen" pos="1092.849976 164.696884 9116.750000" a="89.999985" />
     <group name="FagusSylvatica_stumpB" pos="1103.199951 165.643311 9086.459961" a="-0.000003" />
-    <group name="FagusSylvatica_fallenB" pos="1092.949951 165.386993 9099.200195" a="-8.999904" />
     <group name="FagusSylvatica_fallenB" pos="1086.380005 165.461319 9097.440430" a="115.200081" />
     <group name="FagusSylvatica_fallenB" pos="1085.989990 165.545212 9103.700195" a="54.000095" />
+    <group name="FagusSylvatica_fallenB" pos="1092.949951 165.386993 9099.200195" a="-8.999904" />
     <group name="BetulaPendula_fallen" pos="1123.218384 400.472534 315.236420" a="30.348055" />
     <group name="BetulaPendula_stump" pos="1122.543579 401.503937 311.101196" a="-108.651825" />
     <group name="FagusSylvatica_stumpC" pos="1120.227661 400.361206 314.079163" a="-172.651947" />
@@ -3435,11 +3435,11 @@
     <group name="PathD30" pos="1301.695435 119.633263 6849.450684" a="104.876762" />
     <group name="PathD30" pos="1294.705078 111.907181 6880.691406" a="96.766541" />
     <group name="PathD30" pos="1290.749023 106.859779 6911.930664" a="98.973511" />
-    <group name="Stones" pos="1302.750000 99.331055 6948.189453" a="54.999992" />
-    <group name="Stones" pos="1289.296875 97.872238 6952.731934" a="-19.999998" />
-    <group name="Stones" pos="1294.750000 96.670204 6955.189453" a="51.000000" />
-    <group name="Stones" pos="1284.296875 101.018089 6925.731934" a="31.000000" />
     <group name="Stones" pos="1303.718750 101.036827 6931.152832" a="-58.000004" />
+    <group name="Stones" pos="1284.296875 101.018089 6925.731934" a="31.000000" />
+    <group name="Stones" pos="1289.296875 97.872238 6952.731934" a="-19.999998" />
+    <group name="Stones" pos="1302.750000 99.331055 6948.189453" a="54.999992" />
+    <group name="Stones" pos="1294.750000 96.670204 6955.189453" a="51.000000" />
     <group name="PathD_7100" pos="1309.835571 102.885788 7102.312012" a="36.545399" />
     <group name="PathD_7100" pos="1299.590576 101.662857 7094.349121" a="47.374313" />
     <group name="Stones" pos="1312.718750 103.608383 7094.152832" a="-0.000003" />
@@ -3798,8 +3798,8 @@
     <group name="PiceaAbies_fallend" pos="1407.203125 198.740128 2264.913086" a="98.999962" />
     <group name="PiceaAbies_stumpc" pos="1417.203125 183.758255 2396.913086" a="97.000000" />
     <group name="FagusSylvatica_fallenB" pos="1426.203125 179.611603 2438.913086" a="-174.000000" />
-    <group name="PiceaAbies_fallene" pos="1430.203125 175.877792 2467.913086" a="161.999985" />
     <group name="PiceaAbies_fallene" pos="1404.203125 175.307785 2472.913086" a="166.000000" />
+    <group name="PiceaAbies_fallene" pos="1430.203125 175.877792 2467.913086" a="161.999985" />
     <group name="FagusSylvatica_fallenB" pos="1427.203125 175.147324 2506.913086" a="54.999992" />
     <group name="PiceaAbies_stumpc" pos="1414.203125 174.904785 2512.913086" a="12.999999" />
     <group name="PiceaAbies_fallend" pos="1432.203125 174.462524 2536.913086" a="-68.000008" />
@@ -4626,9 +4626,9 @@
     <group name="BetulaPendula_fallen" pos="1628.046875 140.901413 7797.996582" a="113.999985" />
     <group name="BetulaPendula_fallen" pos="1628.644043 129.414398 7824.638672" a="-121.000031" />
     <group name="Haybale" pos="1623.333130 113.981567 7942.029297" a="141.498001" />
-    <group name="Haybale" pos="1639.858154 113.197624 7932.330078" a="141.498001" />
-    <group name="Haybale" pos="1622.057251 113.917557 7940.802734" a="141.498398" />
     <group name="Haybale" pos="1639.428711 113.149704 7934.771484" a="169.225403" />
+    <group name="Haybale" pos="1622.057251 113.917557 7940.802734" a="141.498398" />
+    <group name="Haybale" pos="1639.858154 113.197624 7932.330078" a="141.498001" />
     <group name="PiceaAbies_fallene" pos="1610.640625 163.624527 8366.825195" a="-148.999985" />
     <group name="Stones" pos="1635.640625 168.336212 8380.825195" a="101.999969" />
     <group name="Haybale" pos="1628.140259 166.665665 8447.904297" a="52.746792" />
@@ -5039,11 +5039,11 @@
     <group name="BetulaPendula_fallen" pos="1734.046875 129.702484 7884.996582" a="-28.000000" />
     <group name="BetulaPendula_fallen" pos="1727.046875 130.782669 8034.996582" a="108.999985" />
     <group name="Haybale" pos="1743.375000 135.746597 8068.502930" a="141.498398" />
-    <group name="Haybale" pos="1733.562500 137.771103 8105.439453" a="-88.673508" />
     <group name="Haybale" pos="1720.531250 135.651535 8096.913574" a="141.498398" />
-    <group name="Haybale" pos="1758.500000 140.833405 8114.406250" a="141.498398" />
+    <group name="Haybale" pos="1733.562500 137.771103 8105.439453" a="-88.673508" />
     <group name="Haybale" pos="1758.154053 138.728134 8089.870117" a="-143.462631" />
     <group name="Haybale" pos="1726.720581 134.518906 8081.315918" a="-47.162724" />
+    <group name="Haybale" pos="1758.500000 140.833405 8114.406250" a="141.498398" />
     <group name="Stones" pos="1753.435791 169.570480 8411.076172" a="-86.999985" />
     <group name="PiceaAbies_fallene" pos="1736.718750 165.039246 8470.928711" a="-97.000000" />
     <group name="BetulaPendula_fallen" pos="1756.718750 158.003555 8500.928711" a="147.999985" />
@@ -5191,14 +5191,14 @@
     <group name="Stones" pos="1784.734375 46.301468 9060.767578" a="124.999985" />
     <group name="Stones" pos="1767.734375 67.358788 9062.767578" a="-14.000004" />
     <group name="Stones" pos="1799.187500 35.273163 9058.224609" a="4.000001" />
-    <group name="Stones" pos="1777.156250 92.310028 9084.187500" a="129.999985" />
     <group name="Stones" pos="1785.734375 99.912148 9099.767578" a="-113.000000" />
-    <group name="Stones" pos="1792.734375 94.045227 9090.767578" a="130.999969" />
     <group name="Stones" pos="1761.734375 101.664612 9090.767578" a="38.999992" />
-    <group name="PathR10" pos="1782.891113 103.728165 9142.730469" a="135.278564" />
+    <group name="Stones" pos="1777.156250 92.310028 9084.187500" a="129.999985" />
+    <group name="Stones" pos="1792.734375 94.045227 9090.767578" a="130.999969" />
     <group name="PathR10" pos="1795.252808 101.840157 9133.802734" a="163.243652" />
     <group name="PathR10" pos="1778.334717 109.786499 9148.787109" a="-52.241993" />
     <group name="PathR10" pos="1789.842651 104.029572 9137.084961" a="-32.260098" />
+    <group name="PathR10" pos="1782.891113 103.728165 9142.730469" a="135.278564" />
     <group name="PathR30" pos="1769.679199 109.439644 9165.629883" a="113.591400" />
     <group name="PathR10" pos="1762.562012 127.223709 9279.243164" a="-142.104660" />
     <group name="PathR30" pos="1798.668091 126.607689 9311.391602" a="-139.863297" />
@@ -5310,18 +5310,18 @@
     <group name="Stones" pos="1836.752930 172.724777 8422.928711" a="-86.999985" />
     <group name="Stones" pos="1834.218750 91.963791 8666.253906" a="110.000008" />
     <group name="Stones" pos="1835.218750 92.488495 8665.253906" a="-18.000002" />
-    <group name="Stones" pos="1804.218750 100.181747 8663.253906" a="21.999996" />
     <group name="Stones" pos="1819.734375 102.361702 8648.767578" a="-1.000004" />
     <group name="Stones" pos="1814.218750 102.782951 8646.253906" a="34.999996" />
+    <group name="Stones" pos="1804.218750 100.181747 8663.253906" a="21.999996" />
     <group name="Stones" pos="1818.437500 73.643517 8702.462891" a="41.999992" />
     <group name="Stones" pos="1801.156250 95.645874 8682.187500" a="-56.000000" />
     <group name="Stones" pos="1803.156250 92.822418 8689.187500" a="-88.999992" />
     <group name="Stones" pos="1822.734375 83.493660 8684.767578" a="-78.000000" />
     <group name="Stones" pos="1833.734375 40.019817 9073.767578" a="57.999996" />
     <group name="Stones" pos="1815.437500 100.684555 9117.462891" a="138.999985" />
-    <group name="Stones" pos="1835.734375 101.233566 9131.767578" a="161.000000" />
-    <group name="Stones" pos="1810.734375 101.164551 9125.767578" a="149.000015" />
     <group name="Stones" pos="1802.734375 101.312813 9123.767578" a="-121.000015" />
+    <group name="Stones" pos="1810.734375 101.164551 9125.767578" a="149.000015" />
+    <group name="Stones" pos="1835.734375 101.233566 9131.767578" a="161.000000" />
     <group name="Stones" pos="1819.203125 126.292068 9311.873047" a="-30.000002" />
     <group name="PathR30" pos="1821.693115 126.691086 9327.588867" a="29.891827" />
     <group name="PathR10" pos="1838.788574 126.277245 9337.665039" a="33.064068" />
@@ -5786,11 +5786,11 @@
     <group name="PiceaAbies_2d" pos="1962.005981 187.521332 6623.911133" a="90.000000" />
     <group name="FagusSylvatica_3d" pos="1980.681152 158.187225 6824.232422" a="90.000000" />
     <group name="FagusSylvatica_3d" pos="1981.851318 165.509232 6844.919434" a="90.000000" />
-    <group name="Haybale" pos="1976.894897 156.462311 6928.311523" a="-44.011162" />
     <group name="Haybale" pos="1982.619629 156.462311 6930.987305" a="29.986345" />
+    <group name="Haybale" pos="1987.848999 156.462311 6930.294922" a="91.608002" />
     <group name="Haybale" pos="1980.955200 156.592102 6930.826660" a="-170.032959" />
     <group name="Haybale" pos="1989.310303 156.592102 6930.890137" a="-170.032959" />
-    <group name="Haybale" pos="1987.848999 156.462311 6930.294922" a="91.608002" />
+    <group name="Haybale" pos="1976.894897 156.462311 6928.311523" a="-44.011162" />
     <group name="PiceaAbies_fallene" pos="1993.046875 174.813248 7149.996582" a="-54.000004" />
     <group name="BetulaPendula_fallen" pos="1978.046875 176.621780 7155.996582" a="49.999996" />
     <group name="Stones" pos="1961.046875 180.048813 7170.996582" a="-119.000000" />
@@ -6135,8 +6135,8 @@
     <group name="Stones" pos="2103.187500 184.282440 7905.067383" a="171.999985" />
     <group name="PiceaAbies_fallene" pos="2090.046875 135.846420 8027.996582" a="-77.000000" />
     <group name="Stones" pos="2084.046875 133.166672 8046.996582" a="-79.999985" />
-    <group name="PathDCurve" pos="2118.940918 179.857773 8473.074219" a="20.530991" />
     <group name="PathDCurve" pos="2115.593750 179.983795 8474.281250" a="24.240694" />
+    <group name="PathDCurve" pos="2118.940918 179.857773 8473.074219" a="20.530991" />
     <group name="BetulaPendula_fallen" pos="2114.549316 180.108505 8447.335938" a="-166.520691" />
     <group name="BetulaPendula_stump" pos="2116.428955 181.089584 8440.906250" a="-66.733070" />
     <group name="BetulaPendula_fallen" pos="2091.959229 108.191658 8673.571289" a="160.633606" />
@@ -6605,11 +6605,11 @@
     <group name="PiceaAbies_fallene" pos="2241.375000 151.113327 4535.054199" a="45.000000" />
     <group name="FagusSylvatica_fallenB" pos="2241.375000 150.693497 4531.054199" a="-171.999985" />
     <group name="PiceaAbies_fallend" pos="2262.810547 226.675232 4668.387207" a="-111.706787" />
+    <group name="Stones" pos="2268.460449 224.959946 4690.850586" a="-85.857445" />
     <group name="Stones" pos="2256.662842 224.391510 4682.650391" a="-67.680000" />
     <group name="Stones" pos="2266.660889 224.914932 4705.788574" a="90.000000" />
-    <group name="Stones" pos="2251.370361 170.368942 4683.596680" a="90.000000" />
     <group name="Stones" pos="2247.467773 224.746658 4684.106934" a="90.000000" />
-    <group name="Stones" pos="2268.460449 224.959946 4690.850586" a="-85.857445" />
+    <group name="Stones" pos="2251.370361 170.368942 4683.596680" a="90.000000" />
     <group name="PiceaAbies_fallend" pos="2263.518799 226.451233 4729.351563" a="138.454803" />
     <group name="Stones" pos="2256.407715 162.968933 4798.384277" a="90.000000" />
     <group name="Stones" pos="2245.854492 161.230942 4832.162109" a="90.000000" />
@@ -7101,9 +7101,9 @@
     <group name="PlumTree1" pos="2372.675049 127.826782 6634.432617" a="90.000000" />
     <group name="PearTree1" pos="2362.585693 188.084473 6684.181152" a="90.000000" />
     <group name="AppleTree3" pos="2384.310059 166.035278 6851.779785" a="143.999985" />
-    <group name="PathRCurve" pos="2382.613525 159.684341 6862.463379" a="152.038208" />
-    <group name="PathRCurve" pos="2376.215820 159.710007 6862.839355" a="1.787185" />
     <group name="PathRCurve" pos="2365.913818 159.703751 6865.382813" a="166.995834" />
+    <group name="PathRCurve" pos="2376.215820 159.710007 6862.839355" a="1.787185" />
+    <group name="PathRCurve" pos="2382.613525 159.684341 6862.463379" a="152.038208" />
     <group name="PathR10" pos="2391.204346 159.680725 6857.898926" a="-16.249575" />
     <group name="PathR10" pos="2375.347168 159.709351 6869.354492" a="-45.126083" />
     <group name="BetulaPendula_stump" pos="2383.840088 159.936996 6954.359863" a="90.000000" />
@@ -7733,8 +7733,8 @@
     <group name="PiceaAbies_fallene" pos="2595.666260 121.148529 2193.175537" a="112.999962" />
     <group name="FagusSylvatica_fallenC" pos="2596.666260 121.016060 2198.175537" a="-140.000000" />
     <group name="Stones" pos="2575.395752 108.350380 2487.206299" a="90.000000" />
-    <group name="PiceaAbies_fallene" pos="2576.360107 110.136673 2618.310059" a="45.000000" />
     <group name="PiceaAbies_fallene" pos="2568.780029 110.136673 2603.560059" a="-36.000008" />
+    <group name="PiceaAbies_fallene" pos="2576.360107 110.136673 2618.310059" a="45.000000" />
     <group name="PiceaAbies_stumpc" pos="2597.031006 109.442993 2673.721191" a="90.000000" />
     <group name="PiceaAbies_fallene" pos="2596.675781 109.175591 2686.717773" a="-150.946060" />
     <group name="PiceaAbies_fallend" pos="2564.120361 108.592407 2689.535156" a="-131.201996" />
@@ -7987,8 +7987,8 @@
     <group name="PiceaAbies_stumpc" pos="2653.843750 147.872726 2028.167603" a="9.000001" />
     <group name="Stones" pos="2655.670410 140.094803 2107.407959" a="122.176216" />
     <group name="PiceaAbies_fallene" pos="2662.939941 110.136673 2542.120117" a="-126.000000" />
-    <group name="PiceaAbies_fallene" pos="2644.629883 110.136673 2640.350098" a="-107.999992" />
     <group name="PiceaAbies_fallene" pos="2651.489990 110.136673 2650.750000" a="-36.000008" />
+    <group name="PiceaAbies_fallene" pos="2644.629883 110.136673 2640.350098" a="-107.999992" />
     <group name="Stones" pos="2663.318359 108.335869 2783.977783" a="90.000000" />
     <group name="Stones" pos="2679.724609 108.438766 2760.352539" a="90.000000" />
     <group name="Stones" pos="2654.509766 108.421005 2774.137207" a="90.000000" />
@@ -8435,8 +8435,8 @@
     <group name="FagusSylvatica_fallen" pos="2764.979980 149.984528 6741.839844" a="66.000000" />
     <group name="FagusSylvatica_stumpB" pos="2777.060059 150.311676 6737.160156" a="36.000000" />
     <group name="FagusSylvatica_fallenB" pos="2768.159912 150.005310 6744.520020" a="-54.000004" />
-    <group name="FagusSylvatica_fallenB" pos="2762.120117 150.005310 6740.819824" a="126.000000" />
     <group name="FagusSylvatica_fallenB" pos="2761.580078 150.005310 6736.640137" a="98.999962" />
+    <group name="FagusSylvatica_fallenB" pos="2762.120117 150.005310 6740.819824" a="126.000000" />
     <group name="PiceaAbies_fallene" pos="2788.709229 157.706665 7064.819824" a="81.804001" />
     <group name="Stones" pos="2783.187500 245.658508 7322.067383" a="-72.999985" />
     <group name="BetulaPendula_fallen" pos="2782.187500 251.739014 7346.067383" a="72.000000" />
@@ -8676,10 +8676,10 @@
     <group name="Stones" pos="2875.111328 108.367630 2350.094727" a="90.000000" />
     <group name="Stones" pos="2848.763916 108.356781 2359.792236" a="90.000000" />
     <group name="Stones" pos="2869.213623 108.415199 2374.858887" a="90.000000" />
-    <group name="Stones" pos="2873.071533 108.263947 2461.045898" a="-162.834610" />
-    <group name="Stones" pos="2855.377930 108.452515 2472.005127" a="90.000000" />
     <group name="Stones" pos="2865.880615 108.287949 2446.403809" a="90.000000" />
     <group name="Stones" pos="2858.576416 108.322945 2455.406006" a="90.000000" />
+    <group name="Stones" pos="2873.071533 108.263947 2461.045898" a="-162.834610" />
+    <group name="Stones" pos="2855.377930 108.452515 2472.005127" a="90.000000" />
     <group name="Stones" pos="2864.646240 108.374496 2502.913574" a="90.000000" />
     <group name="Stones" pos="2876.605225 108.499252 2513.250732" a="90.000000" />
     <group name="Stones" pos="2853.384277 108.327675 2489.114990" a="64.883095" />
@@ -8814,11 +8814,11 @@
     <group name="PiceaAbies_fallene" pos="2896.575684 121.982025 3292.952148" a="174.706680" />
     <group name="Stones" pos="2907.039795 108.360237 3321.039307" a="39.937195" />
     <group name="PiceaAbies_fallene" pos="2912.989990 110.136673 3540.879883" a="90.000000" />
+    <group name="PiceaAbies_stumpc" pos="2897.290039 109.959656 3548.100098" a="90.000000" />
     <group name="PiceaAbies_stumpc" pos="2916.850098 109.959656 3549.340088" a="90.000000" />
     <group name="PiceaAbies_stumpc" pos="2909.179932 109.959656 3546.489990" a="90.000000" />
-    <group name="PiceaAbies_stumpc" pos="2897.290039 109.959656 3548.100098" a="90.000000" />
-    <group name="PiceaAbies_stumpc" pos="2880.260010 109.959656 3573.050049" a="90.000000" />
     <group name="PiceaAbies_stumpc" pos="2910.889893 109.959656 3566.429932" a="90.000000" />
+    <group name="PiceaAbies_stumpc" pos="2880.260010 109.959656 3573.050049" a="90.000000" />
     <group name="PiceaAbies_fallene" pos="2909.600098 110.136673 3625.669922" a="135.000000" />
     <group name="PiceaAbies_stumpc" pos="2916.800049 109.959656 3623.229980" a="90.000000" />
     <group name="PathD_6ko" pos="2880.730957 121.217171 4136.276367" a="-169.703735" />
@@ -9670,8 +9670,8 @@
     <group name="BetulaPendula_fallen" pos="3195.187500 149.586319 8394.067383" a="106.999992" />
     <group name="Stones" pos="3161.223877 146.551865 8476.411133" a="126.741051" />
     <group name="BetulaPendula_fallen" pos="3171.783203 145.999039 8482.437500" a="157.733658" />
-    <group name="PathDCurve" pos="3174.867920 133.393341 8549.138672" a="-62.429996" />
     <group name="PathDCurve" pos="3176.550293 133.373505 8549.853516" a="-62.429996" />
+    <group name="PathDCurve" pos="3174.867920 133.393341 8549.138672" a="-62.429996" />
     <group name="Stones" pos="3169.203125 164.414505 8830.873047" a="-136.000000" />
     <group name="PathR30" pos="3179.351318 166.716034 8921.948242" a="33.210892" />
     <group name="PiceaAbies_fallene" pos="3181.203125 170.638748 8958.873047" a="100.999977" />
@@ -9721,9 +9721,9 @@
     <group name="FagusSylvatica_fallenC" pos="3225.578125 123.676788 2186.696289" a="-40.999996" />
     <group name="Stones" pos="3220.083984 115.830322 2283.236084" a="19.921732" />
     <group name="FagusSylvatica_fallenB" pos="3224.582764 110.096252 2467.970947" a="32.999996" />
+    <group name="PiceaAbies_fallene" pos="3238.770020 110.133156 2484.300049" a="80.999870" />
     <group name="PiceaAbies_fallene" pos="3209.300049 110.136673 2481.209961" a="-135.000000" />
     <group name="PiceaAbies_fallene" pos="3224.229980 110.136673 2493.570068" a="-63.000000" />
-    <group name="PiceaAbies_fallene" pos="3238.770020 110.133156 2484.300049" a="80.999870" />
     <group name="Stones" pos="3202.582764 109.472946 2490.970947" a="161.999985" />
     <group name="PiceaAbies_fallene" pos="3207.090088 110.136673 2536.280029" a="-0.000098" />
     <group name="PiceaAbies_fallene" pos="3224.300049 110.136673 2538.179932" a="-63.000000" />
@@ -9904,8 +9904,8 @@
     <group name="BetulaPendula_fallen" pos="3279.203125 187.448151 9117.873047" a="-130.000000" />
     <group name="BetulaPendula_fallen" pos="3267.203125 188.244125 9101.873047" a="-45.000000" />
     <group name="Stones" pos="3272.203125 186.741409 9144.873047" a="-170.000000" />
-    <group name="PiceaAbies_fallene" pos="3279.203125 212.583084 9344.873047" a="122.999992" />
     <group name="PiceaAbies_fallene" pos="3259.203125 208.901932 9334.873047" a="161.999985" />
+    <group name="PiceaAbies_fallene" pos="3279.203125 212.583084 9344.873047" a="122.999992" />
     <group name="PiceaAbies_2d" pos="3245.620361 240.767761 9509.818359" a="90.000000" />
     <group name="PiceaAbies_2d" pos="3241.578857 236.268524 9592.275391" a="90.000000" />
     <group name="PiceaAbies_2d" pos="3243.743408 228.546936 9633.842773" a="90.000000" />
@@ -9957,8 +9957,8 @@
     <group name="FagusSylvatica_fallenC" pos="3308.195068 117.744934 2313.348145" a="74.999992" />
     <group name="Stones" pos="3294.565674 118.289589 2350.222168" a="176.999985" />
     <group name="PiceaAbies_fallene" pos="3287.030029 109.952148 2513.419922" a="54.000000" />
-    <group name="PiceaAbies_fallene" pos="3297.149902 110.136673 3064.889893" a="-113.399994" />
     <group name="PiceaAbies_fallene" pos="3289.300049 110.136673 3048.899902" a="-149.400009" />
+    <group name="PiceaAbies_fallene" pos="3297.149902 110.136673 3064.889893" a="-113.399994" />
     <group name="PiceaAbies_fallene" pos="3292.290039 110.136162 3103.870117" a="-176.400208" />
     <group name="Stones" pos="3286.189453 109.438576 3112.438721" a="-133.903671" />
     <group name="Stones" pos="3317.031250 131.248413 3756.401123" a="60.000000" />
@@ -9997,12 +9997,12 @@
     <group name="PiceaAbies_3d" pos="3318.084473 141.409790 6428.182129" a="90.000000" />
     <group name="AppleTree2" pos="3283.007080 119.727287 6419.081055" a="90.000000" />
     <group name="PiceaAbies_2d" pos="3309.781006 137.556335 6427.253906" a="90.000000" />
-    <group name="Haybale" pos="3305.407227 174.031631 6687.017090" a="77.427261" />
+    <group name="Haybale" pos="3306.809326 174.162552 6686.317383" a="-59.068428" />
     <group name="Haybale" pos="3309.624268 174.031631 6690.908203" a="-21.322021" />
+    <group name="Haybale" pos="3305.407227 174.031631 6687.017090" a="77.427261" />
+    <group name="Haybale" pos="3311.441650 174.162552 6690.813965" a="-59.068428" />
     <group name="Haybale" pos="3313.093506 174.031631 6689.376953" a="121.000664" />
     <group name="Haybale" pos="3300.362549 174.031631 6690.566895" a="77.427261" />
-    <group name="Haybale" pos="3311.441650 174.162552 6690.813965" a="-59.068428" />
-    <group name="Haybale" pos="3306.809326 174.162552 6686.317383" a="-59.068428" />
     <group name="Strawstack" pos="3315.046875 174.831436 6856.080566" a="-24.409159" />
     <group name="Stones" pos="3316.734375 191.137115 7233.473145" a="-52.000000" />
     <group name="Stones" pos="3300.187500 230.795319 7411.067383" a="172.999985" />
@@ -10393,11 +10393,11 @@
     <group name="FagusSylvatica_fallenC" pos="3476.352783 117.106285 3248.270752" a="155.695267" />
     <group name="FagusSylvatica_fallenB" pos="3464.608154 122.149384 3342.031982" a="174.000000" />
     <group name="FagusSylvatica_fallenB" pos="3462.439941 122.310791 3328.135010" a="120.221748" />
+    <group name="PiceaAbies_2d" pos="3464.493652 143.276291 3537.697021" a="41.409859" />
     <group name="PiceaAbies_2d" pos="3451.126953 142.609818 3542.369873" a="41.461353" />
     <group name="PiceaAbies_2d" pos="3459.389404 141.910370 3527.242920" a="41.543587" />
-    <group name="PiceaAbies_2d" pos="3464.493652 143.276291 3537.697021" a="41.409859" />
-    <group name="Stones" pos="3442.007080 133.430679 3531.565186" a="41.175713" />
     <group name="Stones" pos="3446.289307 135.339539 3544.891602" a="125.175713" />
+    <group name="Stones" pos="3442.007080 133.430679 3531.565186" a="41.175713" />
     <group name="Stones" pos="3458.031250 142.287704 3677.401123" a="-84.000008" />
     <group name="FagusSylvatica_fallenC" pos="3474.031250 139.225540 3664.401123" a="140.000000" />
     <group name="PiceaAbies_2d" pos="3476.993896 148.175873 3685.654541" a="90.000000" />
@@ -10438,50 +10438,50 @@
     <group name="PiceaAbies_2d" pos="3441.439941 180.471603 6719.259766" a="90.000000" />
     <group name="PiceaAbies_2d" pos="3440.870117 180.751862 6774.189941" a="90.000000" />
     <group name="PiceaAbies_2d" pos="3467.830078 180.714493 6856.310059" a="90.000000" />
-    <group name="Haybale" pos="3455.765137 175.333679 6935.454590" a="43.264637" />
-    <group name="Haybale" pos="3456.060547 174.031631 6932.860840" a="43.264637" />
-    <group name="Haybale" pos="3453.940674 176.629166 6935.106934" a="43.264637" />
-    <group name="Haybale" pos="3452.831055 174.031631 6933.928223" a="43.264637" />
-    <group name="Haybale" pos="3453.602295 175.333679 6937.713379" a="43.264637" />
-    <group name="Haybale" pos="3456.041504 174.031631 6930.581543" a="43.264637" />
-    <group name="Haybale" pos="3455.537354 175.333679 6931.171387" a="43.264637" />
-    <group name="Haybale" pos="3454.106445 174.031631 6937.123535" a="43.264637" />
-    <group name="Haybale" pos="3452.068848 174.162872 6939.458496" a="-99.137894" />
-    <group name="Haybale" pos="3454.690186 175.333679 6936.566895" a="43.264637" />
-    <group name="Haybale" pos="3455.194336 174.031631 6935.977051" a="43.264637" />
-    <group name="Haybale" pos="3457.900635 175.333679 6933.220215" a="43.264637" />
-    <group name="Haybale" pos="3456.837646 177.932999 6934.333008" a="43.264637" />
-    <group name="Haybale" pos="3455.556396 175.333679 6933.450684" a="43.264637" />
-    <group name="Haybale" pos="3453.927979 174.031631 6935.097168" a="43.264637" />
-    <group name="Haybale" pos="3457.383057 174.031631 6929.370117" a="-26.994322" />
-    <group name="Haybale" pos="3455.362061 174.162872 6929.311523" a="-99.137894" />
-    <group name="Haybale" pos="3458.404785 174.031631 6932.629883" a="43.264637" />
-    <group name="Haybale" pos="3456.822754 175.333679 6934.330566" a="43.264637" />
-    <group name="Haybale" pos="3456.071045 176.629166 6932.867676" a="43.264637" />
-    <group name="Haybale" pos="3453.401855 175.333679 6933.405762" a="43.264637" />
-    <group name="Haybale" pos="3444.203125 174.031631 6936.380859" a="-14.747349" />
-    <group name="Haybale" pos="3450.212402 174.031631 6934.534668" a="-85.908714" />
-    <group name="Haybale" pos="3455.207031 176.629166 6935.986328" a="43.264637" />
-    <group name="Haybale" pos="3453.423828 175.333679 6935.687012" a="43.264637" />
-    <group name="Haybale" pos="3458.781006 174.162872 6930.617676" a="-99.137894" />
     <group name="Haybale" pos="3455.002930 174.031631 6933.984863" a="43.264637" />
     <group name="Haybale" pos="3453.068115 174.031631 6938.231445" a="43.264637" />
-    <group name="Haybale" pos="3456.269287 174.031631 6934.864258" a="43.264637" />
-    <group name="Haybale" pos="3454.459473 175.333679 6932.281738" a="43.264637" />
+    <group name="Haybale" pos="3455.362061 174.162872 6929.311523" a="-99.137894" />
     <group name="Haybale" pos="3457.326904 174.031631 6933.740234" a="43.264637" />
+    <group name="Haybale" pos="3454.963623 174.031631 6931.691895" a="43.264637" />
+    <group name="Haybale" pos="3456.634277 175.333679 6932.340332" a="43.264637" />
     <group name="Haybale" pos="3453.906006 174.031631 6932.815918" a="43.264637" />
     <group name="Haybale" pos="3457.337402 176.629166 6933.747070" a="43.264637" />
     <group name="Haybale" pos="3455.762451 177.932999 6935.446289" a="43.264637" />
-    <group name="Haybale" pos="3456.261963 176.629166 6934.859863" a="43.264637" />
-    <group name="Haybale" pos="3452.840088 174.031631 6936.243652" a="43.264637" />
-    <group name="Haybale" pos="3454.995605 176.629166 6933.979980" a="43.264637" />
-    <group name="Haybale" pos="3451.842529 174.162872 6935.070801" a="-99.137894" />
+    <group name="Haybale" pos="3457.383057 174.031631 6929.370117" a="-26.994322" />
+    <group name="Haybale" pos="3444.203125 174.031631 6936.380859" a="-14.747349" />
+    <group name="Haybale" pos="3458.404785 174.031631 6932.629883" a="43.264637" />
+    <group name="Haybale" pos="3457.900635 175.333679 6933.220215" a="43.264637" />
     <group name="Haybale" pos="3454.134521 176.629166 6937.100586" a="43.264637" />
+    <group name="Haybale" pos="3455.207031 176.629166 6935.986328" a="43.264637" />
+    <group name="Haybale" pos="3456.071045 176.629166 6932.867676" a="43.264637" />
+    <group name="Haybale" pos="3452.068848 174.162872 6939.458496" a="-99.137894" />
+    <group name="Haybale" pos="3454.106445 174.031631 6937.123535" a="43.264637" />
+    <group name="Haybale" pos="3455.537354 175.333679 6931.171387" a="43.264637" />
     <group name="Haybale" pos="3454.498779 175.333679 6934.574707" a="43.264637" />
+    <group name="Haybale" pos="3451.842529 174.162872 6935.070801" a="-99.137894" />
+    <group name="Haybale" pos="3453.940674 176.629166 6935.106934" a="43.264637" />
+    <group name="Haybale" pos="3454.690186 175.333679 6936.566895" a="43.264637" />
+    <group name="Haybale" pos="3453.423828 175.333679 6935.687012" a="43.264637" />
+    <group name="Haybale" pos="3458.781006 174.162872 6930.617676" a="-99.137894" />
+    <group name="Haybale" pos="3453.927979 174.031631 6935.097168" a="43.264637" />
+    <group name="Haybale" pos="3455.556396 175.333679 6933.450684" a="43.264637" />
+    <group name="Haybale" pos="3456.837646 177.932999 6934.333008" a="43.264637" />
     <group name="Haybale" pos="3457.138428 174.031631 6931.750488" a="43.264637" />
+    <group name="Haybale" pos="3456.060547 174.031631 6932.860840" a="43.264637" />
+    <group name="Haybale" pos="3455.765137 175.333679 6935.454590" a="43.264637" />
+    <group name="Haybale" pos="3455.194336 174.031631 6935.977051" a="43.264637" />
+    <group name="Haybale" pos="3456.269287 174.031631 6934.864258" a="43.264637" />
+    <group name="Haybale" pos="3454.459473 175.333679 6932.281738" a="43.264637" />
+    <group name="Haybale" pos="3456.261963 176.629166 6934.859863" a="43.264637" />
+    <group name="Haybale" pos="3454.995605 176.629166 6933.979980" a="43.264637" />
+    <group name="Haybale" pos="3452.831055 174.031631 6933.928223" a="43.264637" />
+    <group name="Haybale" pos="3452.840088 174.031631 6936.243652" a="43.264637" />
     <group name="Haybale" pos="3450.412842 174.031631 6944.253418" a="-14.747349" />
-    <group name="Haybale" pos="3454.963623 174.031631 6931.691895" a="43.264637" />
-    <group name="Haybale" pos="3456.634277 175.333679 6932.340332" a="43.264637" />
+    <group name="Haybale" pos="3456.041504 174.031631 6930.581543" a="43.264637" />
+    <group name="Haybale" pos="3453.602295 175.333679 6937.713379" a="43.264637" />
+    <group name="Haybale" pos="3456.822754 175.333679 6934.330566" a="43.264637" />
+    <group name="Haybale" pos="3450.212402 174.031631 6934.534668" a="-85.908714" />
+    <group name="Haybale" pos="3453.401855 175.333679 6933.405762" a="43.264637" />
     <group name="Stones" pos="3441.734375 194.606766 7260.473145" a="111.999969" />
     <group name="PiceaAbies_fallene" pos="3461.187500 214.780594 7535.067383" a="-93.000008" />
     <group name="PiceaAbies_fallene" pos="3461.187500 208.133331 7577.067383" a="-176.999985" />
@@ -10555,8 +10555,8 @@
     <group name="FagusSylvatica_fallenC" pos="3508.083740 109.592316 2963.141602" a="-63.000008" />
     <group name="PiceaAbies_stumpc" pos="3485.586914 116.706139 3243.717041" a="-163.304779" />
     <group name="FagusSylvatica_fallenB" pos="3480.608154 122.677902 3375.031982" a="86.999992" />
-    <group name="PiceaAbies_2d" pos="3480.056641 143.973328 3652.460449" a="50.399998" />
     <group name="PiceaAbies_2d" pos="3482.774170 143.973328 3656.997803" a="50.399998" />
+    <group name="PiceaAbies_2d" pos="3480.056641 143.973328 3652.460449" a="50.399998" />
     <group name="PiceaAbies_2d" pos="3483.836670 147.495605 3688.784668" a="90.000000" />
     <group name="PiceaAbies_2d" pos="3516.163330 149.026642 3703.875488" a="51.207676" />
     <group name="PiceaAbies_stumpc" pos="3504.375000 159.466476 3784.054443" a="142.999985" />
@@ -10665,10 +10665,10 @@
     <group name="PiceaAbies_2d" pos="3551.197266 145.852890 3536.859863" a="41.405708" />
     <group name="PiceaAbies_2d" pos="3548.779053 145.860718 3525.212891" a="41.419830" />
     <group name="PiceaAbies_2d" pos="3530.963379 144.863312 3525.963623" a="41.438484" />
-    <group name="PiceaAbies_2d" pos="3557.780762 143.973328 3581.972168" a="41.400009" />
     <group name="PiceaAbies_2d" pos="3554.367432 144.016174 3576.562500" a="41.400604" />
-    <group name="PiceaAbies_2d" pos="3548.502197 144.051773 3679.665283" a="25.393444" />
+    <group name="PiceaAbies_2d" pos="3557.780762 143.973328 3581.972168" a="41.400009" />
     <group name="PiceaAbies_2d" pos="3545.154785 143.973328 3670.931152" a="25.200014" />
+    <group name="PiceaAbies_2d" pos="3548.502197 144.051773 3679.665283" a="25.393444" />
     <group name="PiceaAbies_2d" pos="3522.232666 147.900574 3700.946045" a="16.236456" />
     <group name="PiceaAbies_fallene" pos="3532.375000 160.989624 3794.054443" a="175.999985" />
     <group name="FagusSylvatica_fallenB" pos="3546.375000 159.832336 3785.054443" a="54.000000" />
@@ -11359,9 +11359,9 @@
     <group name="BetulaPendula_fallen" pos="3730.187500 188.930344 5763.775391" a="-136.000000" />
     <group name="PiceaAbies_2d" pos="3746.130127 173.353333 5894.209961" a="90.000000" />
     <group name="PiceaAbies_2d" pos="3741.479980 173.268448 5998.839844" a="90.000000" />
+    <group name="PiceaAbies_stumpc" pos="3749.845947 166.693649 5984.397949" a="90.000000" />
     <group name="PiceaAbies_stumpc" pos="3747.335693 166.693649 5971.752441" a="90.000000" />
     <group name="PiceaAbies_stumpc" pos="3743.294922 166.661652 5992.796875" a="90.000000" />
-    <group name="PiceaAbies_stumpc" pos="3749.845947 166.693649 5984.397949" a="90.000000" />
     <group name="PiceaAbies_2d" pos="3723.020020 172.768814 6015.109863" a="90.000000" />
     <group name="PiceaAbies_2d" pos="3744.350098 172.594986 6025.660156" a="90.000000" />
     <group name="PiceaAbies_2d" pos="3727.060059 172.555542 6022.640137" a="90.000000" />
@@ -11386,10 +11386,10 @@
     <group name="PathRCurve" pos="3749.850098 226.430649 7938.071777" a="-38.142006" />
     <group name="PathRCurve" pos="3754.127441 226.430557 7928.272949" a="-73.078110" />
     <group name="PathR30" pos="3726.218750 226.417450 7996.082520" a="-45.070839" />
+    <group name="PathRCurve" pos="3739.517578 226.430435 7981.148926" a="-44.716698" />
     <group name="PathRCurve" pos="3744.253906 226.430054 7971.300293" a="-66.632339" />
     <group name="PathRCurve" pos="3744.269043 226.431000 7960.417969" a="-94.220261" />
     <group name="PathRCurve" pos="3722.741943 226.431000 7970.131348" a="46.799831" />
-    <group name="PathRCurve" pos="3739.517578 226.430435 7981.148926" a="-44.716698" />
     <group name="BetulaPendula_fallen" pos="3743.428223 226.912537 7970.533691" a="53.109398" />
     <group name="BetulaPendula_stump" pos="3738.682129 227.943649 7974.249512" a="-126.939003" />
     <group name="FagusSylvatica_fallenB" pos="3722.855469 227.085297 8024.598633" a="-132.661011" />
@@ -13548,14 +13548,14 @@
     <group name="PathD_3025" pos="4350.586914 210.745926 5991.138184" a="56.384197" />
     <group name="PathD_3025" pos="4333.832031 210.818024 5972.209473" a="-31.706007" />
     <group name="PathD_1075" pos="4341.520020 211.889160 5966.737305" a="90.631775" />
-    <group name="PathD_6ko" pos="4326.091309 210.397324 5978.644043" a="-29.653002" />
-    <group name="PathD_6ko" pos="4343.782227 211.053711 5983.645508" a="56.941193" />
     <group name="PathD_6ko" pos="4358.005859 209.870651 5996.262207" a="-150.768997" />
+    <group name="PathD_6ko" pos="4326.091309 210.397324 5978.644043" a="-29.653002" />
     <group name="PathD_6ko" pos="4339.181152 211.839508 5965.150879" a="122.289078" />
-    <group name="FagusSylvatica_stumpB" pos="4340.009766 210.683624 5994.810059" a="62.999996" />
+    <group name="PathD_6ko" pos="4343.782227 211.053711 5983.645508" a="56.941193" />
     <group name="FagusSylvatica_stumpB" pos="4331.600098 211.812164 5979.140137" a="62.999996" />
-    <group name="FagusSylvatica_fallenB" pos="4357.450195 213.251114 5961.839844" a="-54.000004" />
+    <group name="FagusSylvatica_stumpB" pos="4340.009766 210.683624 5994.810059" a="62.999996" />
     <group name="FagusSylvatica_fallenB" pos="4337.790039 209.901672 5998.149902" a="-54.000004" />
+    <group name="FagusSylvatica_fallenB" pos="4357.450195 213.251114 5961.839844" a="-54.000004" />
     <group name="PathD_2250" pos="4336.000488 207.519318 6021.658691" a="110.764877" />
     <group name="PathD_1575" pos="4340.371582 207.520721 6001.824219" a="-68.904999" />
     <group name="FagusSylvatica_stumpB" pos="4350.250000 209.059021 6010.390137" a="62.999996" />
@@ -13580,20 +13580,20 @@
     <group name="PathD_3025" pos="4331.007324 200.732727 6057.214355" a="110.295891" />
     <group name="FagusSylvatica_stumpB" pos="4358.979980 203.543488 6050.979980" a="62.999996" />
     <group name="FagusSylvatica_stumpB" pos="4352.689941 201.515915 6061.120117" a="62.999996" />
-    <group name="FagusSylvatica_fallenB" pos="4322.442383 195.361710 6078.607910" a="-130.190979" />
     <group name="FagusSylvatica_fallenB" pos="4343.689941 203.080872 6045.319824" a="90.000000" />
-    <group name="FagusSylvatica_fallenB" pos="4342.060059 199.425400 6066.049805" a="-54.000004" />
-    <group name="FagusSylvatica_fallenB" pos="4341.790039 201.809128 6051.970215" a="-0.000003" />
-    <group name="FagusSylvatica_fallenB" pos="4355.029785 202.074814 6056.870117" a="90.000000" />
+    <group name="FagusSylvatica_fallenB" pos="4322.442383 195.361710 6078.607910" a="-130.190979" />
     <group name="FagusSylvatica_fallenB" pos="4322.279785 200.559830 6050.649902" a="-0.000003" />
+    <group name="FagusSylvatica_fallenB" pos="4355.029785 202.074814 6056.870117" a="90.000000" />
+    <group name="FagusSylvatica_fallenB" pos="4341.790039 201.809128 6051.970215" a="-0.000003" />
+    <group name="FagusSylvatica_fallenB" pos="4342.060059 199.425400 6066.049805" a="-54.000004" />
     <group name="PiceaAbies_stumpd" pos="4323.174805 194.915085 6078.958984" a="90.000000" />
     <group name="PiceaAbies_stumpc" pos="4323.989746 195.538925 6077.645508" a="90.000000" />
     <group name="FagusSylvatica_fallenC" pos="4323.364258 195.376358 6079.060547" a="-121.965576" />
-    <group name="FagusSylvatica_fallenC" pos="4323.981445 195.596100 6078.425781" a="43.745506" />
     <group name="FagusSylvatica_fallenC" pos="4323.659180 195.665161 6077.620117" a="-121.968811" />
     <group name="FagusSylvatica_fallenC" pos="4323.686523 195.307343 6079.866211" a="43.747185" />
-    <group name="FagusSylvatica_stumpC" pos="4323.559570 195.115158 6079.083008" a="90.000000" />
+    <group name="FagusSylvatica_fallenC" pos="4323.981445 195.596100 6078.425781" a="43.745506" />
     <group name="FagusSylvatica_stumpC" pos="4320.618652 196.664841 6068.159180" a="-73.642448" />
+    <group name="FagusSylvatica_stumpC" pos="4323.559570 195.115158 6079.083008" a="90.000000" />
     <group name="FagusSylvatica_fallen" pos="4324.506348 189.765656 6113.521973" a="42.656128" />
     <group name="PiceaAbies_2d" pos="4345.319824 198.052567 6115.649902" a="90.000000" />
     <group name="PathD_3025" pos="4330.716797 190.542343 6098.724609" a="-59.481007" />
@@ -14956,8 +14956,8 @@
     <group name="PiceaAbies_2d" pos="4712.348145 228.526337 809.588318" a="90.000000" />
     <group name="PiceaAbies_2d" pos="4711.378906 228.526337 822.556824" a="90.000000" />
     <group name="PiceaAbies_fallene" pos="4709.387207 222.106659 815.676575" a="66.741150" />
-    <group name="PiceaAbies_2d" pos="4718.636719 228.526337 889.154480" a="90.000000" />
     <group name="PiceaAbies_2d" pos="4719.531738 228.526337 897.809509" a="90.000000" />
+    <group name="PiceaAbies_2d" pos="4718.636719 228.526337 889.154480" a="90.000000" />
     <group name="PiceaAbies_2d" pos="4712.811035 228.526337 895.647095" a="90.000000" />
     <group name="PiceaAbies_2d" pos="4684.330078 228.526337 937.685486" a="90.000000" />
     <group name="PiceaAbies_2d" pos="4691.840332 228.526337 931.592529" a="90.000000" />
@@ -15298,8 +15298,8 @@
     <group name="FagusSylvatica_fallenB" pos="4762.879883 339.425293 3879.379883" a="133.199997" />
     <group name="FagusSylvatica_fallenB" pos="4774.330078 339.425293 3872.350098" a="169.200012" />
     <group name="BetulaPendula_fallen" pos="4797.790039 339.252533 3959.310059" a="90.000000" />
-    <group name="FagusSylvatica_fallenB" pos="4768.669922 339.425293 3940.469971" a="-46.799999" />
     <group name="FagusSylvatica_fallenB" pos="4783.890137 339.425293 3941.669922" a="-46.799999" />
+    <group name="FagusSylvatica_fallenB" pos="4768.669922 339.425293 3940.469971" a="-46.799999" />
     <group name="BetulaPendula_fallen" pos="4782.140137 339.252533 3988.500000" a="-71.999992" />
     <group name="BetulaPendula_fallen" pos="4784.750000 339.252533 3963.949951" a="36.000000" />
     <group name="FagusSylvatica_fallenB" pos="4787.450195 339.425293 3972.179932" a="-10.799999" />
@@ -15311,8 +15311,8 @@
     <group name="FagusSylvatica_stumpC" pos="4774.916992 339.141968 4117.984375" a="39.233994" />
     <group name="FagusSylvatica_fallenB" pos="4789.200195 339.425293 4156.600098" a="162.000076" />
     <group name="FagusSylvatica_fallenB" pos="4791.109863 339.425293 4128.660156" a="162.000076" />
-    <group name="FagusSylvatica_fallenB" pos="4796.689941 339.425293 4299.799805" a="-126.000000" />
     <group name="FagusSylvatica_fallenB" pos="4795.370117 339.425293 4309.600098" a="-80.999992" />
+    <group name="FagusSylvatica_fallenB" pos="4796.689941 339.425293 4299.799805" a="-126.000000" />
     <group name="FagusSylvatica_fallenB" pos="4788.180176 339.425293 4340.899902" a="-36.000008" />
     <group name="FagusSylvatica_fallenB" pos="4781.290039 339.425293 4431.000000" a="62.999996" />
     <group name="FagusSylvatica_fallenB" pos="4761.009766 339.425293 4455.609863" a="-18.000002" />
@@ -15668,8 +15668,8 @@
     <group name="Stones" pos="4844.203125 93.309547 8688.414063" a="-147.000015" />
     <group name="Stones" pos="4869.250000 94.735596 8697.460938" a="1.999993" />
     <group name="Stones" pos="4861.250000 98.750435 8720.460938" a="63.999996" />
-    <group name="Stones" pos="4855.937500 101.551399 8744.145508" a="42.999992" />
     <group name="Stones" pos="4847.250000 99.973770 8722.460938" a="103.999985" />
+    <group name="Stones" pos="4855.937500 101.551399 8744.145508" a="42.999992" />
     <group name="Stones" pos="4855.937500 100.877975 8740.145508" a="61.000000" />
     <group name="Stones" pos="4870.250000 98.284760 8724.460938" a="-135.000000" />
     <group name="PathR30" pos="4842.557129 157.739441 9011.724609" a="18.967533" />
@@ -15821,11 +15821,11 @@
     <group name="Stones" pos="4892.250000 89.791428 8647.460938" a="-88.999992" />
     <group name="Stones" pos="4909.250000 92.937454 8659.460938" a="-79.000008" />
     <group name="Stones" pos="4888.250000 93.866806 8705.460938" a="49.000000" />
-    <group name="Stones" pos="4882.250000 100.777206 8750.460938" a="-18.000002" />
-    <group name="Stones" pos="4905.250000 100.359810 8752.460938" a="67.000000" />
     <group name="Stones" pos="4910.250000 99.240868 8740.460938" a="11.999997" />
-    <group name="Stones" pos="4893.250000 100.294907 8750.460938" a="-15.000005" />
     <group name="Stones" pos="4892.250000 99.795586 8746.460938" a="-45.000000" />
+    <group name="Stones" pos="4905.250000 100.359810 8752.460938" a="67.000000" />
+    <group name="Stones" pos="4893.250000 100.294907 8750.460938" a="-15.000005" />
+    <group name="Stones" pos="4882.250000 100.777206 8750.460938" a="-18.000002" />
     <group name="PathR30" pos="4893.857422 158.669479 9051.292969" a="-134.315628" />
     <group name="PathR30" pos="4916.854004 158.310883 9066.758789" a="-156.654114" />
     <group name="Stones" pos="4910.781250 158.606384 9097.411133" a="-151.999985" />
@@ -16046,10 +16046,10 @@
     <group name="FagusSylvatica_fallen" pos="4981.970215 258.307953 5835.319824" a="-75.600006" />
     <group name="FagusSylvatica_stumpB" pos="4960.310059 263.335510 5831.399902" a="-86.912003" />
     <group name="FagusSylvatica_fallenB" pos="4970.990234 257.891968 5837.509766" a="-135.000000" />
+    <group name="FagusSylvatica_fallenB" pos="4980.310059 258.778564 5832.160156" a="-117.000000" />
+    <group name="FagusSylvatica_fallenB" pos="4970.919922 258.915527 5828.979980" a="26.999994" />
     <group name="FagusSylvatica_fallenB" pos="4984.620117 258.564941 5834.410156" a="-151.199982" />
     <group name="FagusSylvatica_fallenB" pos="4990.979980 258.306061 5835.509766" a="-106.199989" />
-    <group name="FagusSylvatica_fallenB" pos="4970.919922 258.915527 5828.979980" a="26.999994" />
-    <group name="FagusSylvatica_fallenB" pos="4980.310059 258.778564 5832.160156" a="-117.000000" />
     <group name="Stones" pos="4995.703125 254.329880 5866.430664" a="127.999992" />
     <group name="FagusSylvatica_fallenB" pos="4991.700195 257.658905 5840.580078" a="-61.200001" />
     <group name="PiceaAbies_2d" pos="4966.140137 260.858124 5903.569824" a="90.000000" />
@@ -16893,8 +16893,8 @@
     <group name="PiceaAbies_2d" pos="5215.790039 362.855896 5095.569824" a="90.000000" />
     <group name="Stones" pos="5216.187500 360.153778 5081.775391" a="-155.000000" />
     <group name="BetulaPendula_fallen" pos="5218.209961 351.529449 5119.770020" a="70.199997" />
-    <group name="BetulaPendula_fallen" pos="5227.660156 351.513519 5256.680176" a="-75.600006" />
     <group name="BetulaPendula_fallen" pos="5214.689941 351.240143 5262.569824" a="-39.600010" />
+    <group name="BetulaPendula_fallen" pos="5227.660156 351.513519 5256.680176" a="-75.600006" />
     <group name="PiceaAbies_fallene" pos="5202.703125 336.009735 5333.430664" a="147.999985" />
     <group name="Stones" pos="5202.703125 316.166656 5377.430664" a="-5.000008" />
     <group name="PiceaAbies_2d" pos="5233.140137 230.511246 5994.600098" a="90.000000" />
@@ -17088,8 +17088,8 @@
     <group name="FagusSylvatica_stumpC" pos="5248.921875 129.602203 7675.683594" a="40.999996" />
     <group name="FagusSylvatica_stumpB" pos="5255.921875 131.791672 7696.683594" a="86.999992" />
     <group name="PiceaAbies_stumpd" pos="5246.921875 131.037323 7696.683594" a="-30.999996" />
-    <group name="PiceaAbies_stumpd" pos="5251.921875 130.847458 7686.683594" a="-18.999996" />
     <group name="PiceaAbies_stumpd" pos="5251.921875 131.050568 7703.683594" a="-4.000007" />
+    <group name="PiceaAbies_stumpd" pos="5251.921875 130.847458 7686.683594" a="-18.999996" />
     <group name="PiceaAbies_stumpd" pos="5246.921875 131.099564 7758.683594" a="-35.000000" />
     <group name="PiceaAbies_stumpd" pos="5243.921875 131.070572 7736.683594" a="-148.000015" />
     <group name="FagusSylvatica_stumpC" pos="5242.921875 131.222000 7729.683594" a="9.999995" />
@@ -17785,11 +17785,11 @@
     <group name="PiceaAbies_fallene" pos="5454.843750 209.522278 8879.839844" a="83.000000" />
     <group name="BetulaPendula_fallen" pos="5446.843750 219.007492 8936.839844" a="170.999985" />
     <group name="PathR30" pos="5465.126465 200.925507 9283.406250" a="-179.666351" />
+    <group name="PathR10" pos="5450.917969 199.686600 9289.386719" a="-119.791420" />
     <group name="PathR10" pos="5460.512207 200.550476 9285.819336" a="148.846191" />
     <group name="PathR10" pos="5455.403809 200.177261 9290.416016" a="135.129517" />
-    <group name="PathR10" pos="5450.917969 199.686600 9289.386719" a="-119.791420" />
-    <group name="PathR10" pos="5447.482422 201.366104 9283.075195" a="13.063799" />
     <group name="PathR10" pos="5445.361328 200.228317 9284.074219" a="-139.680466" />
+    <group name="PathR10" pos="5447.482422 201.366104 9283.075195" a="13.063799" />
     <group name="PiceaAbies_2d" pos="5459.913086 205.675278 9469.915039" a="90.000000" />
     <group name="PiceaAbies_fallend" pos="5508.268066 400.418396 207.451248" a="-91.463524" />
     <group name="PiceaAbies_stumpc" pos="5513.268555 400.505066 243.251724" a="11.275275" />
@@ -18640,8 +18640,8 @@
     <group name="PiceaAbies_fallene" pos="5758.339844 295.044586 3454.010010" a="-84.599998" />
     <group name="PiceaAbies_stumpc" pos="5751.593750 294.783661 3456.555176" a="144.000031" />
     <group name="PiceaAbies_fallene" pos="5748.859863 295.047668 3593.510010" a="-97.199989" />
-    <group name="PiceaAbies_stumpc" pos="5743.118652 294.783661 3585.648926" a="-62.999905" />
     <group name="PiceaAbies_stumpc" pos="5744.819824 294.783661 3599.845459" a="36.000008" />
+    <group name="PiceaAbies_stumpc" pos="5743.118652 294.783661 3585.648926" a="-62.999905" />
     <group name="PiceaAbies_fallene" pos="5734.549805 295.047668 3630.120117" a="-142.200012" />
     <group name="PiceaAbies_stumpc" pos="5739.762695 294.783661 3617.550049" a="-17.999949" />
     <group name="PiceaAbies_2d" pos="5721.759766 301.444336 3660.610107" a="90.000000" />
@@ -18931,8 +18931,8 @@
     <group name="PlumTree1" pos="5784.966309 212.832794 5907.078613" a="90.000000" />
     <group name="PiceaAbies_2d" pos="5792.839844 209.117310 5911.600586" a="90.000000" />
     <group name="PiceaAbies_3d" pos="5784.529297 202.967667 5936.736816" a="90.000000" />
-    <group name="PinusSylvestris_3d_Summer" pos="5799.182129 194.537613 5948.547852" a="90.000000" />
     <group name="PinusSylvestris_3d_Summer" pos="5773.270508 208.965332 5938.250977" a="-154.097946" />
+    <group name="PinusSylvestris_3d_Summer" pos="5799.182129 194.537613 5948.547852" a="90.000000" />
     <group name="FagusSylvatica_2d_Summer" pos="5783.038086 198.043396 5954.741699" a="90.000023" />
     <group name="PiceaAbies_fallene" pos="5775.764160 196.500671 5950.956543" a="-158.871002" />
     <group name="FagusSylvatica_3d" pos="5769.778809 188.890381 5996.000977" a="138.629044" />
@@ -18944,8 +18944,8 @@
     <group name="PiceaAbies_2d" pos="5785.038574 169.410339 6057.744141" a="90.000000" />
     <group name="PlumTree1" pos="5771.167969 165.444794 6147.979004" a="90.000000" />
     <group name="Stones" pos="5793.031250 169.042023 7076.424316" a="5.000003" />
-    <group name="Haybale" pos="5792.703125 164.589981 7340.370605" a="-116.942329" />
     <group name="Haybale" pos="5766.308594 165.296997 7333.403809" a="157.809555" />
+    <group name="Haybale" pos="5792.703125 164.589981 7340.370605" a="-116.942329" />
     <group name="Haybale" pos="5764.569336 163.678970 7388.674316" a="61.122921" />
     <group name="Haybale" pos="5769.692383 163.995758 7365.693359" a="90.000000" />
     <group name="Stones" pos="5788.593750 175.076370 7738.372559" a="54.999989" />
@@ -19663,41 +19663,41 @@
     <group name="Stones" pos="5960.323730 180.557373 6153.020020" a="152.574875" />
     <group name="Strawstack" pos="5979.918945 144.542007 6692.333008" a="56.997589" />
     <group name="Strawstack" pos="5989.199219 144.542007 6686.221191" a="-120.071342" />
-    <group name="Haybale" pos="5995.382813 144.232224 6680.103516" a="167.349258" />
-    <group name="Haybale" pos="5965.158203 144.363052 6699.945801" a="-127.549744" />
-    <group name="Haybale" pos="5964.442383 144.232224 6702.442383" a="90.000000" />
     <group name="Haybale" pos="5999.636719 144.232224 6682.238770" a="33.148220" />
     <group name="Haybale" pos="5962.996582 144.363052 6701.893555" a="-127.549744" />
     <group name="Haybale" pos="5971.811523 144.363052 6698.104492" a="-127.549744" />
-    <group name="Haybale" pos="5976.874023 145.459732 6706.373535" a="3.892136" />
+    <group name="Haybale" pos="5965.158203 144.363052 6699.945801" a="-127.549744" />
     <group name="Haybale" pos="5970.345703 144.232224 6698.490234" a="-90.094841" />
     <group name="Haybale" pos="5995.440918 144.363052 6681.380859" a="-127.549744" />
-    <group name="Haybale" pos="5975.520996 144.363052 6704.451172" a="-127.549744" />
+    <group name="Haybale" pos="5976.874023 145.459732 6706.373535" a="3.892136" />
     <group name="Haybale" pos="5972.335938 144.232224 6699.658691" a="-33.243237" />
+    <group name="Haybale" pos="5964.442383 144.232224 6702.442383" a="90.000000" />
+    <group name="Haybale" pos="5975.520996 144.363052 6704.451172" a="-127.549744" />
+    <group name="Haybale" pos="5995.382813 144.232224 6680.103516" a="167.349258" />
     <group name="Haybale" pos="5961.553711 144.363052 6702.581543" a="-127.549744" />
-    <group name="Haybale" pos="5966.843750 144.232224 6744.933105" a="90.000000" />
     <group name="Haybale" pos="5980.464355 144.232224 6748.584473" a="-35.176956" />
-    <group name="Haybale" pos="5967.468750 144.363052 6754.700684" a="-127.549744" />
-    <group name="Haybale" pos="5963.343262 144.232224 6751.473633" a="-97.056419" />
-    <group name="Haybale" pos="5962.484863 144.362610 6759.063965" a="-178.422760" />
-    <group name="Haybale" pos="5962.338867 144.363052 6755.788574" a="-127.549744" />
-    <group name="Haybale" pos="5979.256348 144.363052 6749.544434" a="-127.549744" />
-    <group name="Haybale" pos="5972.077637 144.232224 6748.816406" a="-15.710720" />
-    <group name="Haybale" pos="5968.946777 144.232224 6754.406250" a="72.338554" />
-    <group name="Haybale" pos="5977.625488 144.232224 6750.094727" a="96.703568" />
-    <group name="Haybale" pos="5964.233887 144.232224 6759.238281" a="96.703568" />
-    <group name="Haybale" pos="5973.364258 144.363052 6744.881348" a="-127.549744" />
-    <group name="Haybale" pos="5961.812988 144.363052 6751.363770" a="-127.549744" />
-    <group name="Haybale" pos="5972.851563 144.363052 6749.835938" a="-127.549744" />
+    <group name="Haybale" pos="5966.843750 144.232224 6744.933105" a="90.000000" />
     <group name="Haybale" pos="5961.500000 144.232224 6749.697754" a="-175.952728" />
+    <group name="Haybale" pos="5979.256348 144.363052 6749.544434" a="-127.549744" />
+    <group name="Haybale" pos="5962.484863 144.362610 6759.063965" a="-178.422760" />
     <group name="Haybale" pos="5966.413086 144.232224 6746.512207" a="-21.769773" />
+    <group name="Haybale" pos="5977.625488 144.232224 6750.094727" a="96.703568" />
+    <group name="Haybale" pos="5972.077637 144.232224 6748.816406" a="-15.710720" />
+    <group name="Haybale" pos="5962.338867 144.363052 6755.788574" a="-127.549744" />
+    <group name="Haybale" pos="5961.812988 144.363052 6751.363770" a="-127.549744" />
+    <group name="Haybale" pos="5964.233887 144.232224 6759.238281" a="96.703568" />
+    <group name="Haybale" pos="5968.946777 144.232224 6754.406250" a="72.338554" />
+    <group name="Haybale" pos="5972.851563 144.363052 6749.835938" a="-127.549744" />
+    <group name="Haybale" pos="5967.468750 144.363052 6754.700684" a="-127.549744" />
+    <group name="Haybale" pos="5973.364258 144.363052 6744.881348" a="-127.549744" />
+    <group name="Haybale" pos="5963.343262 144.232224 6751.473633" a="-97.056419" />
     <group name="PiceaAbies_fallene" pos="5961.031250 151.388443 6934.424316" a="93.999985" />
     <group name="Stones" pos="5972.031250 161.502045 6967.424316" a="-78.000000" />
     <group name="BetulaPendula_fallen" pos="5974.031250 178.287216 7340.424316" a="-78.000000" />
     <group name="BetulaPendula_fallen" pos="5984.031250 179.681488 7448.424316" a="-40.000000" />
+    <group name="Haybale" pos="5987.105469 178.745163 7557.003906" a="-146.345337" />
     <group name="Haybale" pos="5986.066406 178.583496 7559.529297" a="-131.254272" />
     <group name="Haybale" pos="5988.273438 178.729385 7559.130371" a="-146.345337" />
-    <group name="Haybale" pos="5987.105469 178.745163 7557.003906" a="-146.345337" />
     <group name="Haybale" pos="5983.466309 178.425735 7596.118164" a="-140.408447" />
     <group name="Haybale" pos="5985.270996 178.077637 7597.031250" a="39.600010" />
     <group name="Haybale" pos="5978.666992 178.389053 7593.111328" a="-140.391144" />
@@ -19715,8 +19715,8 @@
     <group name="Stones" pos="5976.593750 152.346680 8003.372559" a="-57.000011" />
     <group name="Stones" pos="5976.593750 142.477158 8115.372559" a="-116.000008" />
     <group name="PiceaAbies_fallene" pos="5978.593750 133.175812 8324.373047" a="-151.999985" />
-    <group name="Haybale" pos="5988.747070 138.059158 8472.474609" a="140.103912" />
     <group name="Haybale" pos="5987.463379 138.059250 8471.233398" a="140.103912" />
+    <group name="Haybale" pos="5988.747070 138.059158 8472.474609" a="140.103912" />
     <group name="PathRCurve" pos="5974.791016 136.333206 8483.556641" a="-156.544983" />
     <group name="Haybale" pos="5994.758789 137.004669 8502.362305" a="-164.810989" />
     <group name="Haybale" pos="5993.210449 137.112167 8504.481445" a="141.498398" />
@@ -19752,8 +19752,8 @@
     <group name="BetulaPendula_fallen" pos="6000.828125 173.958389 1664.601440" a="117.000000" />
     <group name="PiceaAbies_fallene" pos="6025.828125 149.490128 1835.601440" a="-79.000008" />
     <group name="Stones" pos="6004.828125 122.772308 1986.601440" a="-176.999985" />
-    <group name="Stones" pos="6019.843750 101.598366 2085.708496" a="-125.000008" />
     <group name="Stones" pos="6005.453125 101.050156 2098.313477" a="-49.000004" />
+    <group name="Stones" pos="6019.843750 101.598366 2085.708496" a="-125.000008" />
     <group name="Stones" pos="6006.843750 100.158775 2114.708496" a="19.999992" />
     <group name="Stones" pos="6022.843750 97.749268 2122.708496" a="0.999999" />
     <group name="Stones" pos="6003.609375 101.556953 2496.473877" a="-138.000000" />
@@ -19879,11 +19879,11 @@
     <group name="Manurepile" pos="6022.627930 143.825974 6577.780273" a="176.827972" />
     <group name="Manurepile" pos="6006.341797 143.825974 6581.366211" a="-14.611586" />
     <group name="Haybale" pos="6000.803711 144.363052 6677.902832" a="-127.549744" />
-    <group name="Haybale" pos="6000.636230 144.232224 6676.021484" a="62.798779" />
     <group name="Haybale" pos="6002.683594 144.232224 6677.404785" a="123.002289" />
-    <group name="Haybale" pos="6036.244141 144.232224 6696.331055" a="114.236038" />
-    <group name="Haybale" pos="6037.306152 144.363052 6695.051758" a="-127.549744" />
+    <group name="Haybale" pos="6000.636230 144.232224 6676.021484" a="62.798779" />
     <group name="Haybale" pos="6037.818848 144.232224 6693.728027" a="31.859005" />
+    <group name="Haybale" pos="6037.306152 144.363052 6695.051758" a="-127.549744" />
+    <group name="Haybale" pos="6036.244141 144.232224 6696.331055" a="114.236038" />
     <group name="PiceaAbies_fallene" pos="6010.031250 154.107498 6927.424316" a="9.000001" />
     <group name="Haybale" pos="6019.058594 178.769958 7568.126465" a="152.189651" />
     <group name="Haybale" pos="6019.873535 178.890015 7569.858398" a="-163.777878" />
@@ -20028,8 +20028,8 @@
     <group name="PiceaAbies_2d" pos="6078.720215 184.185699 5511.459961" a="90.000000" />
     <group name="PiceaAbies_fallene" pos="6067.385254 195.544662 5672.249023" a="90.000000" />
     <group name="PiceaAbies_3d" pos="6064.488281 202.460815 5700.416992" a="90.000000" />
-    <group name="PinusSylvestris_3d_Summer" pos="6060.569336 201.744354 5703.967285" a="64.257751" />
     <group name="PinusSylvestris_3d_Summer" pos="6049.090820 203.822342 5717.031250" a="90.000000" />
+    <group name="PinusSylvestris_3d_Summer" pos="6060.569336 201.744354 5703.967285" a="64.257751" />
     <group name="FagusSylvatica_2d_Summer" pos="6075.603027 194.432068 5736.664063" a="90.000000" />
     <group name="PiceaAbies_2d" pos="6047.759277 198.578339 5734.526367" a="90.000000" />
     <group name="PiceaAbies_2d" pos="6062.256836 180.772339 6006.846680" a="90.000000" />
@@ -20468,8 +20468,8 @@
     <group name="PiceaAbies_3d" pos="6276.267090 122.024803 5078.377930" a="90.000000" />
     <group name="PiceaAbies_2d" pos="6274.290527 138.422333 5063.888184" a="-95.738937" />
     <group name="PiceaAbies_2d" pos="6278.917480 143.459335 5058.878418" a="90.000000" />
-    <group name="PathD10" pos="6278.672852 125.643211 5407.800293" a="96.074646" />
     <group name="PathD10" pos="6278.371094 126.031754 5416.404785" a="96.074646" />
+    <group name="PathD10" pos="6278.672852 125.643211 5407.800293" a="96.074646" />
     <group name="PiceaAbies_fallene" pos="6264.819336 126.312119 5464.440430" a="136.238708" />
     <group name="PiceaAbies_2d" pos="6246.513184 154.377335 5557.474609" a="90.000000" />
     <group name="PiceaAbies_fallene" pos="6266.916016 101.377075 5577.403809" a="156.376251" />
@@ -21074,9 +21074,9 @@
     <group name="Stones" pos="6539.578125 101.240166 6370.802246" a="-68.999992" />
     <group name="Stones" pos="6553.906250 100.591713 6394.133301" a="-23.000000" />
     <group name="Stones" pos="6547.578125 101.035027 6428.802246" a="-161.000000" />
-    <group name="Stones" pos="6548.578125 99.843033 6471.802246" a="121.000008" />
     <group name="Stones" pos="6559.578125 100.416939 6441.802246" a="160.000000" />
     <group name="Stones" pos="6552.625000 100.953468 6443.852539" a="75.999992" />
+    <group name="Stones" pos="6548.578125 99.843033 6471.802246" a="121.000008" />
     <group name="Stones" pos="6549.750000 95.311058 6506.981445" a="-155.000000" />
     <group name="Stones" pos="6556.578125 93.392075 6502.802246" a="126.999985" />
     <group name="BetulaPendula_fallen" pos="6553.453125 120.391769 6618.674316" a="48.999996" />
@@ -21141,8 +21141,8 @@
     <group name="PiceaAbies_fallene" pos="6587.810059 135.702057 1618.079956" a="129.599991" />
     <group name="PathR30" pos="6575.599609 136.159592 1640.583740" a="-144.267883" />
     <group name="PathRCurve" pos="6593.041992 136.108200 1650.979858" a="-152.273605" />
-    <group name="PathRCurve" pos="6587.809082 136.733658 1655.081299" a="-82.788177" />
     <group name="PathRCurve" pos="6586.081543 137.365005 1665.728027" a="-61.001476" />
+    <group name="PathRCurve" pos="6587.809082 136.733658 1655.081299" a="-82.788177" />
     <group name="FagusSylvatica_stumpB" pos="6573.319824 137.725235 1651.449951" a="117.000000" />
     <group name="BetulaPendula_fallen" pos="6568.439941 144.352036 1747.449951" a="161.999985" />
     <group name="BetulaPendula_fallen" pos="6585.580078 144.949738 1784.150024" a="125.999893" />
@@ -21838,18 +21838,18 @@
     <group name="PathR10" pos="6776.707520 127.185219 5564.690918" a="2.147443" />
     <group name="PathR30" pos="6768.145996 127.027122 5606.715332" a="-59.216568" />
     <group name="AppleTree2" pos="6765.935059 131.090424 5617.663086" a="123.084473" />
-    <group name="Stones" pos="6777.324219 125.868050 5618.913574" a="151.234848" />
     <group name="Stones" pos="6796.165527 125.767670 5603.669922" a="69.889145" />
-    <group name="Stones" pos="6785.108398 125.742065 5612.681152" a="-29.375788" />
+    <group name="Stones" pos="6777.324219 125.868050 5618.913574" a="151.234848" />
     <group name="Stones" pos="6790.927246 125.612144 5609.767578" a="74.340179" />
+    <group name="Stones" pos="6785.108398 125.742065 5612.681152" a="-29.375788" />
     <group name="Stones" pos="6764.136719 125.765633 5672.569824" a="-24.544859" />
     <group name="Stones" pos="6767.251465 125.770218 5662.241211" a="-51.617126" />
     <group name="PathR30" pos="6762.755859 126.890793 5717.117676" a="18.873341" />
     <group name="AppleTree1" pos="6781.464355 129.697662 5716.821289" a="167.433807" />
     <group name="PathRCurve" pos="6798.005859 126.042107 5707.233887" a="71.349457" />
     <group name="PathRCurve" pos="6797.668945 126.899132 5710.745605" a="-144.780838" />
-    <group name="Stones" pos="6792.560059 125.760132 5698.332031" a="161.161346" />
     <group name="Stones" pos="6786.093262 125.734138 5700.874512" a="3.755522" />
+    <group name="Stones" pos="6792.560059 125.760132 5698.332031" a="161.161346" />
     <group name="PathR30" pos="6773.004395 127.044731 5759.480957" a="17.326336" />
     <group name="PathR30" pos="6790.464355 126.982285 5726.532715" a="19.775745" />
     <group name="PathR30" pos="6787.821777 127.044731 5738.062988" a="17.455261" />
@@ -21978,11 +21978,11 @@
     <group name="PiceaAbies_fallene" pos="6825.187500 213.574814 3045.661621" a="97.000000" />
     <group name="Stones" pos="6800.187500 224.712738 3132.661621" a="42.999992" />
     <group name="Stones" pos="6800.187500 223.425537 3211.661621" a="52.999992" />
-    <group name="Stones" pos="6818.971680 48.432941 3676.866699" a="80.999992" />
-    <group name="Stones" pos="6826.172363 48.432941 3664.359619" a="106.199989" />
     <group name="Stones" pos="6817.045410 48.432941 3664.485596" a="-55.800003" />
-    <group name="Stones" pos="6808.637207 48.432941 3687.381104" a="70.199997" />
+    <group name="Stones" pos="6826.172363 48.432941 3664.359619" a="106.199989" />
+    <group name="Stones" pos="6818.971680 48.432941 3676.866699" a="80.999992" />
     <group name="Stones" pos="6822.953125 48.432941 3686.583496" a="170.999985" />
+    <group name="Stones" pos="6808.637207 48.432941 3687.381104" a="70.199997" />
     <group name="PiceaAbies_fallene" pos="6827.906250 195.078934 4009.887695" a="-142.999985" />
     <group name="BetulaPendula_fallen" pos="6804.906250 199.907333 4069.887695" a="92.999992" />
     <group name="Stones" pos="6836.906250 200.630310 4130.887695" a="-14.000004" />
@@ -22063,15 +22063,15 @@
     <group name="PathR10" pos="6831.702637 127.106339 5704.335449" a="69.502434" />
     <group name="PathR10" pos="6819.341797 126.909157 5705.652344" a="69.889183" />
     <group name="PathR10" pos="6828.469727 127.060265 5696.579102" a="72.080750" />
-    <group name="PathR30" pos="6823.010254 126.997528 5720.747070" a="-159.798996" />
     <group name="PathR30" pos="6812.947754 126.997528 5744.530762" a="-49.359474" />
+    <group name="PathR30" pos="6823.010254 126.997528 5720.747070" a="-159.798996" />
     <group name="AppleTree1" pos="6801.447754 129.873672 5723.101563" a="44.433819" />
+    <group name="PathRCurve" pos="6808.361816 127.109711 5744.101074" a="-77.668518" />
+    <group name="PathRCurve" pos="6806.768555 127.109711 5736.182617" a="-107.705826" />
+    <group name="PathRCurve" pos="6823.354492 127.109993 5725.870117" a="-90.412132" />
+    <group name="PathRCurve" pos="6826.909180 127.109993 5730.449219" a="159.564240" />
     <group name="PathRCurve" pos="6802.284180 127.109711 5751.107910" a="-0.858844" />
     <group name="PathRCurve" pos="6835.791504 127.109993 5724.817871" a="19.681692" />
-    <group name="PathRCurve" pos="6826.909180 127.109993 5730.449219" a="159.564240" />
-    <group name="PathRCurve" pos="6808.361816 127.109711 5744.101074" a="-77.668518" />
-    <group name="PathRCurve" pos="6823.354492 127.109993 5725.870117" a="-90.412132" />
-    <group name="PathRCurve" pos="6806.768555 127.109711 5736.182617" a="-107.705826" />
     <group name="PathRCurve" pos="6803.825195 127.109711 5745.011230" a="-122.531128" />
     <group name="PathR10" pos="6800.680176 127.110001 5759.224121" a="126.869812" />
     <group name="Haybale" pos="6824.850586 127.847252 5786.453125" a="141.498398" />
@@ -22226,13 +22226,13 @@
     <group name="PathRCurve" pos="6863.187012 127.109993 5715.952637" a="54.574238" />
     <group name="PathRCurve" pos="6873.254395 127.109993 5715.272949" a="70.362938" />
     <group name="PathR30" pos="6845.435059 126.997528 5724.613770" a="-13.188926" />
-    <group name="PathRCurve" pos="6875.153320 127.110001 5720.267090" a="18.777191" />
     <group name="PathRCurve" pos="6864.104004 127.110008 5720.446289" a="-179.494858" />
+    <group name="PathRCurve" pos="6875.153320 127.110001 5720.267090" a="18.777191" />
     <group name="Stones" pos="6878.578125 101.928474 5996.802246" a="67.999992" />
     <group name="Stones" pos="6876.578125 100.934906 6036.802246" a="68.999992" />
-    <group name="Stones" pos="6877.187500 100.340080 6047.406738" a="169.999969" />
-    <group name="Stones" pos="6857.578125 102.499718 6064.802246" a="-95.000000" />
     <group name="Stones" pos="6872.578125 100.110130 6072.802246" a="102.999992" />
+    <group name="Stones" pos="6857.578125 102.499718 6064.802246" a="-95.000000" />
+    <group name="Stones" pos="6877.187500 100.340080 6047.406738" a="169.999969" />
     <group name="Stones" pos="6856.578125 97.086891 6099.802246" a="-138.000000" />
     <group name="Stones" pos="6871.578125 89.053474 6125.802246" a="31.999998" />
     <group name="Stones" pos="6846.625000 91.124123 6122.852539" a="-14.000004" />
@@ -22329,8 +22329,8 @@
     <group name="AppleTree2" pos="6881.808594 131.436859 5697.741699" a="-109.000023" />
     <group name="AppleTree1" pos="6896.765625 129.925201 5715.714844" a="-141.000000" />
     <group name="AppleTree1" pos="6889.978027 129.925461 5695.497559" a="-141.000000" />
-    <group name="PathRCurve" pos="6885.370605 127.109993 5718.239258" a="-20.417248" />
     <group name="PathRCurve" pos="6889.766602 127.109993 5710.724121" a="-82.421593" />
+    <group name="PathRCurve" pos="6885.370605 127.109993 5718.239258" a="-20.417248" />
     <group name="Stones" pos="6887.625000 101.290520 5999.852539" a="51.000000" />
     <group name="Stones" pos="6889.578125 101.062866 6004.802246" a="75.999992" />
     <group name="Stones" pos="6903.625000 100.486679 6002.852539" a="-71.999992" />
@@ -22339,10 +22339,10 @@
     <group name="Stones" pos="6918.750000 88.831047 6060.981445" a="-108.000000" />
     <group name="Stones" pos="6883.343750 91.710632 6514.567383" a="-106.000008" />
     <group name="Stones" pos="6902.187500 92.956825 6500.406738" a="-106.000008" />
-    <group name="Stones" pos="6917.578125 100.942017 6539.802246" a="45.000000" />
-    <group name="Stones" pos="6888.578125 100.182503 6551.802246" a="49.999992" />
     <group name="Stones" pos="6919.578125 101.038582 6546.802246" a="166.999985" />
+    <group name="Stones" pos="6917.578125 100.942017 6539.802246" a="45.000000" />
     <group name="Stones" pos="6908.578125 100.580719 6535.802246" a="2.999994" />
+    <group name="Stones" pos="6888.578125 100.182503 6551.802246" a="49.999992" />
     <group name="PiceaAbies_fallene" pos="6893.453125 105.291656 6627.674316" a="115.999977" />
     <group name="Stones" pos="6887.453125 108.372055 6669.674316" a="-112.000000" />
     <group name="BetulaPendula_fallen" pos="6908.453125 109.596130 6667.674316" a="155.999969" />
@@ -22354,8 +22354,8 @@
     <group name="Stones" pos="6911.500000 92.923485 7820.954590" a="30.999996" />
     <group name="Stones" pos="6884.312500 90.995552 7846.774414" a="-25.999996" />
     <group name="Stones" pos="6904.921875 94.518364 8269.379883" a="36.000000" />
-    <group name="Stones" pos="6901.312500 102.538361 8314.774414" a="26.999994" />
     <group name="Stones" pos="6887.640625 101.351349 8296.105469" a="-43.000008" />
+    <group name="Stones" pos="6901.312500 102.538361 8314.774414" a="26.999994" />
     <group name="PathD10" pos="6908.302734 104.598885 8364.036133" a="72.000000" />
     <group name="PathR30" pos="6894.746094 118.067017 8537.747070" a="151.773636" />
     <group name="PathR10" pos="6910.315918 117.954819 8530.400391" a="173.524323" />
@@ -23055,10 +23055,10 @@
     <group name="Stones" pos="7215.453125 119.601143 6647.674316" a="97.999962" />
     <group name="BetulaPendula_fallen" pos="7218.372559 151.954681 7115.746582" a="93.688942" />
     <group name="FagusSylvatica_fallen" pos="7227.910156 179.633270 7449.069824" a="-71.999992" />
-    <group name="BetulaPendula_fallen" pos="7222.129883 179.516251 7493.100098" a="-36.000008" />
-    <group name="BetulaPendula_fallen" pos="7233.649902 179.521652 7506.279785" a="36.000000" />
     <group name="BetulaPendula_fallen" pos="7212.910156 179.658295 7501.319824" a="-36.000008" />
+    <group name="BetulaPendula_fallen" pos="7222.129883 179.516251 7493.100098" a="-36.000008" />
     <group name="BetulaPendula_fallen" pos="7220.169922 179.710342 7511.680176" a="18.000093" />
+    <group name="BetulaPendula_fallen" pos="7233.649902 179.521652 7506.279785" a="36.000000" />
     <group name="FagusSylvatica_2d_Summer" pos="7211.279785 188.005478 7536.189941" a="107.999992" />
     <group name="PiceaAbies_fallene" pos="7227.379883 180.115799 7532.640137" a="45.000000" />
     <group name="PiceaAbies_fallene" pos="7210.700195 180.221756 7522.529785" a="161.999908" />
@@ -23350,9 +23350,9 @@
     <group name="Haybale" pos="7349.780273 133.862183 6014.341309" a="-96.598381" />
     <group name="Haybale" pos="7333.843750 133.360077 6028.555176" a="141.498398" />
     <group name="Haybale" pos="7358.423828 133.474380 6032.263672" a="141.498398" />
-    <group name="Stones" pos="7337.625000 100.092018 6319.852539" a="9.000001" />
-    <group name="Stones" pos="7357.578125 100.562622 6291.802246" a="101.999969" />
     <group name="Stones" pos="7326.578125 96.642654 6301.802246" a="44.000000" />
+    <group name="Stones" pos="7357.578125 100.562622 6291.802246" a="101.999969" />
+    <group name="Stones" pos="7337.625000 100.092018 6319.852539" a="9.000001" />
     <group name="PiceaAbies_2d" pos="7342.100098 114.586777 6470.000000" a="90.000000" />
     <group name="PiceaAbies_2d" pos="7333.660156 112.974701 6506.770020" a="90.000000" />
     <group name="PiceaAbies_2d" pos="7343.470215 114.751755 6537.270020" a="90.000000" />
@@ -23642,8 +23642,8 @@
     <group name="Stones" pos="7513.015625 89.860138 1170.161133" a="5.999997" />
     <group name="Stones" pos="7505.015625 90.749763 1170.161133" a="-115.000000" />
     <group name="Stones" pos="7513.828125 97.991135 1227.980957" a="-63.000000" />
-    <group name="Stones" pos="7508.875000 98.030426 1221.031616" a="40.000000" />
     <group name="Stones" pos="7483.015625 99.631012 1216.161133" a="-44.000004" />
+    <group name="Stones" pos="7508.875000 98.030426 1221.031616" a="40.000000" />
     <group name="PathRCurve" pos="7488.821289 103.223671 1264.566772" a="116.049400" />
     <group name="PathRCurve" pos="7486.931152 103.370216 1274.708374" a="-79.547157" />
     <group name="Stones" pos="7511.015625 100.033981 1252.161133" a="-109.000000" />
@@ -23868,13 +23868,13 @@
     <group name="PathR30" pos="7572.101563 191.696701 8102.159668" a="91.003067" />
     <group name="PathRCurve" pos="7570.958496 192.003052 8083.255371" a="-96.586250" />
     <group name="FagusSylvatica_fallenB" pos="7577.984375 194.196320 8099.765625" a="90.000000" />
-    <group name="FagusSylvatica_fallenB" pos="7579.415039 193.309265 8092.527832" a="-177.815613" />
     <group name="FagusSylvatica_fallenB" pos="7597.553711 193.582962 8081.620117" a="90.000000" />
+    <group name="FagusSylvatica_fallenB" pos="7579.415039 193.309265 8092.527832" a="-177.815613" />
     <group name="FagusSylvatica_fallenC" pos="7576.133789 193.447495 8094.901855" a="144.803696" />
     <group name="PathR30" pos="7577.125977 203.296341 8140.822266" a="-109.141861" />
-    <group name="PathRCurve" pos="7572.187012 195.702682 8121.959473" a="97.689819" />
     <group name="PathRCurve" pos="7585.236816 202.830536 8158.169922" a="60.175426" />
     <group name="PathRCurve" pos="7577.593750 203.661438 8150.796387" a="-70.415932" />
+    <group name="PathRCurve" pos="7572.187012 195.702682 8121.959473" a="97.689819" />
     <group name="PiceaAbies_fallene" pos="7579.665039 201.426086 8138.810547" a="-32.577332" />
     <group name="PiceaAbies_fallend" pos="7560.972656 204.621643 8158.871582" a="-30.617929" />
     <group name="PathRCurve" pos="7573.513184 205.290665 8160.179199" a="-43.214802" />
@@ -23913,10 +23913,10 @@
     <group name="Stones" pos="7613.015625 90.944244 1330.161133" a="-1.999998" />
     <group name="Stones" pos="7614.015625 96.670753 1359.161133" a="0.999999" />
     <group name="Stones" pos="7632.828125 89.832733 1338.980957" a="-37.999996" />
-    <group name="Stones" pos="7638.015625 95.325691 1380.161133" a="-40.999996" />
-    <group name="Stones" pos="7619.828125 96.439568 1362.980957" a="63.999996" />
-    <group name="Stones" pos="7620.828125 100.368530 1387.980957" a="49.999996" />
     <group name="Stones" pos="7625.015625 95.573044 1363.161133" a="-104.000000" />
+    <group name="Stones" pos="7638.015625 95.325691 1380.161133" a="-40.999996" />
+    <group name="Stones" pos="7620.828125 100.368530 1387.980957" a="49.999996" />
+    <group name="Stones" pos="7619.828125 96.439568 1362.980957" a="63.999996" />
     <group name="Stones" pos="7634.828125 100.673073 1426.980957" a="45.999992" />
     <group name="BetulaPendula_fallen" pos="7629.976563 103.823669 1477.713257" a="115.938591" />
     <group name="BetulaPendula_fallen" pos="7602.531250 149.371536 1708.724731" a="126.000000" />
@@ -24006,14 +24006,14 @@
     <group name="Strawstack" pos="7664.255371 182.301788 2448.207031" a="43.984009" />
     <group name="HaybaleDecayed" pos="7672.589844 181.359222 2460.189941" a="90.000000" />
     <group name="HaybaleDecayed" pos="7670.529785 181.359222 2458.620117" a="112.499886" />
-    <group name="HaybaleDecayed" pos="7671.330078 181.359222 2462.159912" a="126.372108" />
     <group name="HaybaleDecayed" pos="7669.750000 181.359222 2462.080078" a="120.393990" />
+    <group name="HaybaleDecayed" pos="7671.330078 181.359222 2462.159912" a="126.372108" />
     <group name="Haybale" pos="7667.290039 181.512222 2460.780029" a="-61.435997" />
-    <group name="Haybale" pos="7668.049805 181.512222 2459.330078" a="-61.435997" />
     <group name="Haybale" pos="7669.370117 181.512222 2459.969971" a="118.701180" />
-    <group name="Haybale" pos="7668.609863 181.512222 2461.419922" a="-61.435997" />
     <group name="Haybale" pos="7670.850098 181.512222 2460.649902" a="135.115860" />
+    <group name="Haybale" pos="7668.049805 181.512222 2459.330078" a="-61.435997" />
     <group name="Haybale" pos="7669.209961 181.512222 2458.070068" a="122.561005" />
+    <group name="Haybale" pos="7668.609863 181.512222 2461.419922" a="-61.435997" />
     <group name="FagusSylvatica_fallen" pos="7644.350098 189.364517 2942.860107" a="135.000000" />
     <group name="PiceaAbies_fallene" pos="7670.187500 215.679184 3613.661621" a="-30.000002" />
     <group name="Stones" pos="7657.187500 225.974564 3774.661621" a="-79.000008" />
@@ -24110,8 +24110,8 @@
     <group name="Stones" pos="7707.183594 178.280060 2080.982422" a="-32.000004" />
     <group name="Strawstack" pos="7698.298340 182.301788 2413.243164" a="-78.288986" />
     <group name="Strawstack" pos="7704.472656 182.301788 2413.517334" a="81.763046" />
-    <group name="Strawstack" pos="7707.169922 182.313583 2465.239990" a="-62.100002" />
     <group name="Strawstack" pos="7702.100098 182.313583 2474.320068" a="115.175873" />
+    <group name="Strawstack" pos="7707.169922 182.313583 2465.239990" a="-62.100002" />
     <group name="FagusSylvatica_fallenB" pos="7711.583496 189.385300 2801.555176" a="82.229240" />
     <group name="FagusSylvatica_fallenC" pos="7717.596680 189.335419 2803.548828" a="11.613094" />
     <group name="BetulaPendula_fallen" pos="7709.187500 204.115128 3307.661621" a="-109.999992" />
@@ -24204,9 +24204,9 @@
     <group name="Stones" pos="7740.828125 98.249390 1539.980957" a="-7.000003" />
     <group name="BetulaPendula_fallen" pos="7721.312500 106.829025 1583.557983" a="-38.900925" />
     <group name="PiceaAbies_fallene" pos="7723.531250 182.097214 2016.724731" a="-151.000000" />
+    <group name="Strawstack" pos="7737.573730 182.301788 2437.987061" a="58.999252" />
     <group name="Strawstack" pos="7748.861328 182.301804 2430.001465" a="-99.566826" />
     <group name="Strawstack" pos="7745.637695 182.301788 2436.157227" a="-118.069633" />
-    <group name="Strawstack" pos="7737.573730 182.301788 2437.987061" a="58.999252" />
     <group name="Strawstack" pos="7732.639160 182.301788 2446.000732" a="45.137383" />
     <group name="FagusSylvatica_fallen" pos="7722.009766 189.364517 2795.689941" a="54.000095" />
     <group name="FagusSylvatica_stumpB" pos="7730.375000 189.691666 2789.913818" a="48.337097" />
@@ -24411,12 +24411,12 @@
     <group name="FagusSylvatica_fallen" pos="7802.735352 200.384521 5522.377441" a="-12.600007" />
     <group name="BetulaPendula_fallen" pos="7834.387695 200.232544 5550.058105" a="123.653069" />
     <group name="BetulaPendula_fallen" pos="7802.372559 200.232544 5522.662109" a="-138.599991" />
-    <group name="BetulaPendula_fallen" pos="7834.200684 200.232544 5572.719727" a="-107.999992" />
     <group name="BetulaPendula_fallen" pos="7827.218262 200.373764 5591.660645" a="-135.000000" />
     <group name="BetulaPendula_fallen" pos="7829.367188 201.120560 5596.194336" a="63.000099" />
+    <group name="BetulaPendula_fallen" pos="7834.200684 200.232544 5572.719727" a="-107.999992" />
     <group name="BetulaPendula_fallen" pos="7804.824219 198.820557 5593.669922" a="-27.000004" />
-    <group name="FagusSylvatica_stumpB" pos="7832.221191 200.711670 5578.054199" a="-104.379005" />
     <group name="FagusSylvatica_stumpB" pos="7820.913086 200.711670 5588.753906" a="90.000000" />
+    <group name="FagusSylvatica_stumpB" pos="7832.221191 200.711670 5578.054199" a="-104.379005" />
     <group name="BetulaPendula_stump" pos="7818.026367 201.263657 5588.788086" a="28.799999" />
     <group name="PiceaAbies_fallene" pos="7822.812500 197.795975 5649.298828" a="-80.999992" />
     <group name="BetulaPendula_fallen" pos="7800.812500 194.869568 5646.298828" a="77.000000" />
@@ -24437,12 +24437,12 @@
     <group name="Haybale" pos="7831.222656 159.775665 6603.066406" a="-126.635773" />
     <group name="Stones" pos="7820.515625 157.991791 6746.745117" a="-130.000000" />
     <group name="PiceaAbies_fallene" pos="7831.515625 158.348541 6880.745117" a="177.999985" />
-    <group name="PathD10" pos="7820.331543 161.960007 7025.147461" a="94.276886" />
-    <group name="PathD10" pos="7830.563965 161.709000 7036.993652" a="94.325485" />
-    <group name="PathD10" pos="7810.646973 162.141998 7013.242188" a="-175.519287" />
     <group name="PathD10" pos="7835.057617 160.063004 7036.855469" a="90.000000" />
-    <group name="PathD10" pos="7837.256348 160.080002 7037.297852" a="90.000000" />
+    <group name="PathD10" pos="7810.646973 162.141998 7013.242188" a="-175.519287" />
+    <group name="PathD10" pos="7830.563965 161.709000 7036.993652" a="94.325485" />
+    <group name="PathD10" pos="7820.331543 161.960007 7025.147461" a="94.276886" />
     <group name="PathD10" pos="7832.508789 160.035004 7036.692383" a="90.000000" />
+    <group name="PathD10" pos="7837.256348 160.080002 7037.297852" a="90.000000" />
     <group name="BetulaPendula_fallen" pos="7810.531250 166.642105 7295.580078" a="-162.999985" />
     <group name="PathR30" pos="7831.965332 174.587112 7989.877441" a="-78.714340" />
     <group name="PathR10" pos="7833.353516 175.083191 7997.524902" a="61.831959" />
@@ -24500,8 +24500,8 @@
     <group name="BetulaPendula_fallen" pos="7847.926270 200.182327 5519.020996" a="54.000000" />
     <group name="FagusSylvatica_stumpB" pos="7848.930176 199.896606 5506.476563" a="-8.999904" />
     <group name="FagusSylvatica_fallen" pos="7864.288086 200.384521 5556.608398" a="-107.999992" />
-    <group name="BetulaPendula_fallen" pos="7858.582520 200.232544 5541.508301" a="-0.000003" />
     <group name="BetulaPendula_fallen" pos="7858.572754 200.232544 5553.677734" a="-54.000004" />
+    <group name="BetulaPendula_fallen" pos="7858.582520 200.232544 5541.508301" a="-0.000003" />
     <group name="BetulaPendula_stump" pos="7873.271973 200.455856 5555.948242" a="90.000000" />
     <group name="FagusSylvatica_fallen" pos="7840.687012 200.458435 5586.289551" a="-45.000000" />
     <group name="FagusSylvatica_stumpB" pos="7852.782715 200.711670 5560.438965" a="-169.179016" />
@@ -24979,15 +24979,15 @@
     <group name="Stones" pos="8055.203125 141.879669 6318.421387" a="135.999954" />
     <group name="Stones" pos="8062.203125 141.778961 6288.421387" a="130.999969" />
     <group name="PiceaAbies_fallene" pos="8062.203125 144.728348 6346.421387" a="-107.999992" />
-    <group name="Haybale" pos="8072.074707 149.704117 6470.864746" a="141.498398" />
-    <group name="Haybale" pos="8070.134277 148.157684 6469.849121" a="141.498398" />
-    <group name="Haybale" pos="8070.796387 148.007523 6468.117676" a="-164.810989" />
-    <group name="Haybale" pos="8065.831543 147.938538 6446.836426" a="110.439926" />
-    <group name="Haybale" pos="8071.808105 148.095963 6474.640137" a="110.439926" />
-    <group name="Haybale" pos="8069.779785 147.843414 6445.886230" a="-164.810989" />
     <group name="Haybale" pos="8068.231445 147.994095 6448.005371" a="141.498398" />
+    <group name="Haybale" pos="8070.796387 148.007523 6468.117676" a="-164.810989" />
+    <group name="Haybale" pos="8070.134277 148.157684 6469.849121" a="141.498398" />
+    <group name="Haybale" pos="8071.808105 148.095963 6474.640137" a="110.439926" />
+    <group name="Haybale" pos="8065.831543 147.938538 6446.836426" a="110.439926" />
+    <group name="Haybale" pos="8069.779785 147.843414 6445.886230" a="-164.810989" />
     <group name="Haybale" pos="8069.704590 148.071075 6472.290527" a="169.225403" />
     <group name="Haybale" pos="8072.091309 148.169464 6470.899902" a="141.498398" />
+    <group name="Haybale" pos="8072.074707 149.704117 6470.864746" a="141.498398" />
     <group name="Stones" pos="8045.239746 153.164230 6520.406250" a="157.999985" />
     <group name="BetulaPendula_fallen" pos="8058.537109 160.950150 6700.544434" a="-128.843430" />
     <group name="Stones" pos="8046.515625 161.950668 6932.745117" a="23.999996" />
@@ -25062,8 +25062,8 @@
     <group name="Stones" pos="8116.203125 142.503967 6251.421387" a="-64.999992" />
     <group name="Stones" pos="8083.203125 142.884033 6302.421387" a="111.999969" />
     <group name="PathRCurve" pos="8093.667969 147.102570 6439.524902" a="-43.615013" />
-    <group name="Haybale" pos="8100.129395 148.784714 6459.043945" a="140.103912" />
     <group name="Haybale" pos="8098.845703 148.790329 6457.802734" a="140.103912" />
+    <group name="Haybale" pos="8100.129395 148.784714 6459.043945" a="140.103912" />
     <group name="FagusSylvatica_fallenB" pos="8081.040039 161.224045 6684.910156" a="26.999992" />
     <group name="Haybale" pos="8092.522461 161.408173 6722.007324" a="141.498398" />
     <group name="BetulaPendula_fallen" pos="8097.515625 157.374451 6942.745117" a="51.999996" />
@@ -25560,15 +25560,15 @@
     <group name="PiceaAbies_3d" pos="8281.820313 113.315155 1211.465332" a="90.000000" />
     <group name="FagusSylvatica_fallenB" pos="8304.589844 103.665314 1237.479980" a="161.999985" />
     <group name="FagusSylvatica_fallen" pos="8317.410156 103.644524 1253.770020" a="19.800005" />
-    <group name="FagusSylvatica_fallenB" pos="8310.570313 103.665314 1259.069946" a="81.000122" />
-    <group name="FagusSylvatica_fallenB" pos="8317.919922 103.665314 1263.619995" a="-18.000002" />
-    <group name="FagusSylvatica_fallenB" pos="8282.509766 103.665314 1256.119995" a="107.999992" />
-    <group name="FagusSylvatica_fallenB" pos="8318.230469 103.665314 1260.390015" a="-39.600010" />
     <group name="FagusSylvatica_fallenB" pos="8314.000000 103.665314 1264.750000" a="23.400095" />
+    <group name="FagusSylvatica_fallenB" pos="8310.570313 103.665314 1259.069946" a="81.000122" />
     <group name="FagusSylvatica_fallenB" pos="8316.209961 103.665314 1261.530029" a="-12.600007" />
+    <group name="FagusSylvatica_fallenB" pos="8318.230469 103.665314 1260.390015" a="-39.600010" />
     <group name="FagusSylvatica_fallenB" pos="8317.360352 103.665314 1268.719971" a="-39.600010" />
-    <group name="FagusSylvatica_fallenC" pos="8318.910156 103.615425 1262.579956" a="90.000000" />
+    <group name="FagusSylvatica_fallenB" pos="8282.509766 103.665314 1256.119995" a="107.999992" />
+    <group name="FagusSylvatica_fallenB" pos="8317.919922 103.665314 1263.619995" a="-18.000002" />
     <group name="FagusSylvatica_fallenC" pos="8316.919922 103.615425 1265.810059" a="135.000000" />
+    <group name="FagusSylvatica_fallenC" pos="8318.910156 103.615425 1262.579956" a="90.000000" />
     <group name="PiceaAbies_3d" pos="8319.599609 113.308807 1296.025391" a="90.000000" />
     <group name="PiceaAbies_3d" pos="8288.400391 113.308807 1306.105347" a="90.000000" />
     <group name="PiceaAbies_3d" pos="8281.080078 113.308807 1291.395386" a="90.000000" />
@@ -25726,8 +25726,8 @@
     <group name="FagusSylvatica_fallen" pos="8332.269531 103.649200 1199.949951" a="-115.200012" />
     <group name="FagusSylvatica_fallenB" pos="8339.330078 103.688454 1192.010010" a="-135.000000" />
     <group name="FagusSylvatica_fallenB" pos="8342.549805 103.674477 1194.150024" a="-126.000000" />
-    <group name="FagusSylvatica_stumpB" pos="8359.629883 103.971680 1226.699951" a="-140.399979" />
     <group name="FagusSylvatica_stumpB" pos="8321.259766 103.978745 1205.189941" a="-138.599991" />
+    <group name="FagusSylvatica_stumpB" pos="8359.629883 103.971680 1226.699951" a="-140.399979" />
     <group name="FagusSylvatica_fallenB" pos="8332.709961 103.665314 1237.300049" a="72.000000" />
     <group name="FagusSylvatica_fallenB" pos="8340.740234 103.665375 1200.040039" a="-80.999992" />
     <group name="FagusSylvatica_stumpB" pos="8321.269531 103.971680 1242.699951" a="-63.000000" />
@@ -26000,8 +26000,8 @@
     <group name="Stones" pos="8426.812500 159.443390 5854.298828" a="176.999985" />
     <group name="Stones" pos="8426.703125 100.063919 6194.010254" a="31.999998" />
     <group name="Stones" pos="8437.515625 100.735504 6179.830566" a="-130.000000" />
-    <group name="Stones" pos="8415.515625 95.425018 6221.830566" a="-166.000000" />
     <group name="Stones" pos="8412.281250 99.510567 6210.595703" a="-8.999998" />
+    <group name="Stones" pos="8415.515625 95.425018 6221.830566" a="-166.000000" />
     <group name="Stones" pos="8409.515625 100.073677 6341.830566" a="142.999985" />
     <group name="Stones" pos="8430.125000 100.881058 6345.435547" a="110.999969" />
     <group name="Stones" pos="8432.515625 98.185303 6332.830566" a="-8.000006" />
@@ -26269,11 +26269,11 @@
     <group name="Stones" pos="8510.703125 91.702232 6177.010254" a="-91.000008" />
     <group name="Stones" pos="8507.703125 92.265099 6177.010254" a="-142.999985" />
     <group name="Stones" pos="8484.703125 99.694359 6338.010254" a="151.000000" />
-    <group name="PiceaAbies_2d" pos="8511.647461 179.181458 6731.334961" a="54.000015" />
     <group name="PiceaAbies_2d" pos="8481.375977 179.423340 6728.886719" a="108.000046" />
-    <group name="PiceaAbies_2d" pos="8487.631836 179.373108 6822.597168" a="-62.999905" />
-    <group name="PiceaAbies_2d" pos="8502.494141 179.423340 6835.424316" a="45.000000" />
+    <group name="PiceaAbies_2d" pos="8511.647461 179.181458 6731.334961" a="54.000015" />
     <group name="PiceaAbies_2d" pos="8500.700195 179.423340 6805.988281" a="45.000000" />
+    <group name="PiceaAbies_2d" pos="8502.494141 179.423340 6835.424316" a="45.000000" />
+    <group name="PiceaAbies_2d" pos="8487.631836 179.373108 6822.597168" a="-62.999905" />
     <group name="PiceaAbies_fallene" pos="8492.631836 172.584412 6955.058594" a="-88.586670" />
     <group name="Stones" pos="8507.484375 164.817673 7046.863281" a="67.000000" />
     <group name="Stones" pos="8489.484375 160.586929 7133.863281" a="28.999994" />
@@ -26599,8 +26599,8 @@
     <group name="PiceaAbies_3d" pos="8628.940430 189.514069 2305.395264" a="90.000000" />
     <group name="BetulaPendula_stump" pos="8630.809570 160.687546 2472.620117" a="-174.473282" />
     <group name="PiceaAbies_3d" pos="8626.870117 143.333344 2579.295410" a="90.000000" />
-    <group name="PiceaAbies_3d" pos="8626.769531 148.235168 2622.295410" a="90.000000" />
     <group name="PiceaAbies_3d" pos="8636.570313 151.384521 2637.315430" a="90.000000" />
+    <group name="PiceaAbies_3d" pos="8626.769531 148.235168 2622.295410" a="90.000000" />
     <group name="PiceaAbies_3d" pos="8604.669922 153.933838 2679.645264" a="90.000000" />
     <group name="PiceaAbies_2d" pos="8604.110352 151.698212 2699.689941" a="90.000000" />
     <group name="PiceaAbies_2d" pos="8610.700195 150.982422 2683.590088" a="90.000000" />
@@ -26751,8 +26751,8 @@
     <group name="PiceaAbies_3d" pos="8649.740234 149.680481 2550.785400" a="90.000000" />
     <group name="PiceaAbies_3d" pos="8650.790039 147.356689 2598.815430" a="90.000000" />
     <group name="PiceaAbies_fallene" pos="8646.694336 137.206894 2569.434082" a="-92.779419" />
-    <group name="BetulaPendula_fallen" pos="8652.298828 137.546066 2594.106445" a="97.000000" />
     <group name="BetulaPendula_fallen" pos="8657.301758 139.901306 2561.369141" a="-162.493942" />
+    <group name="BetulaPendula_fallen" pos="8652.298828 137.546066 2594.106445" a="97.000000" />
     <group name="Stones" pos="8643.578125 138.168930 2617.091309" a="-77.000000" />
     <group name="PiceaAbies_fallene" pos="8647.578125 144.983719 2667.091309" a="-162.999985" />
     <group name="PiceaAbies_fallene" pos="8656.578125 146.012878 2684.091309" a="-28.000000" />
@@ -26816,8 +26816,8 @@
     <group name="Stones" pos="8673.078125 100.425629 9390.334961" a="90.999977" />
     <group name="Stones" pos="8640.687500 101.242203 9418.944336" a="56.999996" />
     <group name="Stones" pos="8664.937500 100.964561 9426.205078" a="118.999992" />
-    <group name="PathR10" pos="8644.333984 101.253510 9400.151367" a="-151.577316" />
     <group name="PathR10" pos="8651.708984 101.265747 9405.018555" a="36.836102" />
+    <group name="PathR10" pos="8644.333984 101.253510 9400.151367" a="-151.577316" />
     <group name="Stones" pos="8657.328125 100.506729 9440.588867" a="-160.000000" />
     <group name="Stones" pos="8640.937500 100.312950 9463.205078" a="-2.999999" />
     <group name="Stones" pos="8641.328125 100.332176 9453.588867" a="45.999992" />
@@ -27067,10 +27067,10 @@
     <group name="FagusSylvatica_stumpC" pos="8730.519531 129.351578 7308.390137" a="90.000000" />
     <group name="PathRCurve" pos="8741.442383 128.703201 7374.725586" a="-122.898048" />
     <group name="Haybale" pos="8729.658203 134.260071 7479.749512" a="-95.454437" />
-    <group name="Haybale" pos="8727.608398 134.414215 7476.303223" a="179.796432" />
     <group name="Haybale" pos="8726.775391 134.597565 7477.834961" a="141.498398" />
-    <group name="Haybale" pos="8748.156250 134.426147 7493.807617" a="79.509254" />
+    <group name="Haybale" pos="8727.608398 134.414215 7476.303223" a="179.796432" />
     <group name="Haybale" pos="8746.769531 134.529922 7492.669434" a="79.509254" />
+    <group name="Haybale" pos="8748.156250 134.426147 7493.807617" a="79.509254" />
     <group name="PathR30" pos="8757.583984 122.024399 8040.620605" a="163.812592" />
     <group name="PathR30" pos="8730.479492 119.822647 8042.937988" a="-172.624176" />
     <group name="PiceaAbies_fallene" pos="8747.781250 132.986771 8171.411133" a="-58.999996" />
@@ -27134,8 +27134,8 @@
     <group name="BetulaPendula_stump" pos="8787.150391 153.262436 2261.290039" a="66.234093" />
     <group name="PiceaAbies_3d" pos="8773.620117 161.153656 2398.265381" a="90.000000" />
     <group name="BetulaPendula_fallen" pos="8791.780273 150.841888 2385.540039" a="149.362610" />
-    <group name="BetulaPendula_stump" pos="8792.150391 151.703659 2373.760010" a="63.791096" />
     <group name="BetulaPendula_stump" pos="8766.169922 152.196915 2393.850098" a="57.599995" />
+    <group name="BetulaPendula_stump" pos="8792.150391 151.703659 2373.760010" a="63.791096" />
     <group name="PiceaAbies_3d" pos="8766.580078 164.234070 2432.085449" a="90.000000" />
     <group name="PiceaAbies_3d" pos="8783.719727 162.547180 2410.995361" a="90.000000" />
     <group name="PiceaAbies_fallene" pos="8765.440430 151.516373 2402.919922" a="45.000000" />
@@ -27253,10 +27253,10 @@
     <group name="PiceaAbies_3d" pos="8822.980469 160.529877 2384.045410" a="90.000000" />
     <group name="PiceaAbies_fallene" pos="8822.490234 151.056732 2390.520020" a="18.790899" />
     <group name="BetulaPendula_fallen" pos="8835.650391 150.785538 2391.280029" a="-9.308198" />
-    <group name="BetulaPendula_stump" pos="8811.490234 152.262726 2395.939941" a="31.391195" />
     <group name="BetulaPendula_stump" pos="8827.509766 151.923447 2393.850098" a="26.692001" />
     <group name="BetulaPendula_stump" pos="8807.500000 151.815704 2385.679932" a="31.391195" />
     <group name="BetulaPendula_stump" pos="8837.780273 151.712219 2387.889893" a="-5.708203" />
+    <group name="BetulaPendula_stump" pos="8811.490234 152.262726 2395.939941" a="31.391195" />
     <group name="PiceaAbies_2d" pos="8815.940430 164.911331 2684.820068" a="90.000000" />
     <group name="PiceaAbies_2d" pos="8832.669922 170.968674 2700.449951" a="90.000000" />
     <group name="PiceaAbies_2d" pos="8810.959961 188.099976 2813.560059" a="90.000000" />
@@ -28469,8 +28469,8 @@
     <group name="PiceaAbies_2d" pos="9271.110352 219.183685 3743.649902" a="90.000000" />
     <group name="PiceaAbies_2d" pos="9273.009766 219.928604 3754.469971" a="90.000000" />
     <group name="PiceaAbies_2d" pos="9243.480469 211.740463 3740.419922" a="90.000000" />
-    <group name="PiceaAbies_2d" pos="9267.950195 212.333328 3831.409912" a="36.000000" />
     <group name="PiceaAbies_2d" pos="9267.389648 212.333328 3823.120117" a="90.000000" />
+    <group name="PiceaAbies_2d" pos="9267.950195 212.333328 3831.409912" a="36.000000" />
     <group name="PiceaAbies_2d" pos="9262.419922 212.524353 3803.020020" a="90.000000" />
     <group name="PathRCurve" pos="9244.780273 205.240891 3837.640381" a="112.379646" />
     <group name="FagusSylvatica_fallenB" pos="9258.139648 205.915298 3825.570068" a="90.000000" />
@@ -28605,8 +28605,8 @@
     <group name="PathR30" pos="9317.930664 202.790222 3168.425537" a="99.405594" />
     <group name="PiceaAbies_fallene" pos="9299.640625 204.975204 3164.818604" a="83.000000" />
     <group name="PathR30" pos="9308.578125 213.159103 3221.586182" a="106.496803" />
-    <group name="PathR30" pos="9302.163086 220.852234 3276.094727" a="-95.235313" />
     <group name="PathR30" pos="9302.806641 217.356384 3248.803711" a="-80.918785" />
+    <group name="PathR30" pos="9302.163086 220.852234 3276.094727" a="-95.235313" />
     <group name="PathR30" pos="9303.601563 220.658859 3303.040039" a="87.832451" />
     <group name="PathRCurve" pos="9308.488281 220.987778 3297.669434" a="39.738358" />
     <group name="PathRCurve" pos="9308.821289 221.506424 3303.455811" a="155.496750" />
@@ -29090,8 +29090,8 @@
     <group name="PathR10" pos="9417.198242 223.039642 3759.099609" a="6.671535" />
     <group name="PathR10" pos="9402.390625 223.771454 3754.903320" a="40.669189" />
     <group name="PathR30" pos="9406.128906 225.855606 3789.057373" a="-108.021111" />
-    <group name="PiceaAbies_2d" pos="9434.230469 231.192215 3793.969971" a="90.000000" />
     <group name="PiceaAbies_2d" pos="9411.990234 231.043655 3783.489990" a="90.000000" />
+    <group name="PiceaAbies_2d" pos="9434.230469 231.192215 3793.969971" a="90.000000" />
     <group name="PathR10" pos="9403.152344 223.316650 3766.353760" a="130.121017" />
     <group name="PathR10" pos="9408.968750 222.964752 3760.756104" a="151.957642" />
     <group name="PathR30" pos="9413.283203 225.687073 3815.053223" a="76.663239" />
@@ -29723,9 +29723,9 @@
     <group name="Stones" pos="9567.843750 98.644516 6480.161621" a="13.999999" />
     <group name="Stones" pos="9564.515625 101.352867 6521.830566" a="52.999992" />
     <group name="PathR30" pos="9582.506836 137.807922 6784.241211" a="-27.130051" />
-    <group name="PiceaAbies_fallene" pos="9585.250000 141.493378 6877.430664" a="-161.000000" />
     <group name="PiceaAbies_fallene" pos="9580.714844 140.431870 6849.205078" a="34.999996" />
     <group name="PiceaAbies_fallene" pos="9592.801758 142.416992 6857.007324" a="-39.000008" />
+    <group name="PiceaAbies_fallene" pos="9585.250000 141.493378 6877.430664" a="-161.000000" />
     <group name="PiceaAbies_fallene" pos="9567.250000 139.618866 6902.430664" a="61.000000" />
     <group name="PiceaAbies_2d" pos="9579.806641 149.962341 6946.389160" a="90.000000" />
     <group name="PiceaAbies_fallene" pos="9577.250000 143.000641 6942.430664" a="125.999992" />

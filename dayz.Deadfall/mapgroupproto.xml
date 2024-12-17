@@ -19244,6 +19244,28 @@
             <point pos="-1.596639 -1.601072 -2.043298" range="1.199951" height="2.000000" flags="32" />
         </container>
     </group>
+    <group name="Land_House_1W08_Blue">
+        <usage name="Village" />
+        <container name="lootFloor" lootmax="1">
+            <category name="tools" />
+            <category name="containers" />
+            <category name="clothes" />
+            <tag name="floor" />
+            <point pos="0.008098 -1.884008 0.737837" range="1" height="1" /> 
+        </container>
+        <container name="lootshelves" lootmax="4">
+            <category name="tools" />
+            <category name="containers" />
+            <category name="clothes" />
+            <category name="food" />
+            <category name="books" />
+            <tag name="shelves" />
+            <point pos="4.059168 -1.057373 -3.155612" range="0.5" height="0.5" /> 
+            <point pos="0.581542 -1.419553 -3.045912" range="0.5" height="0.5" /> 
+            <point pos="0.008098 -1.884008 0.737837" range="1" height="1" /> 
+            <point pos="3.900832 -1.081083 -1.467120" range="0.5" height="0.5" /> 
+        </container>
+    </group>
 
     <!-- RE4 house -->
     <group name="land_re4_house" lootmax="6">
