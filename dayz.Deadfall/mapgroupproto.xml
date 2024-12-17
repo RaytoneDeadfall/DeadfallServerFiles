@@ -17389,7 +17389,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="weapons" />
             <tag name="floor" />
             <tag name="shelves" />
             <point pos="-0.303983 -1.279922 -0.610146" range="0.083643" height="0.250000" />
@@ -17417,7 +17416,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
-            <category name="weapons" />
             <tag name="floor" />
             <tag name="shelves" />
             <point pos="-1.636780 -0.433453 -0.132813" range="0.306250" height="0.765625" />
@@ -19169,7 +19167,6 @@
         </container>
     </group>
     <group name="Land_House_1W14_Dam" lootmax="5">
-        <usage name="Industrial" />
         <usage name="Hunting" />
         <usage name="Village" />
         <container name="lootFloor" lootmax="5">
@@ -19183,7 +19180,6 @@
         </container>
     </group>
     <group name="Land_House_1W14_Dam_Snow" lootmax="5">
-        <usage name="Industrial" />
         <usage name="Hunting" />
         <usage name="Village" />
         <container name="lootFloor" lootmax="5">
@@ -19197,7 +19193,6 @@
         </container>
     </group>
     <group name="Land_House_1W15_Dam" lootmax="5">
-        <usage name="Industrial" />
         <usage name="Hunting" />
         <usage name="Village" />
         <container name="lootFloor" lootmax="5">
@@ -19213,7 +19208,6 @@
         </container>
     </group>
     <group name="Land_House_1W15_Dam_Snow" lootmax="5">
-        <usage name="Industrial" />
         <usage name="Hunting" />
         <usage name="Village" />
         <container name="lootFloor" lootmax="5">
