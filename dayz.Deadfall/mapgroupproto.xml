@@ -19240,24 +19240,29 @@
     </group>
     <group name="Land_House_1W08_Blue">
         <usage name="Village" />
-        <container name="lootFloor" lootmax="1">
+        <container name="lootFloor">
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
             <tag name="floor" />
-            <point pos="0.008098 -1.884008 0.737837" range="1" height="1" /> 
+            <point pos="0.499803 -1.420082 -3.589292" range="0.049484" height="0.802002" />
+            <point pos="1.338999 -1.879135 0.733331" range="0.330836" height="0.827087" />
+            <point pos="3.874078 -1.879135 -0.562289" range="0.459206" height="1.148010" />
+            <point pos="0.982228 -0.415726 2.751851" range="0.237500" height="0.593750" />
+            <point pos="3.130598 -0.485184 -6.494385" range="0.271875" height="0.679688" />
+            <point pos="3.827411 -0.923431 -6.528565" range="0.203125" height="0.507813" />
         </container>
-        <container name="lootshelves" lootmax="4">
+        <container name="lootshelves">
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
             <category name="books" />
             <tag name="shelves" />
-            <point pos="4.059168 -1.057373 -3.155612" range="0.5" height="0.5" /> 
-            <point pos="0.581542 -1.419553 -3.045912" range="0.5" height="0.5" /> 
-            <point pos="0.008098 -1.884008 0.737837" range="1" height="1" /> 
-            <point pos="3.900832 -1.081083 -1.467120" range="0.5" height="0.5" /> 
+            <point pos="4.059056 -1.057373 -3.155520" range="0.500000" height="0.063080" />
+            <point pos="0.581322 -1.420082 -3.045888" range="0.500000" height="1.250000" />
+            <point pos="3.900643 -1.093994 -1.466955" range="0.500000" height="1.250000" />
+            <point pos="0.008179 -1.879135 0.737578" range="1.000000" height="0.292183" />
         </container>
     </group>
 
