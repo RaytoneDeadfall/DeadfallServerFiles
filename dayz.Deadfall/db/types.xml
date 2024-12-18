@@ -9420,7 +9420,7 @@
         <nominal>6</nominal>
         <lifetime>5400</lifetime>
         <restock>300</restock>
-        <min>3</min>
+        <min>4</min>
         <quantmin>0</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -10429,7 +10429,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="Military" />
-        <value name="Winter" />
+        <value name="Tier3" />
     </type>
     <type name="Mag_STANAG_60Rnd">
         <nominal>1</nominal>
@@ -10454,7 +10454,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Winter"/>
+        <value name="Tier3"/>
     </type>
     <type name="Mag_SVD_10Rnd">
         <nominal>3</nominal>
@@ -11247,10 +11247,10 @@
         <usage name="Medic" />
     </type>
     <type name="Mosin9130">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>5400</lifetime>
         <restock>300</restock>
-        <min>3</min>
+        <min>2</min>
         <quantmin>0</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -11262,7 +11262,7 @@
         <value name="Tier2" />
     </type>
     <type name="Mosin9130_Black">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>5400</lifetime>
         <restock>1800</restock>
         <min>2</min>
@@ -13973,7 +13973,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <value name="Winter"/>
+        <value name="Tier3"/>
     </type>
     <type name="SVD">
         <nominal>1</nominal>
