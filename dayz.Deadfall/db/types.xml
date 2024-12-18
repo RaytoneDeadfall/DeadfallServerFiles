@@ -2282,10 +2282,10 @@
         <usage name="Town" />
     </type>
     <type name="B95">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>5400</lifetime>
         <restock>1800</restock>
-        <min>3</min>
+        <min>2</min>
         <quantmin>0</quantmin>
         <quantmax>75</quantmax>
         <cost>100</cost>
@@ -2293,7 +2293,6 @@
         <category name="weapons" />
         <usage name="Hunting" />
         <value name="Tier2" />
-        <value name="Tier3" />
     </type>
     <type name="BDUJacket">
         <nominal>10</nominal>
