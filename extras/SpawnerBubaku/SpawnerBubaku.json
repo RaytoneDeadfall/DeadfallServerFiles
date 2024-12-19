@@ -443,7 +443,7 @@
                 "9789.66 131.46 10064.6",
                 "9784.78 131.46 10064.9"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 8,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
@@ -476,7 +476,7 @@
                 "9863.71 131.46 10143",
                 "9888.66 131.46 10153.5"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 8,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
@@ -509,7 +509,7 @@
                 "9933.98 131.46 10135.7",
                 "9941.84 131.46 10140.1"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 5,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
@@ -572,7 +572,7 @@
                 "10001.6 131.46 10015.7",
                 "10025.5 131.472 10011.3"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 8,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
@@ -610,7 +610,7 @@
                 "10008.3 131.46 9728.33",
                 "10009 131.46 9773.36"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 10,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
@@ -644,7 +644,7 @@
                 "10112.6 149.373 9524.12",
                 "10123.1 149.365 9546.13"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 4,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
@@ -683,7 +683,7 @@
                 "10130.2 134.049 9602.57",
                 "10124.7 134.205 9605.16"
             ],
-            "spawnradius": 0.0,
+            "spawnradius": -1.0,
             "bubaknum": 6,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
