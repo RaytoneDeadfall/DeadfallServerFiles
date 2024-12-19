@@ -19635,6 +19635,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="containers" />
+        <tag name="floor" />
         <usage name="Military" />
         <usage name="Industrial" />
         <value name="Tier5" />
