@@ -15276,7 +15276,7 @@
     </type>
     <type name="SodaCan_Fronta">
         <nominal>10</nominal>
-        <lifetime>1440</lifetime>
+        <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
