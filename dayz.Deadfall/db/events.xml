@@ -150,7 +150,7 @@
         </children>
     </event>
     <event name="AnimalReindeer">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <min>2</min>
         <max>3</max>
         <lifetime>180</lifetime>
