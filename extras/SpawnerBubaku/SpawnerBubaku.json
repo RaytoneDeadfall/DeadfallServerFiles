@@ -102,7 +102,9 @@
             "itemrandomdmg": 0,
             "bubaci": [
                 "Deadfall_Creatures_Spiderskull_small",
-                "Deadfall_Creatures_Spiderskull_normal"
+                "Deadfall_Creatures_Spiderskull_normal",
+                "Deadfall_Creatures_Skeleton_2",
+                "Deadfall_Creatures_Skeleton_3"
             ],
             "bubakinventory": []
         },
