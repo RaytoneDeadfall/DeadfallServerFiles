@@ -19293,22 +19293,21 @@
     <group name="Land_OldAltar" lootmax="2">
         <usage name="Special" />
         <container name="lootFloor" lootmax="2">
-            <category name="altar" />
-            <point pos="1.108681 1.143009 0.001650" range="1.2" height="2" />
-            <point pos="-1.153507 1.137009 -0.004523" range="1.2" height="2" />
+                <category name="altar" />
+                <point pos="-1.151099 1.046997 0.067478" range="0.959375" height="2.000000" />
+                <point pos="1.027256 1.046997 0.122742" range="0.856250" height="2.000000" />
         </container>
     </group>
     <group name="Land_Misc_Table_Large_Spawn" lootmax="2">
-        <usage name="Hunting" />
         <usage name="Village" />
+        <usage name="Hunting" />
         <container name="lootFloor" lootmax="2">
-            <category name="containers" />
-            <category name="tools" />
-            <category name="clothes" />
-            <category name="weapons" />
-            <point pos="-0.127547 0.074951 -0.826052" range="0.203125" height="0.507813" />
-            <point pos="0.474334 0.432281 -0.136158" range="0.443750" height="1.109375" />
-            <point pos="-0.470391 0.432281 0.065138" range="0.512500" height="1.281250" />
+                <category name="tools" />
+                <category name="containers" />
+                <category name="clothes" />
+                <category name="weapons" />
+                <point pos="0.589756 0.432297 -0.144269" range="0.512500" height="1.281250" flags="16" />
+                <point pos="-0.696988 0.432297 0.275984" range="0.340625" height="0.851563" flags="16" />
         </container>
     </group>
     <group name="Land_Misc_Table_Market_Spawn" lootmax="2">
