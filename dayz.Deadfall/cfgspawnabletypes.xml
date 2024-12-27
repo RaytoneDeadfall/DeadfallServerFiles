@@ -1962,6 +1962,7 @@
 	<!-- FireFighter -->
 	<type name="ZmbM_FirefighterNormal">
 		<cargo preset="toolsCity" />
+		<cargo preset="ContaminatedCargo" />
 		<attachments preset="hatsFirefighter" />
 	</type>
 	<!-- Medic -->
