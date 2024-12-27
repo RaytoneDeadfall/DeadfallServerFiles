@@ -466,7 +466,7 @@
 	</type>	
 	<type name="AirborneMask">
 		<damage min="0.0" max="0.35" />
-		<cargo chance="0.3">
+		<cargo chance="1.0">
 			<item name="GasMask_Filter" />
 		</cargo>
 	</type>
