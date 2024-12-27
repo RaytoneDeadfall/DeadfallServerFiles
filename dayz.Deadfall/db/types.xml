@@ -423,7 +423,7 @@
         <nominal>3</nominal>
         <lifetime>5400</lifetime>
         <restock>300</restock>
-        <min>1</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6985,10 +6985,10 @@
         <usage name="Tunnels" />
     </type>
     <type name="GasMask_Filter">
-        <nominal>18</nominal>
+        <nominal>20</nominal>
         <lifetime>1200</lifetime>
         <restock>300</restock>
-        <min>12</min>
+        <min>15</min>
         <quantmin>20</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
