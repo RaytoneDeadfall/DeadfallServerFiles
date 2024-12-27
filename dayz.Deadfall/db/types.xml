@@ -20156,9 +20156,9 @@
 
     <!-- makr -->
     <type name="AmmoBox_makr_6Rnd">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>5400</lifetime>
-        <restock>1800</restock>
+        <restock>3600</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
