@@ -60,9 +60,9 @@
             "notificationtime": 2,
             "triggerdelay": 1200,
             "spawnerpos": [
-                "148.281 500.0 196.728"
+                "212.561 259.1 264.92"
             ],
-            "spawnradius": 3.0,
+            "spawnradius": 1.0,
             "bubaknum": 1,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
