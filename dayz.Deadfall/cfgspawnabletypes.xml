@@ -89,11 +89,20 @@
 	</type>
 	<type name="PlateCarrierVest_Green">
 		<damage min="0.1" max="0.6" />
-		<attachments chance="0.85">
+		<attachments chance="0.25">
 			<item name="PlateCarrierHolster_Green" chance="1.00" />
 		</attachments>
-		<attachments chance="0.85">
+		<attachments chance="0.15">
 			<item name="PlateCarrierPouches_Green" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PlateCarrierVest_Winter">
+		<damage min="0.1" max="0.6" />
+		<attachments chance="0.25">
+			<item name="PlateCarrierHolster_Winter" chance="1.00" />
+		</attachments>
+		<attachments chance="0.15">
+			<item name="PlateCarrierPouches_Winter" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="Mich2001Helmet">
