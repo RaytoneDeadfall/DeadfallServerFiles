@@ -646,6 +646,37 @@
             "bubakinventory": []
         },
         {
+            "name": "GAUNTLET 6 LADDER",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "9972.42 131.472 9664.22",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 2.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "9965.27 131.46 9645.79",
+                "10001.9 131.46 9641.08",
+                "10012.4 131.46 9658.28",
+                "9947.14 131.46 9668.39",
+                "9949.56 131.46 9717.81"
+            ],
+            "spawnradius": -1.0,
+            "bubaknum": 3,
+            "onlyfilluptobubaknum": 1,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Deadfall_Creatures_Skeleton_3",
+                "Deadfall_Creatures_Skeleton_4",
+                "Deadfall_Creatures_Skeleton_5"
+            ],
+            "bubakinventory": []
+        },
+        {
             "name": "GAUNTLET 7",
             "workinghours": "0-24",
             "triggerdependency": [],
