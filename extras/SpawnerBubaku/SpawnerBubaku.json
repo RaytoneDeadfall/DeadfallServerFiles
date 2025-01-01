@@ -571,6 +571,7 @@
             "notificationtime": 2,
             "triggerdelay": 1800,
             "spawnerpos": [
+                "9914.89 131.46 10154.5",
                 "10004.4 131.46 10008.8",
                 "10024.6 131.46 10009.6",
                 "10015.6 131.46 10017",
@@ -584,7 +585,7 @@
                 "10013 131.46 10006.4"
             ],
             "spawnradius": -1.0,
-            "bubaknum": 8,
+            "bubaknum": 10,
             "onlyfilluptobubaknum": 1,
             "itemrandomdmg": 0,
             "bubaci": [
@@ -610,6 +611,7 @@
             "notificationtime": 2,
             "triggerdelay": 1800,
             "spawnerpos": [
+                "10000.4 131.46 9975.4",
                 "10000.6 131.46 9879.3",
                 "10012.5 131.46 9870.15",
                 "9997.66 131.46 9870.03",
