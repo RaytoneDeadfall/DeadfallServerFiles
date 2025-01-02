@@ -18638,6 +18638,7 @@
         </container>
     </group>
     <group name="Land_Boat_Small10_Red" lootmax="2">
+        <usage name="Coast" />
         <container name="lootFloor" lootmax="2">
                 <category name="tools" />
                 <tag name="floor" />
@@ -18646,6 +18647,7 @@
         </container>
     </group>
     <group name="Land_Boat_Small10_Blue" lootmax="2">
+        <usage name="Coast" />
         <container name="lootFloor" lootmax="2">
                 <category name="tools" />
                 <tag name="floor" />
@@ -18654,6 +18656,7 @@
         </container>
     </group>
     <group name="Land_Boat_Small9" lootmax="2">
+        <usage name="Coast" />
         <container name="lootFloor" lootmax="2">
                 <category name="tools" />
                 <tag name="floor" />
@@ -18662,6 +18665,7 @@
         </container>
     </group>
     <group name="Land_Boat_Small7" lootmax="4">
+        <usage name="Coast" />
         <container name="lootFloor" lootmax="4">
                 <category name="tools" />
                 <tag name="floor" />
