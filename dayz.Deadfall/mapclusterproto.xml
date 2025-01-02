@@ -79,7 +79,7 @@
 	<!--Groups -->
 	<cluster name="AppleTree1" lootmax="2" maxinstances="150">
 		<de name="TrajectoryApple" />
-		<container name="branch" lootmax="1">
+		<container name="branch" lootmax="2">
 		<point pos="-1.86 -2.40 0.12" range="0.55" height="1.63" flags="32" />
 		<point pos="0.51 -2.40 0.85" range="0.55" height="1.63" flags="32" />
 		<point pos="0.15 -2.40 -0.57" range="0.55" height="1.63" flags="32" />
@@ -88,7 +88,7 @@
 	</cluster>
 	<cluster name="AppleTree2" lootmax="2" maxinstances="150">
 		<de name="TrajectoryApple" />
-		<container name="branch" lootmax="1">
+		<container name="branch" lootmax="2">
 		<point pos="0.25 -3.88 -1.00" range="0.70" height="2.00" flags="32" />
 		<point pos="1.15 -3.88 0.59" range="0.92" height="2.00" flags="32" />
 		<point pos="-0.50 -3.88 1.20" range="0.63" height="2.00" flags="32" />
@@ -97,7 +97,7 @@
 	</cluster>
 	<cluster name="AppleTree3" lootmax="2" maxinstances="150">
 		<de name="TrajectoryApple" />
-		<container name="branch" lootmax="1">
+		<container name="branch" lootmax="2">
 		<point pos="0.13 -5.73 1.23" range="1.00" height="2.00" flags="32" />
 		<point pos="1.40 -5.73 -1.21" range="1.00" height="2.00" flags="32" />
 		<point pos="-1.36 -5.73 -0.95" range="1.00" height="2.00" flags="32" />
@@ -106,7 +106,7 @@
 	</cluster>
 	<cluster name="AppleTree4" lootmax="2" maxinstances="150">
 		<de name="TrajectoryApple" />
-		<container name="branch" lootmax="1">
+		<container name="branch" lootmax="2">
 		<point pos="-0.34 -3.10 1.20" range="1.08" height="1.90" flags="32" />
 		<point pos="-1.00 -3.10 -0.90" range="0.92" height="2.00" flags="32" />
 		<point pos="1.42 -3.10 0.24" range="0.72" height="2.00" flags="32" />
