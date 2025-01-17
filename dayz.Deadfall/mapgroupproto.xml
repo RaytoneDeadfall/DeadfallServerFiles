@@ -17584,11 +17584,9 @@
             <point pos="2.644306 0.000000 -1.608347" range="0.458497" height="1.146243" flags="32" />
             <point pos="1.254257 0.000000 -1.569219" range="0.471924" height="1.179810" flags="32" />
             <point pos="2.784905 0.000000 1.579658" range="0.529640" height="1.324100" flags="32" />
-            <point pos="0.722897 1.138458 -0.120125" range="0.670942" height="1.677856" />
             <point pos="3.886824 -0.242188 0.797271" range="0.718750" height="0.810028" flags="32" />
             <point pos="-2.021586 0.000000 -1.829116" range="0.791505" height="1.978761" flags="32" />
             <point pos="1.395357 0.000000 2.010839" range="0.849365" height="2.000000" flags="32" />
-            <point pos="2.484065 1.179749 0.017297" range="1.095703" height="1.557068" />
             <point pos="-1.353389 0.000000 1.285990" range="1.199951" height="2.000000" flags="32" />
         </container>
         <dispatch dechance="0.000000">
@@ -17610,11 +17608,9 @@
             <point pos="2.644306 0.000000 -1.608347" range="0.458497" height="1.146243" flags="32" />
             <point pos="1.254257 0.000000 -1.569219" range="0.471924" height="1.179810" flags="32" />
             <point pos="2.784905 0.000000 1.579658" range="0.529640" height="1.324100" flags="32" />
-            <point pos="0.722897 1.138458 -0.120125" range="0.670942" height="1.677856" />
             <point pos="3.886824 -0.242188 0.797271" range="0.718750" height="0.810028" flags="32" />
             <point pos="-2.021586 0.000000 -1.829116" range="0.791505" height="1.978761" flags="32" />
             <point pos="1.395357 0.000000 2.010839" range="0.849365" height="2.000000" flags="32" />
-            <point pos="2.484065 1.179749 0.017297" range="1.095703" height="1.557068" />
             <point pos="-1.353389 0.000000 1.285990" range="1.199951" height="2.000000" flags="32" />
         </container>
         <dispatch dechance="0.000000">
@@ -17636,11 +17632,9 @@
             <point pos="2.644306 0.000000 -1.608347" range="0.458497" height="1.146243" flags="32" />
             <point pos="1.254257 0.000000 -1.569219" range="0.471924" height="1.179810" flags="32" />
             <point pos="2.784905 0.000000 1.579658" range="0.529640" height="1.324100" flags="32" />
-            <point pos="0.722897 1.138458 -0.120125" range="0.670942" height="1.677856" />
             <point pos="3.886824 -0.242188 0.797271" range="0.718750" height="0.810028" flags="32" />
             <point pos="-2.021586 0.000000 -1.829116" range="0.791505" height="1.978761" flags="32" />
             <point pos="1.395357 0.000000 2.010839" range="0.849365" height="2.000000" flags="32" />
-            <point pos="2.484065 1.179749 0.017297" range="1.095703" height="1.557068" />
             <point pos="-1.353389 0.000000 1.285990" range="1.199951" height="2.000000" flags="32" />
         </container>
         <dispatch dechance="0.000000">
@@ -17660,11 +17654,9 @@
             <category name="weapons" />
             <category name="explosives" />
             <point pos="2.440113 0.000000 1.661607" range="0.566407" height="1.416016" flags="32" />
-            <point pos="0.722773 1.138458 -0.119969" range="0.670942" height="1.677856" />
             <point pos="3.887257 -0.242188 0.797338" range="0.718750" height="0.810028" flags="32" />
             <point pos="-1.549180 0.000000 1.682494" range="0.816895" height="0.144592" flags="32" />
             <point pos="2.430876 0.000000 -2.070336" range="0.995606" height="2.000000" flags="32" />
-            <point pos="2.483517 1.179749 0.017063" range="1.095703" height="1.557068" />
             <point pos="-0.236710 0.000000 -1.909595" range="1.200000" height="1.888397" flags="32" />
         </container>
         <dispatch dechance="0.000000">
@@ -17683,11 +17675,9 @@
             <category name="weapons" />
             <category name="explosives" />
             <point pos="2.440113 0.000000 1.661607" range="0.566407" height="1.416016" flags="32" />
-            <point pos="0.722773 1.138458 -0.119969" range="0.670942" height="1.677856" />
             <point pos="3.887257 -0.242188 0.797338" range="0.718750" height="0.810028" flags="32" />
             <point pos="-1.549180 0.000000 1.682494" range="0.816895" height="0.144592" flags="32" />
             <point pos="2.430876 0.000000 -2.070336" range="0.995606" height="2.000000" flags="32" />
-            <point pos="2.483517 1.179749 0.017063" range="1.095703" height="1.557068" />
             <point pos="-0.236710 0.000000 -1.909595" range="1.200000" height="1.888397" flags="32" />
         </container>
         <dispatch dechance="0.000000">
@@ -17706,11 +17696,9 @@
             <category name="weapons" />
             <category name="explosives" />
             <point pos="2.440113 0.000000 1.661607" range="0.566407" height="1.416016" flags="32" />
-            <point pos="0.722773 1.138458 -0.119969" range="0.670942" height="1.677856" />
             <point pos="3.887257 -0.242188 0.797338" range="0.718750" height="0.810028" flags="32" />
             <point pos="-1.549180 0.000000 1.682494" range="0.816895" height="0.144592" flags="32" />
             <point pos="2.430876 0.000000 -2.070336" range="0.995606" height="2.000000" flags="32" />
-            <point pos="2.483517 1.179749 0.017063" range="1.095703" height="1.557068" />
             <point pos="-0.236710 0.000000 -1.909595" range="1.200000" height="1.888397" flags="32" />
         </container>
         <dispatch dechance="0.000000">
