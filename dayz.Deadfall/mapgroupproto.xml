@@ -17884,6 +17884,7 @@
         <container name="lootFloor" lootmax="5">
             <category name="tools" />
             <category name="containers" />
+            <category name="clothes" />
             <tag name="floor" />
             <tag name="ground" />
             <tag name="shelves" />

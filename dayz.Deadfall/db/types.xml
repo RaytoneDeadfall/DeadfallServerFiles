@@ -10868,6 +10868,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Medic" />
+        <value name="Tier1" />
+        <value name="Tier2" />
     </type>
     <type name="MedicalScrubsHat_Green">
         <nominal>3</nominal>
@@ -10880,6 +10882,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Medic" />
+        <value name="Tier1" />
+        <value name="Tier2" />
     </type>
     <type name="MedicalScrubsHat_White">
         <nominal>3</nominal>
@@ -10892,6 +10896,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Medic" />
+        <value name="Tier1" />
+        <value name="Tier2" />
     </type>
     <type name="MedicalScrubsPants_Blue">
         <nominal>3</nominal>
@@ -10904,6 +10910,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Medic" />
+        <value name="Tier1" />
+        <value name="Tier2" />
     </type>
     <type name="MedicalScrubsPants_Green">
         <nominal>3</nominal>
@@ -10916,6 +10924,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Medic" />
+        <value name="Tier1" />
+        <value name="Tier2" />
     </type>
     <type name="MedicalScrubsPants_White">
         <nominal>3</nominal>
@@ -10928,6 +10938,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Medic" />
+        <value name="Tier1" />
+        <value name="Tier2" />
     </type>
     <type name="MedicalScrubsShirt_Blue">
         <nominal>3</nominal>
@@ -10940,6 +10952,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Medic" />
+        <value name="Tier1" />
+        <value name="Tier2" />
     </type>
     <type name="MedicalScrubsShirt_Green">
         <nominal>3</nominal>
@@ -10952,6 +10966,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Medic" />
+        <value name="Tier1" />
+        <value name="Tier2" />
     </type>
     <type name="MedicalScrubsShirt_White">
         <nominal>3</nominal>
@@ -10964,6 +10980,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Medic" />
+        <value name="Tier1" />
+        <value name="Tier2" />
     </type>
     <type name="MedievalBoots">
         <nominal>3</nominal>
@@ -15774,6 +15792,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Medic" />
+        <value name="Tier1" />
+        <value name="Tier2" />
     </type>
     <type name="SurgicalGloves_Green">
         <nominal>3</nominal>
@@ -15786,6 +15806,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Medic" />
+        <value name="Tier1" />
+        <value name="Tier2" />
     </type>
     <type name="SurgicalGloves_LightBlue">
         <nominal>3</nominal>
@@ -15798,6 +15820,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Medic" />
+        <value name="Tier1" />
+        <value name="Tier2" />
     </type>
     <type name="SurgicalGloves_White">
         <nominal>3</nominal>
@@ -15810,6 +15834,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Medic" />
+        <value name="Tier1" />
+        <value name="Tier2" />
     </type>
     <type name="SurgicalMask">
         <nominal>4</nominal>
@@ -15822,6 +15848,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Medic" />
+        <value name="Tier1" />
+        <value name="Tier2" />
     </type>
     <type name="Sweater_Blue">
         <nominal>6</nominal>
