@@ -18367,7 +18367,7 @@
                 <point pos="2.951661 2.283182 14.832275" range="0.306250" height="0.765625" />
         </container>
     </group>
-    <group name="Land_MobileLaboratory" lootmax="5">
+    <group name="Land_MobileLaboratory" lootmax="8">
         <usage name="Military" />
         <usage name="Medic" />
         <container name="lootFloor" lootmax="5">
@@ -18377,22 +18377,21 @@
                 <category name="weapons" />
                 <tag name="floor" />
                 <tag name="ground" />
-                <point pos="1.633911 0.726847 -1.395752" range="0.478125" height="1.195313" />
-                <point pos="2.656494 0.726847 1.498046" range="0.545898" height="1.364746" />
-                <point pos="2.609252 0.726847 -0.564941" range="0.593140" height="1.482849" />
-                <point pos="0.350586 0.590813 1.676270" range="0.778442" height="1.946106" />
-                <point pos="-0.107544 0.590813 -0.823242" range="1.013550" height="2.000000" />
-                <point pos="-2.272827 -3.045952 -1.007080" range="1.199951" height="2.000000" />
+                <point pos="1.634004 0.726837 -1.395605" range="0.478125" height="1.195313" />
+                <point pos="2.656149 0.726837 1.497666" range="0.545898" height="1.364746" />
+                <point pos="2.609288 0.726837 -0.564496" range="0.593140" height="1.482849" />
+                <point pos="0.351024 0.590820 1.676600" range="0.778442" height="1.946106" />
+                <point pos="-0.107992 0.590820 -0.823281" range="1.013550" height="2.000000" />
         </container>
         <container name="lootshelves" lootmax="5">
                 <category name="tools" />
                 <tag name="shelves" />
-                <point pos="2.310303 1.812229 -2.150147" range="0.203125" height="0.370001" />
-                <point pos="-0.575317 1.626196 2.360352" range="0.225805" height="0.564512" />
-                <point pos="2.347412 1.312229 -2.193847" range="0.237500" height="0.370001" />
-                <point pos="2.868774 1.312229 -2.175781" range="0.237500" height="0.370001" />
-                <point pos="1.673463 1.670446 1.834228" range="0.271875" height="0.679688" />
-                <point pos="-0.758301 1.626196 1.228516" range="0.271875" height="0.679688" />
+                <point pos="2.309869 1.812225 -2.149758" range="0.203125" height="0.370001" />
+                <point pos="-0.575480 1.626190 2.360738" range="0.225805" height="0.564512" />
+                <point pos="2.347558 1.312225 -2.194045" range="0.237500" height="0.370001" />
+                <point pos="2.869223 1.312225 -2.176273" range="0.237500" height="0.370001" />
+                <point pos="1.673788 1.670441 1.834635" range="0.271875" height="0.679688" />
+                <point pos="-0.758517 1.626190 1.228548" range="0.271875" height="0.679688" />
         </container>
     </group>
     <group name="Land_Airport_Small_Hangar" lootmax="5">

@@ -19868,7 +19868,7 @@
         <value name="Winter" />
     </type>
     <type name="DF_GasMask">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>5400</lifetime>
         <restock>300</restock>
         <min>2</min>
