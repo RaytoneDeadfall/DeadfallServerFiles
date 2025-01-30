@@ -10088,7 +10088,7 @@
         <value name="Tier2" />
     </type>
     <type name="Mag_AK101_30Rnd">
-        <nominal>4</nominal>
+        <nominal>5</nominal>
         <lifetime>5400</lifetime>
         <restock>1800</restock>
         <min>2</min>
@@ -10304,7 +10304,7 @@
         <value name="Tier2" />
     </type>
     <type name="Mag_FAL_20Rnd">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>5400</lifetime>
         <restock>1800</restock>
         <min>2</min>
