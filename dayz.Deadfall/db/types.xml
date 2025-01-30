@@ -9023,10 +9023,10 @@
         <category name="food" />
     </type>
     <type name="LargeGasCanister">
-        <nominal>6</nominal>
+        <nominal>4</nominal>
         <lifetime>5400</lifetime>
         <restock>300</restock>
-        <min>3</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -19903,7 +19903,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="containers" />
-        <usage name="Hunting" />
+        <usage name="Historical" />
         <value name="Winter" />
     </type>
     <type name="DF_CargoPants">
@@ -20162,7 +20162,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Historical" />
-        <value name="Tier4" />
+        <value name="Winter" />
     </type>
     <type name="Lava_Horn_Sword">
         <nominal>1</nominal>
@@ -20175,7 +20175,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Historical" />
-        <value name="Tier4" />
+        <value name="Winter" />
     </type>
     <type name="DeadFall_Stamina_Pills_Regular">
         <nominal>1</nominal>
