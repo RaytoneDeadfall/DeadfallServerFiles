@@ -420,10 +420,10 @@
         <category name="food" />
     </type>
     <type name="AirborneMask">
-        <nominal>3</nominal>
+        <nominal>5</nominal>
         <lifetime>5400</lifetime>
         <restock>300</restock>
-        <min>2</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6974,10 +6974,10 @@
         <category name="tools" />
     </type>
     <type name="GasMask">
-        <nominal>4</nominal>
+        <nominal>5</nominal>
         <lifetime>5400</lifetime>
         <restock>300</restock>
-        <min>2</min>
+        <min>3</min>
         <quantmin>60</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
