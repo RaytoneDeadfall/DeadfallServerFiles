@@ -622,8 +622,8 @@
         <limit>child</limit>
         <active>1</active>
         <children>
-            <child lootmax="5" lootmin="3" max="3" min="3" type="StaticObj_Misc_SupplyBox1_DE"/>
-            <child lootmax="5" lootmin="3" max="3" min="3" type="StaticObj_Misc_SupplyBox3_DE"/>
+            <child lootmax="5" lootmin="3" max="2" min="2" type="StaticObj_Misc_SupplyBox1_DE" />
+            <child lootmax="5" lootmin="3" max="4" min="4" type="StaticObj_Misc_SupplyBox3_DE" deloot="3" />
         </children>
     </event>
     <event name="StaticContaminatedArea">
