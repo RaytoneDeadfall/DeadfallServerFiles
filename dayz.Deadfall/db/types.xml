@@ -6999,6 +6999,7 @@
         <usage name="Medic" />
         <usage name="Firefighter" />
         <value name="Tier2" />
+        <value name="Winter" />
     </type>
     <type name="GasMask_Filter_Improvised">
         <nominal>0</nominal>
