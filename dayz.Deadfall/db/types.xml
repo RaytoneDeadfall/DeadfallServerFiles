@@ -19868,14 +19868,14 @@
         <value name="Winter" />
     </type>
     <type name="DF_GasMask">
-        <nominal>4</nominal>
+        <nominal>5</nominal>
         <lifetime>5400</lifetime>
         <restock>300</restock>
-        <min>2</min>
+        <min>3</min>
         <quantmin>60</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
         <category name="clothes" />
         <usage name="Medic" />
         <value name="Winter" />
@@ -19976,9 +19976,9 @@
         <value name="Tier4" />
     </type>
     <type name="DF_Cereal">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5400</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>0</min>
         <quantmin>10</quantmin>
         <quantmax>50</quantmax>
@@ -19986,23 +19986,21 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="food" />
         <tag name="shelves" />
-        <usage name="Town" />
-        <usage name="Village" />
-        <value name="Tier1" />
-        <value name="Tier2" />
+        <usage name="Medic" />
+        <value name="Winter" />
     </type>
     <type name="DF_FrozenWater">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <lifetime>5400</lifetime>
         <restock>300</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>10</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="food" />
         <tag name="shelves" />
-        <usage name="Hunting" />
+        <usage name="Medic" />
         <value name="Winter" />
     </type>
     <type name="DF_PlateCarrierVest">
@@ -20188,7 +20186,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="tools" />
         <tag name="shelves" />
-        <usage name="Village" />
+        <usage name="Medic" />
         <value name="Winter" />
     </type>
     <type name="DF_Heatpack">

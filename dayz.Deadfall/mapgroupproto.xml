@@ -18385,6 +18385,7 @@
         </container>
         <container name="lootshelves" lootmax="5">
                 <category name="tools" />
+                <category name="food" />
                 <tag name="shelves" />
                 <point pos="2.309869 1.812225 -2.149758" range="0.203125" height="0.370001" />
                 <point pos="-0.575480 1.626190 2.360738" range="0.225805" height="0.564512" />

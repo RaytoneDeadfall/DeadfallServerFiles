@@ -2919,10 +2919,12 @@
 	<type name="DF_ProtectorCase_A">
 		<cargo chance="1"><item name="Deadfall_Key_A" /></cargo>
 		<cargo chance="0.25"><item name="Ammo_makr" /></cargo>
+		<cargo chance="1"><item name="DF_GasMask" /></cargo>
 	</type>
 	<type name="DF_ProtectorCase_B">
 		<cargo chance="1"><item name="Deadfall_Key_B" /></cargo>
 		<cargo chance="0.25"><item name="Ammo_makr" /></cargo>
+		<cargo chance="1"><item name="DF_GasMask" /></cargo>
 	</type>
 	<type name="DF_Paper_Map">
 		<damage min="0.0" max="0.35" />
