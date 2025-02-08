@@ -19288,7 +19288,7 @@
         <container name="lootFloor" lootmax="2">
                 <category name="altar" />
                 <point pos="-1.151099 1.046997 0.067478" range="0.959375" height="2.000000" />
-                <point pos="1.027256 1.046997 0.122742" range="0.856250" height="2.000000" />
+                <point pos="1.027256 1.046997 0.122742" range="0.959375" height="2.000000" />
         </container>
     </group>
     <group name="Land_Misc_Table_Large_Spawn" lootmax="2">
