@@ -20015,7 +20015,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="altar" />
         <usage name="Special" />
-        <value />
+        <value name="Tier3" />
     </type>
     <type name="DF_PlateCarrierPouches">
         <nominal>1</nominal>
@@ -20248,7 +20248,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="altar" />
         <usage name="Special" />
-        <value />
+        <value name="Tier3" />
     </type>
     <type name="makr_Magazine">
         <nominal>0</nominal>
