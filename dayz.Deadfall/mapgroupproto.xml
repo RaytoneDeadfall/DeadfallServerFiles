@@ -18581,17 +18581,17 @@
                 <point pos="3.779785 -10.859962 -13.567140" range="1.199951" height="2.000000" />
         </container>
     </group>
-    <group name="Land_Misc_DogHouse" lootmax="1">
+    <group name="Land_Misc_DogHouse" lootmax="0">
         <usage name="Farm" />
-        <container name="lootFloor" lootmax="1">
+        <container name="lootFloor" lootmax="0">
                 <category name="food" />
                 <tag name="floor" />
                 <point pos="-0.215659 -0.979862 -0.615642" range="0.341124" height="0.692854" flags="32" />
         </container>
     </group>
-    <group name="Land_misc_chickenCoop" lootmax="1">
-        <usage name="Village" />
-        <container name="lootFloor" lootmax="1">
+    <group name="Land_misc_chickenCoop" lootmax="0">
+        <usage name="Farm" />
+        <container name="lootFloor" lootmax="0">
                 <category name="food" />
                 <tag name="floor" />
                 <point pos="-1.283539 -0.739410 -0.532105" range="0.178850" height="0.447124" flags="32" />
