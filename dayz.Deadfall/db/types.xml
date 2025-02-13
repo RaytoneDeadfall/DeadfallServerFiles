@@ -4124,7 +4124,7 @@
         <value name="Tier2"/>
     </type>
     <type name="CZ527">
-        <nominal>6</nominal>
+        <nominal>5</nominal>
         <lifetime>5400</lifetime>
         <restock>300</restock>
         <min>3</min>
