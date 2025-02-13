@@ -2018,7 +2018,10 @@
 		<cargo preset="toolsPolice" />
 		<cargo preset="ammoPolice" />
 		<cargo chance="0.10">
-			<item name="Mag_SSG82_5rnd" chance="1.0" />
+			<item name="Mag_SSG82_5rnd" chance="0.25" />
+			<item name="Mag_Scout_5Rnd" chance="0.25" />
+			<item name="Mag_CZ75_15Rnd" chance="0.25" />
+			<item name="Mag_P1_8Rnd" chance="0.25" />
 		</cargo>
 		<attachments preset="hatsPolice" />
 	</type>
@@ -2026,7 +2029,10 @@
 		<cargo preset="toolsPolice" />
 		<cargo preset="ammoPolice" />
 		<cargo chance="0.10">
-			<item name="Mag_SSG82_5rnd" chance="1.0" />
+			<item name="Mag_SSG82_5rnd" chance="0.25" />
+			<item name="Mag_Scout_5Rnd" chance="0.25" />
+			<item name="Mag_CZ75_15Rnd" chance="0.25" />
+			<item name="Mag_P1_8Rnd" chance="0.25" />
 		</cargo>
 		<attachments preset="hatsPolice" />
 	</type>
@@ -2034,8 +2040,10 @@
 		<cargo preset="toolsPolice" />
 		<cargo preset="ammoPolice" />
 		<cargo chance="0.30">
-			<item name="Mag_SSG82_5rnd" chance="0.50" />
-			<item name="Mag_Scout_5Rnd" chance="0.50" />
+			<item name="Mag_SSG82_5rnd" chance="0.25" />
+			<item name="Mag_Scout_5Rnd" chance="0.25" />
+			<item name="Mag_CZ75_15Rnd" chance="0.25" />
+			<item name="Mag_P1_8Rnd" chance="0.25" />
 		</cargo>
 		<attachments preset="hatsPolice" />
 	</type>
@@ -2043,8 +2051,10 @@
 		<cargo preset="toolsPolice" />
 		<cargo preset="ammoPolice" />
 		<cargo chance="0.30">
-			<item name="Mag_SSG82_5rnd" chance="0.50" />
-			<item name="Mag_Scout_5Rnd" chance="0.50" />
+			<item name="Mag_SSG82_5rnd" chance="0.25" />
+			<item name="Mag_Scout_5Rnd" chance="0.25" />
+			<item name="Mag_CZ75_15Rnd" chance="0.25" />
+			<item name="Mag_P1_8Rnd" chance="0.25" />
 		</cargo>
 		<attachments preset="hatsPolice" />
 		<attachments preset="vestsPolice" />
