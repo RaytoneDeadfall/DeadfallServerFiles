@@ -1,8 +1,8 @@
 {
     "DebugLogs_enabled": 0,
     "TeleportLogs_enabled": 1,
-    "Active_Portals_Min": 4,
-    "Active_Portals_Max": 4,
+    "Active_Portals_Min": 5,
+    "Active_Portals_Max": 5,
     "Portal_Creator": [
         {
             "_Name": "Harbor R",
@@ -46,16 +46,34 @@
             ]
         },
         {
+            "_Name": "Gauntlet Jump Hole Entrance",
             "Classname_Portal_Object": "land_CBD_Pedestal_Orlin",
             "Portal_Position": [449.426, 326.497925, 1030.48],
             "Portal_Orientation": [0.0, 0.0, 0.0],
             "Trigger_Area_Min": [-45.0, -10.0, -45.0],
             "Trigger_Area_Max": [45.0, 10.0, 45.0],
             "Teleport_Destination": [
-                [844.681, 180.03, 4040.7],
-                [2726.64, 184.618, 932.057],
-                [3940.39, 147.657, 2533.01],
-                [2265.43, 149.028, 4508.11]
+                [9678.63, 160.238, 9843.46],
+                [9679.61, 160.238, 9842.44],
+                [9680.75, 160.238, 9843.53],
+                [9683.53, 160.238, 9843.51]
+            ]
+        },
+        {
+            "_Name": "Endgame Portal",
+            "Classname_Portal_Object": "land_Stargate_Portal",
+            "Portal_Position": [10146.223633, 133.207611, 9684.792969],
+            "Portal_Orientation": [26.999962, -0.000000, -0.000000],
+            "Trigger_Area_Min": [-2.0, -2.0, -2.0],
+            "Trigger_Area_Max": [2.0, 2.0, 2.0],
+            "Teleport_Destination": [
+                [4449.66, 346.692, 4267.38],
+                [4457.85, 346.532, 4291.15],               
+                [4442.4, 346.656, 4309.66],
+                [4412.64, 346.572, 4308.1],
+                [4400.54, 346.627, 4297.23],
+                [4404.01, 346.736, 4277.83],
+                [4425.78, 346.665, 4254.84]
             ]
         }
    ]

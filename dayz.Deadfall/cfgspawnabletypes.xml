@@ -89,20 +89,26 @@
 	</type>
 	<type name="PlateCarrierVest_Green">
 		<damage min="0.1" max="0.6" />
-		<attachments chance="0.85">
+		<attachments chance="0.25">
 			<item name="PlateCarrierHolster_Green" chance="1.00" />
 		</attachments>
-		<attachments chance="0.85">
+		<attachments chance="0.15">
 			<item name="PlateCarrierPouches_Green" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="PlateCarrierVest_Winter">
+		<damage min="0.1" max="0.6" />
+		<attachments chance="0.25">
+			<item name="PlateCarrierHolster_Winter" chance="1.00" />
+		</attachments>
+		<attachments chance="0.15">
+			<item name="PlateCarrierPouches_Winter" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="Mich2001Helmet">
 		<damage min="0.1" max="0.6" />
 		<attachments chance="0.85">
 			<item name="Battery9V" chance="1.00" />
-		</attachments>
-		<attachments chance="0.01">
-			<item name="NVGoggles" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="SmallStone">
@@ -125,6 +131,26 @@
 		<cargo preset="mixArmy" />
 	</type>
 	<type name="AssaultBag_Green">
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="AssaultBag_Winter">
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="CoyoteBag_Brown">
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="CoyoteBag_Green">
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="CoyoteBag_Winter">
 		<cargo preset="mixArmy" />
 		<cargo preset="mixArmy" />
 		<cargo preset="mixArmy" />
@@ -210,6 +236,10 @@
 		<cargo preset="mixVillage" />
 	</type>
 	<type name="TortillaBag">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="TortillaBag_Winter">
 		<cargo preset="foodArmy" />
 		<cargo preset="mixArmy" />
 	</type>
@@ -401,15 +431,57 @@
 		<cargo chance="0.40"><item name="DF_FrozenWater" /></cargo>
 		<cargo chance="0.40"><item name="HuntingKnife" /></cargo>
 	</type>
+	<type name="FishingRod">
+		<attachments chance="0.35">
+			<item name="Hook" chance="0.75" />
+			<item name="Jig" chance="0.25" />
+		</attachments>
+	</type>	
+	<type name="BoonieHat_Orange">
+		<attachments chance="0.35">
+			<item name="Hook" chance="0.75" />
+			<item name="Jig" chance="0.25" />
+		</attachments>
+	</type>	
+	<type name="BoonieHat_Red">
+		<attachments chance="0.35">
+			<item name="Hook" chance="0.75" />
+			<item name="Jig" chance="0.25" />
+		</attachments>
+	</type>	
+	<type name="BoonieHat_Tan">
+		<attachments chance="0.35">
+			<item name="Hook" chance="0.75" />
+			<item name="Jig" chance="0.25" />
+		</attachments>
+	</type>	
+	<type name="BoonieHat_Olive">
+		<attachments chance="0.35">
+			<item name="Hook" chance="0.75" />
+			<item name="Jig" chance="0.25" />
+		</attachments>
+	</type>	
+	<type name="BoonieHat_Blue">
+		<attachments chance="0.35">
+			<item name="Hook" chance="0.75" />
+			<item name="Jig" chance="0.25" />
+		</attachments>
+	</type>	
+	<type name="BoonieHat_Winter">
+		<attachments chance="0.35">
+			<item name="Hook" chance="0.75" />
+			<item name="Jig" chance="0.25" />
+		</attachments>
+	</type>	
 	<type name="AirborneMask">
 		<damage min="0.0" max="0.35" />
-		<cargo chance="0.2">
+		<cargo chance="1.0">
 			<item name="GasMask_Filter" />
 		</cargo>
 	</type>
 	<type name="GP5GasMask">
 		<damage min="0.0" max="0.35" />
-		<cargo chance="0.2">
+		<cargo chance="0.25">
 			<item name="GasMask_Filter" />
 		</cargo>
 	</type>
@@ -480,6 +552,18 @@
 	</type>
 	<type name="TTSKOPants">
 		<cargo preset="mixArmy" />
+	</type>
+	<type name="HuntingVest">
+		<cargo preset="mixHunter" />
+		<attachments chance="0.35">
+			<item name="Hook" chance="1.0" />
+		</attachments>
+	</type>
+	<type name="HuntingVest_Winter">
+		<cargo preset="mixHunter" />
+		<attachments chance="0.35">
+			<item name="Hook" chance="1.0" />
+		</attachments>
 	</type>
 	<type name="HuntingJacket_Autumn">
 		<cargo preset="mixHunter" />
@@ -570,6 +654,9 @@
 	<type name="GorkaPants_PautRev">
 		<cargo preset="mixArmy" />
 	</type>
+	<type name="GorkaPants_Winter">
+		<cargo preset="mixArmy" />
+	</type>
 	<type name="ParamedicJacket_Blue">
 		<cargo preset="toolsMedic" />
 	</type>
@@ -601,6 +688,9 @@
 		<cargo preset="mixArmy" />
 	</type>
 	<type name="USMCPants_Woodland">
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="OMKPants_Navy">
 		<cargo preset="mixArmy" />
 	</type>
 	<type name="SlacksPants_Beige">
@@ -866,6 +956,10 @@
 		<cargo preset="ammoArmy" />
 	</type>
 	<type name="GorkaEJacket_PautRev">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+	</type>
+	<type name="GorkaEJacket_Winter">
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
 	</type>
@@ -1254,6 +1348,19 @@
 		<cargo preset="foodArmy" />
 		<attachments preset="HeavyArmorArmy" />
 		<attachments preset="HeavyHelmetArmy" />
+	</type>
+	<type name="ZmbM_eastSoldier_Heavy_Navy">
+		<cargo preset="foodArmy" />	
+		<cargo preset="ammoArmy" />	
+		<attachments preset="HeavyArmorArmy" />
+		<attachments preset="HeavyHelmetArmy" />
+	</type>
+	<type name="ZmbM_eastSoldier_normal_Navy">
+		<cargo preset="foodArmy" />	
+		<cargo preset="ammoArmy" />	
+		<attachments preset="bagsArmy" />
+		<attachments preset="hatsArmy" />
+		<attachments preset="vestsArmy" />
 	</type>
 
 	<!-- City -->
@@ -1849,9 +1956,22 @@
 		<attachments preset="hatsIndustrial" />
 		<attachments preset="vestsIndustrial" />
 	</type>
+	<type name="ZmbM_Gamedev_Black">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsCity" />
+	</type>
+	<type name="ZmbM_Gamedev_Blue">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsCity" />
+	</type>
+	<type name="ZmbM_Gamedev_Gray">
+		<cargo preset="foodCity" />
+		<cargo preset="toolsCity" />
+	</type>
 	<!-- FireFighter -->
 	<type name="ZmbM_FirefighterNormal">
 		<cargo preset="toolsCity" />
+		<cargo preset="ContaminatedCargo" />
 		<attachments preset="hatsFirefighter" />
 	</type>
 	<!-- Medic -->
@@ -1898,7 +2018,10 @@
 		<cargo preset="toolsPolice" />
 		<cargo preset="ammoPolice" />
 		<cargo chance="0.10">
-			<item name="Mag_SSG82_5rnd" chance="1.0" />
+			<item name="Mag_SSG82_5rnd" chance="0.25" />
+			<item name="Mag_Scout_5Rnd" chance="0.25" />
+			<item name="Mag_CZ75_15Rnd" chance="0.25" />
+			<item name="Mag_P1_8Rnd" chance="0.25" />
 		</cargo>
 		<attachments preset="hatsPolice" />
 	</type>
@@ -1906,7 +2029,10 @@
 		<cargo preset="toolsPolice" />
 		<cargo preset="ammoPolice" />
 		<cargo chance="0.10">
-			<item name="Mag_SSG82_5rnd" chance="1.0" />
+			<item name="Mag_SSG82_5rnd" chance="0.25" />
+			<item name="Mag_Scout_5Rnd" chance="0.25" />
+			<item name="Mag_CZ75_15Rnd" chance="0.25" />
+			<item name="Mag_P1_8Rnd" chance="0.25" />
 		</cargo>
 		<attachments preset="hatsPolice" />
 	</type>
@@ -1914,8 +2040,10 @@
 		<cargo preset="toolsPolice" />
 		<cargo preset="ammoPolice" />
 		<cargo chance="0.30">
-			<item name="Mag_SSG82_5rnd" chance="0.50" />
-			<item name="Mag_Scout_5Rnd" chance="0.50" />
+			<item name="Mag_SSG82_5rnd" chance="0.25" />
+			<item name="Mag_Scout_5Rnd" chance="0.25" />
+			<item name="Mag_CZ75_15Rnd" chance="0.25" />
+			<item name="Mag_P1_8Rnd" chance="0.25" />
 		</cargo>
 		<attachments preset="hatsPolice" />
 	</type>
@@ -1923,8 +2051,10 @@
 		<cargo preset="toolsPolice" />
 		<cargo preset="ammoPolice" />
 		<cargo chance="0.30">
-			<item name="Mag_SSG82_5rnd" chance="0.50" />
-			<item name="Mag_Scout_5Rnd" chance="0.50" />
+			<item name="Mag_SSG82_5rnd" chance="0.25" />
+			<item name="Mag_Scout_5Rnd" chance="0.25" />
+			<item name="Mag_CZ75_15Rnd" chance="0.25" />
+			<item name="Mag_P1_8Rnd" chance="0.25" />
 		</cargo>
 		<attachments preset="hatsPolice" />
 		<attachments preset="vestsPolice" />
@@ -2799,12 +2929,17 @@
 	<type name="DF_ProtectorCase_A">
 		<cargo chance="1"><item name="Deadfall_Key_A" /></cargo>
 		<cargo chance="0.25"><item name="Ammo_makr" /></cargo>
+		<cargo chance="1"><item name="DF_GasMask" /></cargo>
 	</type>
 	<type name="DF_ProtectorCase_B">
 		<cargo chance="1"><item name="Deadfall_Key_B" /></cargo>
 		<cargo chance="0.25"><item name="Ammo_makr" /></cargo>
+		<cargo chance="1"><item name="DF_GasMask" /></cargo>
 	</type>
 	<type name="DF_Paper_Map">
+		<damage min="0.0" max="0.35" />
+	</type>
+	<type name="DF_Paper_Poem">
 		<damage min="0.0" max="0.35" />
 	</type>
 </spawnabletypes>

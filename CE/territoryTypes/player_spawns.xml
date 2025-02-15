@@ -37,4 +37,10 @@
         <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4566.15" z="3958.46" r="150"/>
         <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4142.67" z="4345.33" r="180"/>
     </territory>
+    <territory color="1414856959">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="1025.33" z="5156.32" r="750"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4626.18" z="877.1" r="750"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="980.75" z="3391.75" r="750"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3077.23" z="1223.68" r="750"/>
+    </territory>
 </territory-type>

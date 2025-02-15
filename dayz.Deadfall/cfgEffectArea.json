@@ -6,7 +6,7 @@
             "TriggerType": "ContaminatedTrigger",
             "Data": {
                 "Pos": [ 4314.36, 339.0, 4446.46 ],
-                "Radius": 200,
+                "Radius": 210,
                 "PosHeight": 30,
                 "NegHeight": 0,
                 "InnerRingCount": 2,
@@ -54,7 +54,7 @@
             "TriggerType": "ContaminatedTrigger",
             "Data": {
                 "Pos": [ 4551.85, 339.0, 4361.9 ],
-                "Radius": 120,
+                "Radius": 140,
                 "PosHeight": 30,
                 "NegHeight": 0,
                 "InnerRingCount": 2,
@@ -78,7 +78,7 @@
             "TriggerType": "ContaminatedTrigger",
             "Data": {
                 "Pos": [ 4566.15, 339.0, 3958.46 ],
-                "Radius": 150,
+                "Radius": 160,
                 "PosHeight": 30,
                 "NegHeight": 0,
                 "InnerRingCount": 2,
@@ -272,6 +272,30 @@
                 "InnerPartDist": 50,
                 "OuterRingToggle": true,
                 "OuterPartDist": 50,
+                "OuterOffset": 0,
+                "VerticalLayers": 0,
+                "VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+			},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": ""
+			}
+        },
+        {
+            "AreaName": "Marsh",
+            "Type": "SpookyArea",
+            "TriggerType": "SpookyTrigger",
+            "Data": {
+                "Pos": [ 8383.03, 0, 9408.2 ],
+                "Radius": 350,
+                "PosHeight": 0,
+                "NegHeight": 5,
+                "InnerRingCount": 4,
+                "InnerPartDist": 40,
+                "OuterRingToggle": true,
+                "OuterPartDist": 40,
                 "OuterOffset": 0,
                 "VerticalLayers": 0,
                 "VerticalOffset": 0,

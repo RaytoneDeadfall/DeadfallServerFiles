@@ -50,5 +50,6 @@
         <value name="Tier4" />
         <value name="Tier5" />
         <value name="Unique" />
+        <value name="Winter" />
     </valueflags>
 </lists>

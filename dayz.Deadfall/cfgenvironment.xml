@@ -6,6 +6,7 @@
 		<file path="env/sheep_goat_territories.xml" />
 		<file path="env/red_deer_territories.xml" />
 		<file path="env/roe_deer_territories.xml" />
+		<file path="env/reindeer_territories.xml" />
 		<file path="env/wild_boar_territories.xml" />
 		<file path="env/pig_territories.xml" />
 		<file path="env/hen_territories.xml" />
@@ -13,12 +14,16 @@
 		<file path="env/zombie_territories.xml" />
 		<file path="env/bear_territories.xml" />
 		<file path="env/predator_territories.xml" />
+		<file path="env/fox_territories.xml" />
 
 		<territory type="Herd" name="Deer" behavior="DZDeerGroupBeh">
 			<file usable="red_deer_territories" />
 		</territory>
 		<territory type="Herd" name="RoeDeer" behavior="DZDeerGroupBeh">
 			<file usable="roe_deer_territories" />
+		</territory>
+		<territory type="Herd" name="Reindeer" behavior="DZDeerGroupBeh">
+			<file usable="reindeer_territories" />
 		</territory>
 		<territory type="Herd" name="Bear" behavior="BlissBearGroupBeh">
 			<file usable="bear_territories" />
@@ -51,17 +56,26 @@
 			<agent type="Male" chance="1">
 				<spawn configName="Animal_GallusGallusDomesticus" chance="1" />
 			</agent>
-			<agent type="Female" chance="3">
+			<agent type="Female" chance="1">
 				<spawn configName="Animal_GallusGallusDomesticusF_Brown" chance="1" />
 				<spawn configName="Animal_GallusGallusDomesticusF_Spotted" chance="10" />
 				<spawn configName="Animal_GallusGallusDomesticusF_White" chance="20" />
 			</agent>
+			<item name="zoneTouchDisableEditPeriodSec" val="300" />
+		</territory>
 
-			<item name="globalCountMax" val="50" />
-			<item name="zoneCountMin" val="1" />
-			<item name="zoneCountMax" val="1" />
-			<item name="playerSpawnRadiusNear" val="25" />
-			<item name="playerSpawnRadiusFar" val="75" />
+		<!-- FOX -->
+		<territory type="Ambient" name="AmbientFox" behavior="DZAmbientLifeGroupBeh">
+			<file usable="fox_territories" />
+			<!-- different agent types - class has to begin with AgentType:w -->
+			<agent type="Male" chance="1">
+				<spawn configName="Animal_VulpesVulpes" chance="1" />
+			</agent>
+
+			<agent type="Female" chance="0">
+				<spawn configName="Animal_VulpesVulpes" chance="1" />
+			</agent>
+			<item name="zoneTouchDisableEditPeriodSec" val="450" />
 		</territory>
 
 		<!-- INFECTED -->
