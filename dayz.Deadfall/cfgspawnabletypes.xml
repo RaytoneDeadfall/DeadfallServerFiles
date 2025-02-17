@@ -1278,6 +1278,9 @@
 		<cargo chance="0.03">
 			<item name="AntiChemInjector" chance="1.0" />
 		</cargo>
+		<cargo change="0.02">
+			<item name="PunchedCard" chance="1.0" />
+		</cargo>
 	</type>
 	<type name="ZmbM_NBC_Yellow">
 		<cargo preset="ContaminatedCargo" />

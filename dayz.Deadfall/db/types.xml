@@ -17067,7 +17067,7 @@
         <usage name="Coast" />
     </type>
     <type name="WeaponCleaningKit">
-        <nominal>14</nominal>
+        <nominal>12</nominal>
         <lifetime>5400</lifetime>
         <restock>300</restock>
         <min>8</min>
@@ -19820,7 +19820,7 @@
     <type name="DF_ProtectorCase_B">
         <nominal>1</nominal>
         <lifetime>5400</lifetime>
-        <restock>1800</restock>
+        <restock>300</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -20214,9 +20214,9 @@
         <value name="Tier5" />
     </type>
     <type name="Ammo_makr">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>5400</lifetime>
-        <restock>300</restock>
+        <restock>1800</restock>
         <min>2</min>
         <quantmin>20</quantmin>
         <quantmax>50</quantmax>
