@@ -3366,10 +3366,10 @@
         <category name="food" />
     </type>
     <type name="BloodBagEmpty">
-        <nominal>8</nominal>
+        <nominal>12</nominal>
         <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3507,7 +3507,7 @@
         <nominal>3</nominal>
         <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3521,7 +3521,7 @@
         <nominal>3</nominal>
         <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3535,7 +3535,7 @@
         <nominal>3</nominal>
         <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3549,7 +3549,7 @@
         <nominal>3</nominal>
         <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3563,7 +3563,7 @@
         <nominal>3</nominal>
         <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14146,10 +14146,10 @@
         <usage name="Military" />
     </type>
     <type name="SalineBag">
-        <nominal>10</nominal>
+        <nominal>12</nominal>
         <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -19829,7 +19829,6 @@
         <category name="containers" />
         <tag name="floor" />
         <usage name="Military" />
-        <usage name="Industrial" />
         <value name="Tier5" />
     </type>
     <type name="DF_AmmoBox">
@@ -19998,7 +19997,7 @@
     <type name="DF_PlateCarrierVest">
         <nominal>1</nominal>
         <lifetime>5400</lifetime>
-        <restock>300</restock>
+        <restock>0</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -20231,7 +20230,7 @@
     <type name="makr">
         <nominal>1</nominal>
         <lifetime>5400</lifetime>
-        <restock>300</restock>
+        <restock>0</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
