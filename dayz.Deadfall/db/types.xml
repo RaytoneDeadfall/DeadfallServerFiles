@@ -19996,8 +19996,8 @@
     </type>
     <type name="DF_PlateCarrierVest">
         <nominal>1</nominal>
-        <lifetime>1800</lifetime>
-        <restock>0</restock>
+        <lifetime>5400</lifetime>
+        <restock>1800</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
