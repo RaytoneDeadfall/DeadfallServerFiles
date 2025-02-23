@@ -2885,7 +2885,7 @@
 
 	<!-- Custom -->
 	<type name="makr">
-		<damage min="0.0" max="0.2" />
+		<damage min="0.2" max="0.32" />
 	</type>
 	<type name="RT_Kugar_I8">
 		<damage min="0.0" max="0.32" />

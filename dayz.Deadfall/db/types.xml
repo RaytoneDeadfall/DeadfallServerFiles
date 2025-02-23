@@ -20216,7 +20216,7 @@
         <nominal>4</nominal>
         <lifetime>5400</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>20</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
