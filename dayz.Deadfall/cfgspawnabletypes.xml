@@ -2532,11 +2532,11 @@
 			<item name="KashtanOptic" chance="0.30" />
 			<item name="PSO11Optic" chance="0.20" />
 		</attachments>
-		<attachments chance="0.10">
-			<item name="AK_Suppressor" chance="1.00" />
-		</attachments>
 		<attachments chance="0.30">
 			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="0.10">
+			<item name="AK_Bayonet" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="AK74">
@@ -2740,7 +2740,6 @@
 			<item name="M68Optic" chance="0.25" />
 			<item name="ACOGOptic" chance="0.25" />
 			<item name="ACOGOptic_6x" chance="0.25" />
-			<item name="M4_Suppressor" chance="0.25" />
 		</attachments>
 	</type>
 	<type name="Scout_Chernarus">
@@ -2752,7 +2751,6 @@
 			<item name="M68Optic" chance="0.25" />
 			<item name="ACOGOptic" chance="0.25" />
 			<item name="ACOGOptic_6x" chance="0.25" />
-			<item name="M4_Suppressor" chance="0.25" />
 		</attachments>
 	</type>
 	<type name="Scout_Livonia">
@@ -2764,7 +2762,6 @@
 			<item name="M68Optic" chance="0.25" />
 			<item name="ACOGOptic" chance="0.25" />
 			<item name="ACOGOptic_6x" chance="0.25" />
-			<item name="M4_Suppressor" chance="0.25" />
 		</attachments>
 	</type>
 	<type name="CZ550">
