@@ -14119,6 +14119,18 @@
         <category name="weapons" />
         <usage name="Military" />
     </type>
+    <type name="SVD_Wooden">
+        <nominal>0</nominal>
+        <lifetime>5400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military" />
+    </type>
     <type name="Saiga">
         <nominal>3</nominal>
         <lifetime>5400</lifetime>
@@ -19997,7 +20009,7 @@
     <type name="DF_PlateCarrierVest">
         <nominal>1</nominal>
         <lifetime>5400</lifetime>
-        <restock>1800</restock>
+        <restock>0</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -20005,7 +20017,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="altar" />
         <usage name="Special" />
-        <value name="Tier3" />
+        <value />
     </type>
     <type name="DF_PlateCarrierPouches">
         <nominal>1</nominal>
@@ -20230,7 +20242,7 @@
     <type name="makr">
         <nominal>1</nominal>
         <lifetime>5400</lifetime>
-        <restock>1800</restock>
+        <restock>0</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -20238,7 +20250,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="altar" />
         <usage name="Special" />
-        <value name="Tier3" />
+        <value />
     </type>
     <type name="makr_Magazine">
         <nominal>0</nominal>

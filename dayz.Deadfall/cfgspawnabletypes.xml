@@ -114,6 +114,9 @@
 	<type name="SmallStone">
 		<damage min="0.0" max="0.0" />
 	</type>
+	<type name="FilteringBottle">
+		<damage min="0.1" max="0.1" />
+	</type>
 	<type name="Ammo_40mm_Explosive">
 		<damage min="0.0" max="0.35" />
 	</type>
@@ -2668,6 +2671,16 @@
 		</attachments>
 	</type>
 	<type name="SVD">
+		<damage min="0.3" max="0.7" />
+		<attachments chance="0.10">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="KashtanOptic" chance="0.50" />
+			<item name="PSO11Optic" chance="0.30" />
+		</attachments>
+	</type>
+	<type name="SVD_Wooden">
 		<damage min="0.3" max="0.7" />
 		<attachments chance="0.10">
 			<item name="Mag_SVD_10Rnd" chance="1.00" />
