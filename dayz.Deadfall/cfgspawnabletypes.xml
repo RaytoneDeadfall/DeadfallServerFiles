@@ -478,15 +478,15 @@
 	</type>	
 	<type name="AirborneMask">
 		<damage min="0.0" max="0.35" />
-		<cargo chance="1.0">
-			<item name="GasMask_Filter" />
-		</cargo>
+		<attachments chance="1.0">
+			<item name="GasMask_Filter" chance="1.0" />
+		</attachments>
 	</type>
 	<type name="GP5GasMask">
 		<damage min="0.0" max="0.35" />
-		<cargo chance="0.25">
-			<item name="GasMask_Filter" />
-		</cargo>
+		<attachments chance="0.25">
+			<item name="GasMask_Filter" chance="1.0" />
+		</attachments>
 	</type>
 	<type name="GasMask">
 		<damage min="0.0" max="0.35" />
