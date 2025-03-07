@@ -19897,7 +19897,6 @@
         <category name="tools" />
         <usage name="Military" />
         <value name="Tier4" />
-        <value name="Tier5" />
     </type>
     <type name="DF_WoodenCrate">
         <nominal>1</nominal>
