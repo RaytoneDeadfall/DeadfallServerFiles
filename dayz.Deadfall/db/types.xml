@@ -326,6 +326,7 @@
         <tag name="shelves" />
         <usage name="Military" />
         <value name="Tier4" />
+        <value name="Tier5" />
     </type>
     <type name="AK_WoodBttstck">
         <nominal>0</nominal>
@@ -9809,6 +9810,7 @@
         <tag name="shelves" />
         <usage name="Military" />
         <value name="Tier4" />
+        <value name="Tier5" />
     </type>
     <type name="M4_T3NRDSOptic">
         <nominal>3</nominal>
