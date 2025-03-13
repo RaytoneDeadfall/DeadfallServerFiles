@@ -4937,9 +4937,9 @@
     </type>
     <!-- HunterBoots -->
     <type name="CombatBoots_Beige">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>5400</lifetime>
-        <restock>1800</restock>
+        <restock>0</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4952,7 +4952,7 @@
     <type name="CombatBoots_Black">
         <nominal>5</nominal>
         <lifetime>5400</lifetime>
-        <restock>1800</restock>
+        <restock>0</restock>
         <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4963,9 +4963,9 @@
         <usage name="Military" />
     </type>
     <type name="CombatBoots_Brown">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>5400</lifetime>
-        <restock>1800</restock>
+        <restock>0</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4976,9 +4976,9 @@
         <usage name="Hunting" />
     </type>
     <type name="CombatBoots_Green">
-        <nominal>3</nominal>
+        <nominal>5</nominal>
         <lifetime>5400</lifetime>
-        <restock>1800</restock>
+        <restock>0</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -4989,9 +4989,9 @@
         <usage name="Military" />
     </type>
     <type name="CombatBoots_Grey">
-        <nominal>3</nominal>
+        <nominal>5</nominal>
         <lifetime>5400</lifetime>
-        <restock>1800</restock>
+        <restock>0</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -7706,7 +7706,7 @@
         <usage name="Hunting" />
     </type>
     <type name="Heatpack">
-        <nominal>15</nominal>
+        <nominal>20</nominal>
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>10</min>
@@ -8768,7 +8768,7 @@
     <type name="JungleBoots_Beige">
         <nominal>4</nominal>
         <lifetime>5400</lifetime>
-        <restock>1800</restock>
+        <restock>300</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -8781,7 +8781,7 @@
     <type name="JungleBoots_Black">
         <nominal>4</nominal>
         <lifetime>5400</lifetime>
-        <restock>1800</restock>
+        <restock>300</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -8794,7 +8794,7 @@
     <type name="JungleBoots_Brown">
         <nominal>4</nominal>
         <lifetime>5400</lifetime>
-        <restock>1800</restock>
+        <restock>300</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -8807,7 +8807,7 @@
     <type name="JungleBoots_Green">
         <nominal>4</nominal>
         <lifetime>5400</lifetime>
-        <restock>1800</restock>
+        <restock>300</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -8820,7 +8820,7 @@
     <type name="JungleBoots_Olive">
         <nominal>4</nominal>
         <lifetime>5400</lifetime>
-        <restock>1800</restock>
+        <restock>300</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -11171,7 +11171,7 @@
         <usage name="Military" />
     </type>
     <type name="MilitaryBoots_Beige">
-        <nominal>4</nominal>
+        <nominal>5</nominal>
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -11184,7 +11184,7 @@
         <usage name="Military" />
     </type>
     <type name="MilitaryBoots_Black">
-        <nominal>4</nominal>
+        <nominal>5</nominal>
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -11212,7 +11212,7 @@
         <value name="Tier2" />
     </type>
     <type name="MilitaryBoots_Brown">
-        <nominal>4</nominal>
+        <nominal>5</nominal>
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -16081,7 +16081,7 @@
         <value name="Tier2" />
     </type>
     <type name="TTSKOBoots">
-        <nominal>6</nominal>
+        <nominal>8</nominal>
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -17740,10 +17740,10 @@
         <usage name="Village" />
     </type>
     <type name="WorkingBoots_Beige">
-        <nominal>12</nominal>
+        <nominal>15</nominal>
         <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
