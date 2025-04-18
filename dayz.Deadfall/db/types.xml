@@ -17148,7 +17148,7 @@
         <usage name="Coast" />
     </type>
     <type name="WeaponCleaningKit">
-        <nominal>10</nominal>
+        <nominal>8</nominal>
         <lifetime>5400</lifetime>
         <restock>300</restock>
         <min>5</min>
@@ -17159,7 +17159,7 @@
         <category name="tools" />
         <usage name="Military" />
         <usage name="Hunting" />
-        <value name="Tier1" />
+        <usage name="Police"/>
         <value name="Tier2" />
     </type>
     <type name="WeaponCleaningKit_Winter">
