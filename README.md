@@ -42,12 +42,12 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2933015619
 ### SpawnerBubaku (optional)
 
 To spawn AI in many underground and difficult-to-place areas, there is an included configuration file at
-`extras/SpawnerBubaku/SpawnerBubaku.json`.  This must be placed in your server profile directory.
+`extras/SpawnerBubaku/SpawnerBubakuV2.jsonn`.  This must be placed in your server profile directory.
 
 For example, if your profiles directory is set to `profiles`, this file location will be:
 
 ```
-profiles/SpawnerBubaku/SpawnerBubaku.json
+profiles/SpawnerBubaku/SpawnerBubakuV2.json
 ```
 
 You can customize this file to spawn whatever creatures you'd like.

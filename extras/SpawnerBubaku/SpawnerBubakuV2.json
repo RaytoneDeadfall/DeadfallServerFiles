@@ -1,0 +1,790 @@
+{
+    "loglevel": 0,
+    "BubakLocations": [
+        {
+            "name": "ALTAR PLAZA MOBS",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "654.643 255.789 705.85",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 3.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1200,
+            "spawnerpos": [
+                "427.835 262.141 480.198",
+                "481.781 262.14 427.866",
+                "426.143 262.138 337.108",
+                "351.564 262.14 265.618",
+                "280.237 262.141 195.798",
+                "217.844 262.108 237.175",
+                "146.171 262.139 306.183",
+                "202.779 262.14 395.074",
+                "287.865 262.14 479.813",
+                "345.559 262.139 536.354",
+                "408.173 262.141 504.205",
+                "379.907 276.031 433.966",
+                "302.229 276.031 355.384",
+                "265.092 276.031 317.83",
+                "710.156 255.385 585.871",
+                "477.752 255.384 732.136"
+            ],
+            "spawnradius": 3.0,
+            "bubakProps": {
+                "bubaknum": 20,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 0,
+                "bubaci": [
+                    "Deadfall_Creatures_Wraith_1",
+                    "Deadfall_Creatures_Wraith_2",
+                    "Deadfall_Creatures_Wraith_3",
+                    "Deadfall_Creatures_Skeleton_3",
+                    "Deadfall_Creatures_Skeleton_4",
+                    "Deadfall_Creatures_Skeleton_5"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "ALTAR SPIDER QUEEN",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "164.113 262.125 216.889",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 3.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1200,
+            "spawnerpos": [
+                "212.561 259.1 264.92"
+            ],
+            "spawnradius": 1.0,
+            "bubakProps": {
+                "bubaknum": 1,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 0,
+                "bubaci": [
+                    "Deadfall_Creatures_Spiderskull_queen"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "ALTAR PLAZA WATER MOBS",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                "ALTAR SPIDER QUEEN"
+            ],
+            "triggerpos": "192.608 262.139 244.629",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 4.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1200,
+            "spawnerpos": [
+                "270.018 259.1 245.925",
+                "227.762 259.1 349.251",
+                "195.815 259.1 320.965",
+                "230.59 259.1 348.708",
+                "350.542 259.1 481.504",
+                "331.574 259.1 458.117",
+                "432.066 259.1 406.586",
+                "394.403 259.1 364.708"
+            ],
+            "spawnradius": 3.0,
+            "bubakProps": {
+                "bubaknum": 12,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 0,
+                "bubaci": [
+                    "Deadfall_Creatures_Spiderskull_small",
+                    "Deadfall_Creatures_Spiderskull_normal",
+                    "Deadfall_Creatures_Skeleton_2",
+                    "Deadfall_Creatures_Skeleton_3"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "ALTAR PLAZA EXIT GUARDIANS",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "164.113 262.125 216.889",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 4.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1200,
+            "spawnerpos": [
+                "634.773 255.385 660.366",
+                "644.312 255.384 696.265",
+                "606.323 255.385 687.625"
+            ],
+            "spawnradius": 3.0,
+            "bubakProps": {
+                "bubaknum": 8,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 0,
+                "bubaci": [
+                    "Deadfall_Creatures_Wraith_2",
+                    "Deadfall_Creatures_Wraith_3",
+                    "Deadfall_Creatures_Skeleton_4",
+                    "Deadfall_Creatures_Skeleton_5"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "HAVEN TUNNEL SPIDER BABIES",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "909.565 284.518 1024.79",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 3.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "729.074 272.042 777.614",
+                "704.028 268.187 748.903",
+                "712.565 270.223 757.797",
+                "723.256 272.082 770.369",
+                "736.532 272.113 788.525"
+            ],
+            "spawnradius": 3.0,
+            "bubakProps": {
+                "bubaknum": 6,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 0,
+                "bubaci": [
+                    "Deadfall_Creatures_Spiderskull_small",
+                    "Deadfall_Creatures_Spiderskull_normal"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "HAVEN ISLAND SPIDER BABIES",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "490.906 372.355 977.445",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 2.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "542.954956 347.860016 1106.941650",
+                "541.615540 348.575287 1041.793335",
+                "553.261414 347.860016 1090.558838",
+                "519.577454 347.861481 1129.802002",
+                "492.258392 348.361725 1129.211792",
+                "473.481506 348.362915 1141.161133",
+                "442.957581 348.015869 1140.135986",
+                "424.260254 348.359344 1132.066162",
+                "405.744812 348.351440 1125.856812",
+                "390.434906 348.346863 1118.790527",
+                "372.509857 351.075928 1055.092407",
+                "368.024933 349.259766 1010.286987",
+                "346.628235 347.873260 970.460510",
+                "376.430817 351.215790 976.135742",
+                "398.630402 347.963654 933.013855",
+                "447.179565 347.860016 887.775574",
+                "444.990021 350.603333 932.194397",
+                "555.048645 347.875916 1000.259888",
+                "508.394501 347.896057 913.982117",
+                "475.912354 350.902222 930.997009",
+                "367.351746 347.860016 929.701294",
+                "367.326843 348.851471 1034.058105",
+                "583.565 373.216 901.204"
+            ],
+            "spawnradius": 3.0,
+            "bubakProps": {
+                "bubaknum": 8,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 0,
+                "bubaci": [
+                    "Deadfall_Creatures_Spiderskull_small"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "HARBOR 1",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "9653.46 146.522 9817.76",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 3.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "9702.03 155.621 9772.86",
+                "708.61 155.622 9803.52",
+                "9738.71 155.626 9793.65",
+                "9822.24 155.629 9667.33",
+                "9833.91 155.649 9669.61",
+                "9836.74 155.623 9631.29",
+                "9734.26 137.495 9660.81",
+                "9663.16 137.485 9747.6"
+            ],
+            "spawnradius": 1.0,
+            "bubakProps": {
+                "bubaknum": 12,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 0,
+                "bubaci": [
+                    "ZmbM_PatrolNormal_Autumn",
+                    "ZmbM_PatrolNormal_Flat",
+                    "ZmbM_PatrolNormal_PautRev",
+                    "ZmbM_PatrolNormal_Summer",
+                    "ZmbM_SoldierNormal",
+                    "ZmbM_usSoldier_Heavy_Woodland",
+                    "ZmbM_usSoldier_Officer_Desert",
+                    "ZmbM_usSoldier_normal_Desert",
+                    "ZmbM_usSoldier_normal_Woodland"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "HARBOR 2",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "9819.04 146.522 9591.77",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 3.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "9702.03 155.621 9772.86",
+                "708.61 155.622 9803.52",
+                "9738.71 155.626 9793.65",
+                "9822.24 155.629 9667.33",
+                "9833.91 155.649 9669.61",
+                "9836.74 155.623 9631.29",
+                "9734.26 137.495 9660.81",
+                "9663.16 137.485 9747.6"
+            ],
+            "spawnradius": 1.0,
+            "bubakProps": {
+                "bubaknum": 12,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 0,
+                "bubaci": [
+                    "ZmbM_PatrolNormal_Autumn",
+                    "ZmbM_PatrolNormal_Flat",
+                    "ZmbM_PatrolNormal_PautRev",
+                    "ZmbM_PatrolNormal_Summer",
+                    "ZmbM_SoldierNormal",
+                    "ZmbM_usSoldier_Heavy_Woodland",
+                    "ZmbM_usSoldier_Officer_Desert",
+                    "ZmbM_usSoldier_normal_Desert",
+                    "ZmbM_usSoldier_normal_Woodland"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "HARBOR TUNNEL MOBS L",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "3104.75 144.67 2719.36",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 2.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "9988.43 178.236 9389.49",
+                "9907.54 178.24 9393.69",
+                "9821.69 194.058 9511.97",
+                "9899.58 178.237 9438.32",
+                "9924.25 186.12 9488.02",
+                "10024 178.237 9455.63",
+                "9943.11 186.165 9519.92",
+                "9823.88 194.058 9510.67"
+            ],
+            "spawnradius": 1.0,
+            "bubakProps": {
+                "bubaknum": 8,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 0,
+                "bubaci": [
+                    "ZmbM_PatrolNormal_Autumn",
+                    "ZmbM_PatrolNormal_Flat",
+                    "ZmbM_PatrolNormal_PautRev",
+                    "ZmbM_PatrolNormal_Summer",
+                    "ZmbM_SoldierNormal",
+                    "ZmbM_usSoldier_Heavy_Woodland",
+                    "ZmbM_usSoldier_Officer_Desert",
+                    "ZmbM_usSoldier_normal_Desert",
+                    "ZmbM_usSoldier_normal_Woodland"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "HARBOR TUNNEL MOBS R",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "2450.12 144.69 3640.10",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 2.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "9482.43 194.06 9992.33",
+                "9585.42 186.124 9963.96",
+                "9585.42 186.124 9963.96",
+                "9550.92 178.2 9962.63",
+                "9648.07 178.237 9870.2",
+                "9567.98 178.24 9872.13",
+                "9664.24 146.522 9871.96"
+            ],
+            "spawnradius": 1.0,
+            "bubakProps": {
+                "bubaknum": 8,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 0,
+                "bubaci": [
+                    "ZmbM_PatrolNormal_Autumn",
+                    "ZmbM_PatrolNormal_Flat",
+                    "ZmbM_PatrolNormal_PautRev",
+                    "ZmbM_PatrolNormal_Summer",
+                    "ZmbM_SoldierNormal",
+                    "ZmbM_usSoldier_Heavy_Woodland",
+                    "ZmbM_usSoldier_Officer_Desert",
+                    "ZmbM_usSoldier_normal_Desert",
+                    "ZmbM_usSoldier_normal_Woodland"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "WINTER POI TREE OF PAIN",
+            "workinghours": "18-05",
+            "triggerdependency": [],
+            "triggerpos": "2936.81 272.564 448.743",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 2.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "2824.43 269.43 425.211"
+            ],
+            "spawnradius": 3.0,
+            "bubakProps": {
+                "bubaknum": 1,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 0,
+                "bubaci": [
+                    "Deadfall_Creatures_Wraith_1",
+                    "Deadfall_Creatures_Wraith_2"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "WINTER POI CASTLE GATE",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "1309.72 256.46 1481.67",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 8.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "1227.69 261.839 1408.61",
+                "1222.05 256.46 1391.73",
+                "1230.7 256.46 1385.4",
+                "1225.05 256.46 1388.4",
+                "1234.6 261.594 1397.54"
+            ],
+            "spawnradius": 1.0,
+            "bubakProps": {
+                "bubaknum": 8,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 0,
+                "bubaci": [
+                    "Deadfall_Creatures_Skeleton_1",
+                    "Deadfall_Creatures_Skeleton_2"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "GAUNTLET 1",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "9739.67 132.11 9927.09",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 2.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "9823.04 131.46 9990.78",
+                "9779.28 131.46 10045.4",
+                "9789.66 131.46 10064.6",
+                "9784.78 131.46 10064.9"
+            ],
+            "spawnradius": -1.0,
+            "bubakProps": {
+                "bubaknum": 8,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 0,
+                "bubaci": [
+                    "Deadfall_Creatures_Wraith_1",
+                    "Deadfall_Creatures_Wraith_2",
+                    "Deadfall_Creatures_Skeleton_2",
+                    "Deadfall_Creatures_Skeleton_3",
+                    "Deadfall_Creatures_Skeleton_4",
+                    "Deadfall_Creatures_Spiderskull_normal"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "GAUNTLET 2",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "9827.26 131.472 10086.7",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 4.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "9829.59 131.46 10112.7",
+                "9835.55 131.46 10130.9",
+                "9863.71 131.46 10143",
+                "9888.66 131.46 10153.5"
+            ],
+            "spawnradius": -1.0,
+            "bubakProps": {
+                "bubaknum": 8,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 0,
+                "bubaci": [
+                    "Deadfall_Creatures_Wraith_2",
+                    "Deadfall_Creatures_Wraith_3",
+                    "Deadfall_Creatures_Skeleton_2",
+                    "Deadfall_Creatures_Skeleton_3",
+                    "Deadfall_Creatures_Skeleton_4"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "GAUNTLET 3",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "9880.79 131.472 10152.1",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 4.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "9915.93 131.46 10159.6",
+                "9919.15 131.46 10141.4",
+                "9931.4 131.46 10142.9",
+                "9933.98 131.46 10135.7",
+                "9941.84 131.46 10140.1"
+            ],
+            "spawnradius": -1.0,
+            "bubakProps": {
+                "bubaknum": 5,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 0,
+                "bubaci": [
+                    "Deadfall_Creatures_Wraith_2",
+                    "Deadfall_Creatures_Wraith_3",
+                    "Deadfall_Creatures_Skeleton_2",
+                    "Deadfall_Creatures_Skeleton_3",
+                    "Deadfall_Creatures_Skeleton_4"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "GAUNTLET 4",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "10012.3 131.472 9996.9",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 4.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "9997.75 132.577 9944.05",
+                "10007.6 133.003 9929.66",
+                "10020.5 133.004 9934.58",
+                "10005.2 131.472 10008.3",
+                "10026.8 131.473 10012.6"
+            ],
+            "spawnradius": 1.0,
+            "bubakProps": {
+                "bubaknum": 5,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 0,
+                "bubaci": [
+                    "Deadfall_Creatures_Spiderskull_small"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "GAUNTLET 5",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "9954.67 131.936 10131.4",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": -1.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "9914.89 131.46 10154.5",
+                "10004.4 131.46 10008.8",
+                "10024.6 131.46 10009.6",
+                "10015.6 131.46 10017",
+                "10005.2 131.46 10028.5",
+                "10013 131.46 10046",
+                "9997.64 131.46 10063.5",
+                "10011.1 131.509 10066.7",
+                "10007.9 131.46 10081",
+                "10025.5 131.472 10011.3",
+                "10014.8 131.46 10014.8",
+                "10013 131.46 10006.4"
+            ],
+            "spawnradius": -1.0,
+            "bubakProps": {
+                "bubaknum": 10,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 0,
+                "bubaci": [
+                    "Deadfall_Creatures_Wraith_2",
+                    "Deadfall_Creatures_Wraith_3",
+                    "Deadfall_Creatures_Skeleton_3",
+                    "Deadfall_Creatures_Skeleton_4",
+                    "Deadfall_Creatures_Skeleton_5"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "GAUNTLET 6",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "10006.7 131.472 9918.22",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 2.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "10000.4 131.46 9975.4",
+                "10000.6 131.46 9879.3",
+                "10012.5 131.46 9870.15",
+                "9997.66 131.46 9870.03",
+                "9989.45 131.46 9857.29",
+                "10006.8 131.46 9836.99",
+                "9990.37 131.46 9828.87",
+                "9989.24 131.46 9818.67",
+                "10000.3 131.46 9798.55",
+                "10009.1 131.46 9777.8",
+                "9986.21 131.46 9762.98",
+                "10005.4 131.46 9733.98",
+                "9971.26 131.46 9732.7",
+                "9948.67 131.46 9693.02",
+                "9984.46 131.46 9647.91",
+                "10021.8 131.46 9647.34",
+                "10032.7 131.46 9698.41",
+                "10021.2 131.46 9716.85"
+            ],
+            "spawnradius": -1.0,
+            "bubakProps": {
+                "bubaknum": 16,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 0,
+                "bubaci": [
+                    "Deadfall_Creatures_Wraith_2",
+                    "Deadfall_Creatures_Wraith_3",
+                    "Deadfall_Creatures_Skeleton_3",
+                    "Deadfall_Creatures_Skeleton_4",
+                    "Deadfall_Creatures_Skeleton_5",
+                    "Deadfall_Creatures_Spiderskull_normal",
+                    "Deadfall_Creatures_Spiderskull_small"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "GAUNTLET 6 LADDER",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "9972.42 131.472 9664.22",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 2.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "9965.27 131.46 9645.79",
+                "10001.9 131.46 9641.08",
+                "10012.4 131.46 9658.28",
+                "9947.14 131.46 9668.39",
+                "9949.56 131.46 9717.81"
+            ],
+            "spawnradius": -1.0,
+            "bubakProps": {
+                "bubaknum": 3,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 0,
+                "bubaci": [
+                    "Deadfall_Creatures_Skeleton_3",
+                    "Deadfall_Creatures_Skeleton_4",
+                    "Deadfall_Creatures_Skeleton_5"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "GAUNTLET 7",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "10044.9 183.339 9664.04",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 2.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "10097.4 183.355 9638.43",
+                "10133.3 149.386 9569.55",
+                "10112.6 149.373 9524.12",
+                "10123.1 149.365 9546.13"
+            ],
+            "spawnradius": -1.0,
+            "bubakProps": {
+                "bubaknum": 4,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 0,
+                "bubaci": [
+                    "ZmbM_PatrolNormal_Autumn",
+                    "ZmbM_PatrolNormal_Flat",
+                    "ZmbM_PatrolNormal_PautRev",
+                    "ZmbM_PatrolNormal_Summer",
+                    "ZmbM_SoldierNormal",
+                    "ZmbM_usSoldier_Heavy_Woodland",
+                    "ZmbM_usSoldier_Officer_Desert",
+                    "ZmbM_usSoldier_normal_Desert",
+                    "ZmbM_usSoldier_normal_Woodland"
+                ],
+                "bubakinventory": []
+            }
+        },
+        {
+            "name": "GAUNTLET 8",
+            "workinghours": "0-24",
+            "triggerdependency": [],
+            "triggerpos": "10133.7 135.347 9662.67",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 2.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 1800,
+            "spawnerpos": [
+                "10121 135.202 9677.04",
+                "10135.5 135.374 9710.26",
+                "10155.8 135.411 9700.3",
+                "10160.3 135.411 9661.28",
+                "10150 133.328 9691.16",
+                "10130.2 134.049 9602.57",
+                "10124.7 134.205 9605.16"
+            ],
+            "spawnradius": -1.0,
+            "bubakProps": {
+                "bubaknum": 6,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 0,
+                "bubaci": [
+                    "Deadfall_Creatures_Spiderskull_normal",
+                    "Deadfall_Creatures_Spiderskull_small"
+                ],
+                "bubakinventory": []
+            }
+        }
+    ]
+}
