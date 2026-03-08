@@ -2920,7 +2920,7 @@
 	<type name="RT_Kugar_I8">
 		<damage min="0.0" max="0.32" />
 	</type>
-	<type name="Lava_Horn_Sword">
+	<type name="DF_Sword">
 		<damage min="0.2" max="0.32" />
 	</type>
 	<type name="DF_PlateCarrierVest">

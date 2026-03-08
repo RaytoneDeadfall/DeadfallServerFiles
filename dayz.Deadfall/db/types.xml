@@ -4409,7 +4409,7 @@
         <nominal>12</nominal>
         <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>10</min>
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -6512,10 +6512,10 @@
         <usage name="Military" />
     </type>
     <type name="FilteringBottle">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10208,7 +10208,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="Military" />
-        <value name="Tier3" />
+        <value name="Winter" />
     </type>
     <type name="Mag_AK74_30Rnd">
         <nominal>5</nominal>
@@ -13734,7 +13734,7 @@
     <type name="R12">
         <nominal>2</nominal>
         <lifetime>5400</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>1</min>
         <quantmin>10</quantmin>
         <quantmax>80</quantmax>
@@ -17293,10 +17293,10 @@
         <value name="Tier2" />
     </type>
     <type name="WeaponCleaningKit_Winter">
-        <nominal>4</nominal>
+        <nominal>5</nominal>
         <lifetime>5400</lifetime>
         <restock>300</restock>
-        <min>2</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20366,10 +20366,10 @@
         <value name="Tier4" />
     </type>
     <type name="DF_Sword">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>5400</lifetime>
         <restock>3600</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20379,10 +20379,21 @@
         <value name="Winter" />
     </type>
     <type name="Lava_Horn_Sword">
+        <nominal>0</nominal>
+        <lifetime>5400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="clothes" />
+    </type>
+    <type name="DF_GreatHelm">
         <nominal>1</nominal>
         <lifetime>5400</lifetime>
-        <restock>10800</restock>
-        <min>0</min>
+        <restock>3600</restock>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20390,6 +20401,17 @@
         <category name="clothes" />
         <usage name="Historical" />
         <value name="Winter" />
+    </type>
+    <type name="Deadfall_Crown">
+        <nominal>0</nominal>
+        <lifetime>5400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+        <category name="clothes" />
     </type>
     <type name="DeadFall_Stamina_Pills_Regular">
         <nominal>1</nominal>
