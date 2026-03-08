@@ -7,6 +7,7 @@
         <category name="lootdispatch" />
         <category name="food" />
         <category name="garden" />
+        <category name="grocery" />
         <category name="weapons" />
         <category name="books" />
         <category name="explosives" />

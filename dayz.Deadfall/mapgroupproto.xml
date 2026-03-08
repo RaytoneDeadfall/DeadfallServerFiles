@@ -2120,6 +2120,7 @@
             <category name="clothes" />
             <category name="food" />
             <category name="garden" />
+            <category name="grocery" />
             <category name="books" />
             <tag name="shelves" />
             <point pos="3.308105 -0.661758 -3.586426" range="0.100000" height="0.221745" />
@@ -2261,6 +2262,7 @@
             <category name="clothes" />
             <category name="food" />
             <category name="garden" />
+            <category name="grocery" />
             <category name="books" />
             <tag name="shelves" />
             <point pos="-6.764042 -0.342392 -14.548616" range="0.100000" height="0.250000" />
@@ -2621,6 +2623,7 @@
             <category name="clothes" />
             <category name="food" />
             <category name="garden" />
+            <category name="grocery" />
             <category name="books" />
             <tag name="shelves" />
             <point pos="-0.451944 -0.840236 1.995806" range="0.100000" height="0.250000" />
@@ -4449,6 +4452,7 @@
             <category name="clothes" />
             <category name="food" />
             <category name="garden" />
+            <category name="grocery" />
             <category name="books" />
             <tag name="shelves" />
             <point pos="6.335938 -1.759003 -4.297120" range="0.100000" height="0.250000" />
@@ -16682,6 +16686,7 @@
             <category name="clothes" />
             <category name="food" />
             <category name="garden" />
+            <category name="grocery" />
             <category name="books" />
             <tag name="shelves" />
             <point pos="6.335938 -1.759003 -4.297120" range="0.100000" height="0.250000" />
@@ -18896,6 +18901,7 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
+            <category name="grocery" />
             <category name="books" />
             <tag name="shelves" />
             <point pos="6.335938 -1.759003 -4.297120" range="0.100000" height="0.250000" />

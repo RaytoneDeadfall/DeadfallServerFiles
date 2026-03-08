@@ -2368,13 +2368,13 @@
     <type name="BakedBeansCan">
         <nominal>10</nominal>
         <lifetime>5400</lifetime>
-        <restock>0</restock>
+        <restock>900</restock>
         <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="food" />
+        <category name="grocery" />
         <tag name="shelves" />
         <usage name="Town" />
         <usage name="Village" />
@@ -2390,7 +2390,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="food" />
+        <category name="grocery" />
     </type>
     <type name="Balaclava3Holes_Beige">
         <nominal>8</nominal>
@@ -3826,13 +3826,13 @@
     <type name="BoxCerealCrunchin">
         <nominal>8</nominal>
         <lifetime>5400</lifetime>
-        <restock>0</restock>
+        <restock>900</restock>
         <min>3</min>
         <quantmin>10</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="food" />
+        <category name="grocery" />
         <tag name="shelves" />
         <usage name="Town" />
         <usage name="Village" />
@@ -10947,13 +10947,13 @@
     <type name="Marmalade">
         <nominal>10</nominal>
         <lifetime>5400</lifetime>
-        <restock>0</restock>
+        <restock>900</restock>
         <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="food" />
+        <category name="grocery" />
         <tag name="shelves" />
         <usage name="Town" />
         <usage name="Village" />
@@ -12642,13 +12642,13 @@
     <type name="PeachesCan">
         <nominal>8</nominal>
         <lifetime>5400</lifetime>
-        <restock>0</restock>
+        <restock>900</restock>
         <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="food" />
+        <category name="grocery" />
         <tag name="shelves" />
         <usage name="Town" />
         <usage name="Village" />
@@ -12665,7 +12665,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="food" />
+        <category name="grocery" />
     </type>
     <type name="Pear">
         <nominal>0</nominal>
@@ -13351,13 +13351,13 @@
     <type name="PorkCan">
         <nominal>10</nominal>
         <lifetime>5400</lifetime>
-        <restock>0</restock>
+        <restock>900</restock>
         <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="food" />
+        <category name="grocery" />
         <tag name="shelves" />
         <usage name="Town" />
         <usage name="Village" />
@@ -13375,7 +13375,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="food" />
+        <category name="grocery" />
     </type>
     <type name="PortableGasLamp">
         <nominal>15</nominal>
@@ -14140,13 +14140,13 @@
     <type name="Rice">
         <nominal>10</nominal>
         <lifetime>5400</lifetime>
-        <restock>0</restock>
+        <restock>900</restock>
         <min>3</min>
         <quantmin>10</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="food" />
+        <category name="grocery" />
         <tag name="shelves" />
         <usage name="Town" />
         <usage name="Village" />
@@ -15686,13 +15686,13 @@
     <type name="SpaghettiCan">
         <nominal>10</nominal>
         <lifetime>5400</lifetime>
-        <restock>0</restock>
+        <restock>900</restock>
         <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="food" />
+        <category name="grocery" />
         <tag name="shelves" />
         <usage name="Town" />
         <usage name="Village" />
@@ -15709,7 +15709,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
-        <category name="food" />
+        <category name="grocery" />
     </type>
     <type name="SparkPlug">
         <nominal>0</nominal>
