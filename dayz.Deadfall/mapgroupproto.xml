@@ -1055,6 +1055,7 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
+            <category name="grocery" />
             <category name="books" />
             <tag name="shelves" />
             <point pos="1.489746 -5.972015 -3.448487" range="0.100000" height="0.250000" />
