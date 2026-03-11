@@ -16,14 +16,13 @@ Follow these steps in order to get the server running correctly.
 **Required**
 
 1. Copy the `dayz.Deadfall/` folder to your server's mission directory.
-2. Install the **Stargate Teleporters Complete** mod (see [below](#stargate-teleporters-complete-required)) — the map cannot be fully accessed without it.
-3. Copy `extras/CBD_PortalTeleporterSystem.json` to your server profile directory.
-4. Add `enableCfgGameplayFile = 1;` to your `server.cfg` (see [below](#use-cfggameplayfile-recommended)) — required for cold zone temperatures to work correctly.
+2. Install the **Stargate Teleporters Complete** mod and copy `extras/CBD_PortalTeleporterSystem.json` to your server profile directory (see [below](#stargate-teleporters-complete-required)). Players cannot access certain parts of the map without this mod.
+3. Add `enableCfgGameplayFile = 1;` to your `server.cfg` (see [below](#use-cfggameplayfile-recommended)) — required for cold zone temperatures to work correctly.
 
 **Recommended**
 
-5. Install the **GasMasksOnly** mod (see [below](#gasmasks-only-recommended)) to make the toxic passage zone playable without NBC gear.
-6. Copy `extras/SpawnerBubaku/SpawnerBubakuV2.json` to your server profile directory to enable underground AI spawns (see [below](#spawnerbubaku-optional)).
+4. Install the **GasMasksOnly** mod (see [below](#gasmasks-only-recommended)) to make the toxic passage zone playable without NBC gear.
+5. Install the **SpawnerBubaku** mod and copy `extras/SpawnerBubaku/SpawnerBubakuV2.json` to a `SpawnerBubaku` subfolder in your server profile directory (see [below](#spawnerbubaku-recommended)). Spawns additional zombies and creatures in areas that are difficult to populate with the standard CE system.
 
 ---
 
@@ -55,7 +54,7 @@ The config file itself is already included in the mission folder at `dayz.Deadfa
 
 ### Stargate Teleporters Complete *(required)*
 
-Deadfall has a hard dependency on this mod. Certain areas of the map are physically inaccessible without teleportation, so the server **will not function as intended** without it.
+Deadfall has a hard dependency on this mod. Certain areas of the map are physically inaccessible without teleportation, so the player experience **will not be complete as intended** without it.
 
 **Setup:**  
 Copy `extras/CBD_PortalTeleporterSystem.json` to your server profile directory.
@@ -80,11 +79,12 @@ Copy `extras/SpawnerBubaku/SpawnerBubakuV2.json` to your server profile director
 profiles/SpawnerBubaku/SpawnerBubakuV2.json
 ```
 
-You can edit this file to change what creatures spawn and at what quantities.
+You can edit this file to change which creatures spawn and at what quantities.
 
-> **Note:** This mod can be run server-side only — clients do not need to install it.  
 > **SpawnerBubaku** by Hunterz  
 > https://steamcommunity.com/sharedfiles/filedetails/?id=2482312670
+
+> **Note:** This mod can be run as a server-side mod — clients do not need to install it.
 
 ### GasMasks Only *(recommended)*
 
@@ -107,6 +107,6 @@ There is a pre-defined event named `InfectedMonster` in `dayz.Deadfall/db/events
 </children>
 ```
 
-**Tip:** Instead of editing the mission files directly, you can override `types.xml` and `events.xml` using your own server-side files. This keeps your customizations separate and makes future updates easier to apply.
+**Pro Tip:** Instead of editing the mission files directly, you can override `types.xml` and `events.xml` using your own server-side files. This keeps your customizations separate and makes future updates easier to apply.
 
 Read more: https://community.bistudio.com/wiki/DayZ:Central_Economy_mission_files_modding
