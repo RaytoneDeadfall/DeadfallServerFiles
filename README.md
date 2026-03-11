@@ -97,14 +97,28 @@ Without this mod, you will need to manually add NBC gear to your loot economy by
 
 ### Custom Labyrinth Monsters *(optional)*
 
-There is a pre-defined event named `InfectedMonster` in `dayz.Deadfall/db/events.xml` that controls what creature (if any) spawns in the labyrinth. By default it spawns 1 type of creature, but no specific creature type is set — you must add children to activate it.
+There is a pre-defined event named `InfectedMonster` in `dayz.Deadfall/db/events.xml` that controls what creature (if any) spawns in the labyrinth. By default, no creature type is set — you must edit this event if you want creatures to spawn there.
 
-**Example** — spawning a custom mutant:
+**Example** — Spawning 6 custom creatures of type `Your_Creature`:
 
 ```xml
-<children>
-    <child lootmax="5" lootmin="0" max="1" min="1" type="Your_Creature" />
-</children>
+  <event name="InfectedMonster">
+      <nominal>0</nominal>
+      <min>0</min>
+      <max>6</max>
+      <lifetime>3</lifetime>
+      <restock>0</restock>
+      <saferadius>200</saferadius>
+      <distanceradius>50</distanceradius>
+      <cleanupradius>100</cleanupradius>
+      <flags deletable="0" init_random="0" remove_damaged="1" />
+      <position>player</position>
+      <limit>custom</limit>
+      <active>1</active>
+      <children>
+          <child lootmax="5" lootmin="0" max="1" min="1" type="Your_Creature" />
+      </children>
+  </event>
 ```
 
 **Pro Tip:** Instead of editing the mission files directly, you can override `types.xml` and `events.xml` using your own server-side files. This keeps your customizations separate and makes future updates easier to apply.
