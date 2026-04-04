@@ -18531,10 +18531,9 @@
             <point pos="2.951661 2.283182 14.832275" range="0.306250" height="0.765625" />
         </container>
     </group>
-    <group name="Land_MobileLaboratory" lootmax="8">
-        <usage name="Military" />
+    <group name="Land_MobileLaboratory" lootmax="10">
         <usage name="Medic" />
-        <container name="lootFloor" lootmax="5">
+        <container name="lootFloor" lootmax="4">
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
@@ -18547,8 +18546,9 @@
             <point pos="0.351024 0.590820 1.676600" range="0.778442" height="1.946106" />
             <point pos="-0.107992 0.590820 -0.823281" range="1.013550" height="2.000000" />
         </container>
-        <container name="lootshelves" lootmax="5">
+        <container name="lootshelves" lootmax="6">
             <category name="tools" />
+            <category name="lab" />
             <category name="food" />
             <tag name="shelves" />
             <point pos="2.309869 1.812225 -2.149758" range="0.203125" height="0.370001" />

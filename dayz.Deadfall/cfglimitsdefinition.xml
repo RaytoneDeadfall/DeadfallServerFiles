@@ -14,6 +14,7 @@
         <category name="snipers" />
         <category name="keybox" />
         <category name="altar" />
+        <category name="lab" />
     </categories>
     <tags>
         <tag name="floor" />

@@ -29,6 +29,19 @@
 		<pos x="2257.3" y="110.095" z="3696.65" a="0"/>
 		<pos x="1660.71" y="113.581" z="4715.03" a="180"/>
 	</event>
+	<event name="StaticScientist">
+		<pos x="4280.84" y="183.864" z="2183.07" a="-99" group="Scientist" />
+		<pos x="3189.15" y="144.489" z="1627.3" a="99" group="Scientist" />
+		<pos x="1551.48" y="153.372" z="3352.15" a="99" group="Scientist" />
+		<pos x="4097.25" y="120.26" z="1602.58" a="90" group="Scientist" />
+		<pos x="2581.26" y="169.637" z="1846.46" a="0" group="Scientist" />
+		<pos x="2276" y="109.46" z="3669.9" a="90" group="Scientist" />
+		<pos x="2723.77" y="175.62" z="776.534" a="99" group="Scientist" />
+		<pos x="1037.94" y="178.064" z="2356.89" a="-171" group="Scientist" />
+		<pos x="1714.16" y="113.245" z="4698.93" a="-43.2" group="Scientist" />
+		<pos x="3106.72" y="129.843" z="1970.46" a="-18" group="Scientist" />
+		<pos x="1011.18" y="158.513" z="4151.86" a="-18" group="Scientist" />
+	</event>
 	<event name="StaticContaminatedArea" />
 	<event name="InfectedVillage" />
 	<event name="InfectedSolitude" />

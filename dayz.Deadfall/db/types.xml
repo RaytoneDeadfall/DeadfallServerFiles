@@ -7775,6 +7775,7 @@
         <category name="tools" />
         <tag name="shelves" />
         <usage name="Village" />
+        <usage name="Medic" />
         <usage name="Hunting" />
         <usage name="Military" />
         <value name="Winter" />
@@ -8420,15 +8421,18 @@
         <value name="Winter" />
     </type>
     <type name="Iceaxe">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>5400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Hunting"/>
+        <usage name="Village"/>
+        <value name="Winter" />
     </type>
     <type name="ImprovisedBag">
         <nominal>0</nominal>
@@ -15927,6 +15931,40 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>
+    <type name="StaticObj_FrozenScientist_DE">
+        <nominal>0</nominal>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="ScientificBriefcase">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="ScientificBriefcaseKeys">
+        <nominal>1</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="lab"/>
+        <tag name="shelves"/>
+        <usage name="Medic" />
+        <value name="Winter" />
+    </type>
     <type name="SteakKnife">
         <nominal>30</nominal>
         <lifetime>5400</lifetime>
@@ -20421,7 +20459,7 @@
         <quantmax>40</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-        <category name="tools" />
+        <category name="lab" />
         <tag name="shelves" />
         <usage name="Medic" />
         <value name="Winter" />

@@ -43,6 +43,28 @@
 	<type name="SeaChest">
 		<hoarder />
 	</type>
+	<type name="SmallProtectorCase">
+		<hoarder />
+	</type>
+	<type name="ScientificBriefcase">
+		<damage min="0.0" max="0.32" />
+		<cargo chance="1.0">
+			<item name="FilteringBottle" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="Iceaxe" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="TetracyclineAntibiotics" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="Battery9V" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="Deadfall_Key_A" />
+		</cargo>
+		<hoarder />
+	</type>
 	<type name="UndergroundStash">
 		<hoarder />
 	</type>
@@ -116,6 +138,12 @@
 	</type>
 	<type name="FilteringBottle">
 		<damage min="0.1" max="0.1" />
+	</type>
+	<type name="ScientificBriefcase">
+		<damage min="0.1" max="0.1" />
+	</type>
+	<type name="ScientificBriefcaseKeys">
+		<damage min="0.0" max="0.0" />
 	</type>
 	<type name="Ammo_40mm_Explosive">
 		<damage min="0.0" max="0.35" />
