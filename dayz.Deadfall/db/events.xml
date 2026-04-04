@@ -671,7 +671,6 @@
         <saferadius>300</saferadius>
         <distanceradius>300</distanceradius>
         <cleanupradius>300</cleanupradius>
-        <secondary>InfectedArmyHard</secondary>
         <flags deletable="1" init_random="0" remove_damaged="0"/>
         <position>fixed</position>
         <limit>child</limit>
