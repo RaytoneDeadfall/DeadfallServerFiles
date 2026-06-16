@@ -9,40 +9,41 @@
 	</event>
 	<event name="StaticAirplaneCrate">
 		<zone smin="1" smax="2" dmin="2" dmax="4" r="15" />
-		<pos x="3162.57" y="110.095" z="3356.26" a="54"/>
-		<pos x="2896.64" y="110.095" z="3592.86" a="54"/>
-		<pos x="2834.5" y="110.095" z="3781.42" a="54"/>
-		<pos x="1941.74" y="118.648" z="4423.03" a="54"/>
-		<pos x="1024.38" y="159.156" z="4167.73" a="0"/>
-		<pos x="1618.95" y="125.755" z="3598.82" a="0"/>
-		<pos x="1452.18" y="125.095" z="2863.58" a="0"/>
-		<pos x="1090.17" y="175.097" z="2445.31" a="0"/>
-		<pos x="1957.67" y="167.506" z="2161.2" a="0"/>
-		<pos x="2361.86" y="158.179" z="1299.25" a="0"/>
-		<pos x="3158.36" y="145.115" z="1631.25" a="0"/>
-		<pos x="2659" y="110.095" z="2565.96" a="0"/>
-		<pos x="3228.75" y="110.095" z="2523.54" a="0"/>
-		<pos x="3407.25" y="110.095" z="2998" a="0"/>
-		<pos x="4317.16" y="120.663" z="1402.37" a="0"/>
-		<pos x="3799.38" y="173.595" z="1410.45" a="0"/>
-		<pos x="2252.76" y="110.095" z="3257.22" a="0"/>
-		<pos x="2257.3" y="110.095" z="3696.65" a="0"/>
-		<pos x="1660.71" y="113.581" z="4715.03" a="180"/>
+		<pos x="3162.57" z="3356.26" a="54"/>
+		<pos x="2896.64" z="3592.86" a="54"/>
+		<pos x="2834.5" z="3781.42" a="54"/>
+		<pos x="1941.74" z="4423.03" a="54"/>
+		<pos x="1024.38" z="4167.73" a="0"/>
+		<pos x="1618.95" z="3598.82" a="0"/>
+		<pos x="1452.18" z="2863.58" a="0"/>
+		<pos x="1090.17" z="2445.31" a="0"/>
+		<pos x="1957.67" z="2161.2" a="0"/>
+		<pos x="2361.86" z="1299.25" a="0"/>
+		<pos x="3158.36" z="1631.25" a="0"/>
+		<pos x="2659" z="2565.96" a="0"/>
+		<pos x="3228.75" z="2523.54" a="0"/>
+		<pos x="3407.25" z="2998" a="0"/>
+		<pos x="4317.16" z="1402.37" a="0"/>
+		<pos x="3799.38" z="1410.45" a="0"/>
+		<pos x="2252.76" z="3257.22" a="0"/>
+		<pos x="2257.3" z="3696.65" a="0"/>
+		<pos x="1660.71" z="4715.03" a="180"/>
 	</event>
 	<event name="StaticScientist">
-		<pos x="4280.84" y="183.864" z="2183.07" a="-99" group="Scientist" />
-		<pos x="3189.15" y="144.489" z="1627.3" a="99" group="Scientist" />
-		<pos x="1551.48" y="153.372" z="3352.15" a="99" group="Scientist" />
-		<pos x="4097.25" y="120.26" z="1602.58" a="90" group="Scientist" />
-		<pos x="2581.26" y="169.637" z="1846.46" a="0" group="Scientist" />
-		<pos x="2276" y="109.46" z="3669.9" a="90" group="Scientist" />
-		<pos x="2723.77" y="175.62" z="776.534" a="99" group="Scientist" />
-		<pos x="1037.94" y="178.064" z="2356.89" a="-171" group="Scientist" />
-		<pos x="1714.16" y="113.245" z="4698.93" a="-43.2" group="Scientist" />
-		<pos x="3106.72" y="129.843" z="1970.46" a="-18" group="Scientist" />
-		<pos x="1011.18" y="158.513" z="4151.86" a="-18" group="Scientist" />
+		<pos x="4280.84" z="2183.07" a="-99" group="Scientist" />
+		<pos x="3189.15" z="1627.3" a="99" group="Scientist" />
+		<pos x="1551.48" z="3352.15" a="99" group="Scientist" />
+		<pos x="4097.25" z="1602.58" a="90" group="Scientist" />
+		<pos x="2581.26" z="1846.46" a="0" group="Scientist" />
+		<pos x="2276" z="3669.9" a="90" group="Scientist" />
+		<pos x="2723.77" z="776.534" a="99" group="Scientist" />
+		<pos x="1037.94" z="2356.89" a="-171" group="Scientist" />
+		<pos x="1714.16" z="4698.93" a="-43.2" group="Scientist" />
+		<pos x="3106.72" z="1970.46" a="-18" group="Scientist" />
+		<pos x="1011.18" z="4151.86" a="-18" group="Scientist" />
 	</event>
 	<event name="StaticContaminatedArea" />
+	<event name="StaticScientist" />
 	<event name="InfectedVillage" />
 	<event name="InfectedSolitude" />
 	<event name="InfectedArmy" />
@@ -51,7 +52,11 @@
 	<event name="InfectedPolice" />
 	<event name="InfectedFirefighter" />
 	<event name="InfectedPrisoner" />
+	<event name="InfectedReligious" />
 	<event name="InfectedSkeleton" />
+	<event name="InfectedForestSkeleton" />
+	<event name="InfectedCastleSkeleton" />
+	<event name="InfectedMonster" />
 	<event name="InfectedNBC" />
 	<event name="AnimalDeer" />
 	<event name="AnimalReindeer" />
