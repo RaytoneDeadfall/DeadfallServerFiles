@@ -2972,6 +2972,9 @@
 	<type name="DF_Sword">
 		<damage min="0.2" max="0.32" />
 	</type>
+	<type name="DF_GreatHelm">
+		<damage min="0.0" max="0.32" />
+	</type>
 	<type name="DF_PlateCarrierVest">
 		<damage min="0.0" max="0.2" />
 		<attachments chance="0.25">
