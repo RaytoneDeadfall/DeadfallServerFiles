@@ -7,6 +7,13 @@
 		<pos x="980.75" z="3391.75" a="-1" />
 		<pos x="3077.23" z="1223.68" a="-1" />
 	</event>
+	<event name="StaticDeadfallChest">
+		<pos x="8211.84" z="9230.33" a="-54" />
+		<pos x="8577.59" z="9397.51" a="0" />
+		<pos x="8535.88" z="9630.2" a="-36" />
+		<pos x="8358.12" z="9314.71" a="13.9628" />
+		<pos x="8323.72" z="9474.97" a="-90" />
+	</event>
 	<event name="StaticAirplaneCrate">
 		<zone smin="1" smax="2" dmin="2" dmax="4" r="15" />
 		<pos x="3162.57" z="3356.26" a="54"/>

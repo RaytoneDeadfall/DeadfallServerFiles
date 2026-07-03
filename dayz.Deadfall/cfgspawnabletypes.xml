@@ -43,6 +43,12 @@
 	<type name="SeaChest">
 		<hoarder />
 	</type>
+	<type name="Deadfall_SeaChest">
+		<cargo chance="1.0">
+			<item name="DF_RidersJacket" />
+		</cargo>
+		<hoarder />
+	</type>
 	<type name="SmallProtectorCase">
 		<hoarder />
 	</type>
