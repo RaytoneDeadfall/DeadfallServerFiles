@@ -45,7 +45,7 @@
 	</type>
 	<type name="Deadfall_SeaChest">
 		<cargo chance="1.0">
-			<item name="DF_RidersJacket" />
+			<item name="DF_Tshirt_Gauntlet" />
 		</cargo>
 		<hoarder />
 	</type>
