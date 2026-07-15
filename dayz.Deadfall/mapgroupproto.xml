@@ -1055,6 +1055,7 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
+            <category name="grocery" />
             <category name="books" />
             <tag name="shelves" />
             <point pos="1.489746 -5.972015 -3.448487" range="0.100000" height="0.250000" />
@@ -2120,6 +2121,7 @@
             <category name="clothes" />
             <category name="food" />
             <category name="garden" />
+            <category name="grocery" />
             <category name="books" />
             <tag name="shelves" />
             <point pos="3.308105 -0.661758 -3.586426" range="0.100000" height="0.221745" />
@@ -2261,6 +2263,7 @@
             <category name="clothes" />
             <category name="food" />
             <category name="garden" />
+            <category name="grocery" />
             <category name="books" />
             <tag name="shelves" />
             <point pos="-6.764042 -0.342392 -14.548616" range="0.100000" height="0.250000" />
@@ -2621,6 +2624,7 @@
             <category name="clothes" />
             <category name="food" />
             <category name="garden" />
+            <category name="grocery" />
             <category name="books" />
             <tag name="shelves" />
             <point pos="-0.451944 -0.840236 1.995806" range="0.100000" height="0.250000" />
@@ -4449,6 +4453,7 @@
             <category name="clothes" />
             <category name="food" />
             <category name="garden" />
+            <category name="grocery" />
             <category name="books" />
             <tag name="shelves" />
             <point pos="6.335938 -1.759003 -4.297120" range="0.100000" height="0.250000" />
@@ -14062,20 +14067,22 @@
     <group name="Wreck_UH1Y" lootmax="8">
         <usage name="Military" />
         <value user="Tier123" />
-        <container name="lootFloor" lootmax="8">
+        <container name="keybox" lootmax="1">
+            <category name="keybox" />
+            <point pos="1.357636 -1.856922 2.039550" range="0.185402" height="1.756649" flags="32" />
+            <point pos="2.976563 -1.856922 2.021972" range="0.340625" height="0.851563" flags="32" />
+        </container>
+        <container name="lootFloor" lootmax="7">
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
             <category name="weapons" />
             <category name="books" />
-            <category name="keybox" />
             <tag name="floor" />
             <tag name="shelves" />
-            <point pos="1.357636 -1.856922 2.039550" range="0.185402" height="1.756649" flags="32" />
             <point pos="3.630615 -1.856922 0.478027" range="0.203125" height="0.507813" flags="32" />
             <point pos="3.128174 -1.856922 0.282226" range="0.237500" height="0.593750" flags="32" />
             <point pos="2.601563 -1.856922 0.026855" range="0.237500" height="0.593750" flags="32" />
-            <point pos="2.976563 -1.856922 2.021972" range="0.340625" height="0.851563" flags="32" />
             <point pos="4.462646 -1.856922 -0.474610" range="0.595988" height="1.489970" flags="32" />
             <point pos="2.273926 -1.856922 3.096679" range="0.718352" height="1.795880" flags="32" />
             <point pos="1.722656 -1.856922 -1.948730" range="0.821779" height="2.000004" flags="32" />
@@ -14101,23 +14108,25 @@
     <group name="Wreck_Mi8_Crashed" lootmax="8">
         <usage name="Military" />
         <value user="Tier123" />
-        <container name="lootFloor" lootmax="8">
+        <container name="keybox" lootmax="1">
+            <category name="keybox" />
+            <point pos="-2.693787 -1.888990 1.671386" range="0.703328" height="2.000000" flags="32" />
+            <point pos="-1.599335 -1.888990 -0.949219" range="0.764948" height="1.163458" flags="32" />
+        </container>
+        <container name="lootFloor" lootmax="7">
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
             <category name="weapons" />
             <category name="books" />
-            <category name="keybox" />
             <tag name="floor" />
             <tag name="shelves" />
-            <point pos="-2.693787 -1.888990 1.671386" range="0.703328" height="2.000000" flags="32" />
             <point pos="-1.758788 -1.888990 -2.302246" range="0.597443" height="1.493607" flags="32" />
             <point pos="-5.150909 -1.888990 -4.171387" range="1.199951" height="2.000000" flags="32" />
             <point pos="-9.951996 -1.888990 -2.661621" range="0.932135" height="2.000000" flags="32" />
             <point pos="-9.645112 -1.888990 1.531249" range="1.199951" height="2.000000" flags="32" />
             <point pos="-7.113404 -1.888990 1.797849" range="1.199951" height="2.000000" flags="32" />
             <point pos="-4.582459 -1.888990 1.906738" range="1.199951" height="2.000000" flags="32" />
-            <point pos="-1.599335 -1.888990 -0.949219" range="0.764948" height="1.163458" flags="32" />
             <point pos="-3.084625 -1.796867 -1.247071" range="0.393962" height="0.169039" />
             <point pos="-4.700715 -1.854195 -1.203125" range="0.334039" height="0.211958" />
             <point pos="-7.857819 -1.816639 -0.384278" range="0.407959" height="1.019897" />
@@ -16682,6 +16691,7 @@
             <category name="clothes" />
             <category name="food" />
             <category name="garden" />
+            <category name="grocery" />
             <category name="books" />
             <tag name="shelves" />
             <point pos="6.335938 -1.759003 -4.297120" range="0.100000" height="0.250000" />
@@ -18525,10 +18535,9 @@
             <point pos="2.951661 2.283182 14.832275" range="0.306250" height="0.765625" />
         </container>
     </group>
-    <group name="Land_MobileLaboratory" lootmax="8">
-        <usage name="Military" />
+    <group name="Land_MobileLaboratory" lootmax="10">
         <usage name="Medic" />
-        <container name="lootFloor" lootmax="5">
+        <container name="lootFloor" lootmax="4">
             <category name="tools" />
             <category name="containers" />
             <category name="clothes" />
@@ -18541,8 +18550,9 @@
             <point pos="0.351024 0.590820 1.676600" range="0.778442" height="1.946106" />
             <point pos="-0.107992 0.590820 -0.823281" range="1.013550" height="2.000000" />
         </container>
-        <container name="lootshelves" lootmax="5">
+        <container name="lootshelves" lootmax="6">
             <category name="tools" />
+            <category name="lab" />
             <category name="food" />
             <tag name="shelves" />
             <point pos="2.309869 1.812225 -2.149758" range="0.203125" height="0.370001" />
@@ -18896,6 +18906,7 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="food" />
+            <category name="grocery" />
             <category name="books" />
             <tag name="shelves" />
             <point pos="6.335938 -1.759003 -4.297120" range="0.100000" height="0.250000" />

@@ -1,86 +1,126 @@
 # Deadfall Server Files
 
-This repo should contain everything needed for running a Deadfall server.  It contains mission folder,
-server profile config files (found in `extras/`), and CE files for further editing of the economy.
+This repo contains everything needed to run a Deadfall server:
 
-Note: Server profiles directory is specified with the `-profiles=` launch parameter in the server startup
-script.
+- **`dayz.Deadfall/`** — The mission folder. This entire folder is placed on your server where DayZ expects its mission files.
+- **`CE/`** — Central Economy (CE) files.  These files supplement the mission folder and can be edited to tune the economy. (completely optional)
+- **`extras/`** — Mod configuration files for your server profile directory (see below).
 
-## Deadfall Economy 
+> **What is the server profile directory?**  
+> It is the folder specified by the `-profiles=` launch parameter in your server startup script (e.g., `-profiles=profiles`). DayZ reads mod config files from this directory at startup. If you are unsure what yours is set to, check your startup script or server control panel.
 
-You're welcome to modify these files anyway you'd like, but keep in mind that Deadfall was designed
-to be an adventure-style map.  Base building and vehicles/helicopters are not recommended and are disabled.
-The roads have not been tested for vehicles and helicopters would allow players to see and get through 
-areas/gaps of the terrain that they are not intended to.
+## Quick Start
+
+Follow these steps in order to get the server running correctly.
+
+**Required**
+
+1. Copy the `dayz.Deadfall/` folder to your server's mission directory.
+2. Install the **Stargate Teleporters Complete** mod and copy `extras/CBD_PortalTeleporterSystem.json` to your server profile directory (see [below](#stargate-teleporters-complete-required)). Players cannot access certain parts of the map without this mod.
+3. Add `enableCfgGameplayFile = 1;` to your `server.cfg` (see [below](#use-cfggameplayfile-recommended)) — required for cold zone temperatures to work correctly.
+
+**Recommended**
+
+4. Install the **GasMasksOnly** mod (see [below](#gasmasks-only-recommended)) to make the toxic passage zone playable without NBC gear.
+5. Install the **SpawnerBubaku** mod and copy `extras/SpawnerBubaku/SpawnerBubakuV2.json` to a `SpawnerBubaku` subfolder in your server profile directory (see [below](#spawnerbubaku-recommended)). Spawns additional zombies and creatures in areas that are difficult to populate with the standard CE system.
+
+---
+
+## Deadfall Economy
+
+You are welcome to modify the mission files however you like, but keep in mind that Deadfall was designed as an adventure/exploration map. Base building and vehicles/helicopters are **not recommended** and are disabled by default:
+
+- **Vehicles** — The roads have not been tested for vehicle travel.
+- **Helicopters** — Players could use them to bypass terrain that is intentionally inaccessible, breaking the intended experience.
+- **Base Building** — Flags, tools, nails and other base-building supplies are not configured to spawn by default.
+
+---
 
 ## Additional Mods and Configuration
 
-The following mod profile config files are provided to enrich the overall Deadfall experience.
+The following mod profile config files are included in `extras/` to enrich the Deadfall experience with additional mods.
 
-### Use CfgGameplayFile (recommended)
+### Use CfgGameplayFile *(recommended)*
 
-To enable the usage of this file, set a parameter "enableCfgGameplayFile = 1;" in your server.cfg file.  This
-file controls the world temperatures, which is important since Deadfall has cold zones.
+`cfggameplay.json` controls world temperatures. This is important because Deadfall has cold zones that affect player survival. Without this enabled, temperatures may not behave as designed.
 
-### Stargate Teleporters Complete (required)
+To enable it, add the following line to your `server.cfg` at the root level (not inside any block):
 
-Deadfall has a hard dependency on the Stargate Teleport mod, as some of the terrain is inaccessible without
-teleportation.
+```
+enableCfgGameplayFile = 1;
+```
 
-You can find the teleport configuration file customized for Deadfall at `extras/CBD_PortalTeleporterSystem.json`.  
-This file should be placed in your server profile directory to enable the teleporters.
+The config file itself is already included in the mission folder at `dayz.Deadfall/cfggameplay.json` — no additional file copying is needed.
 
-For example, if your profiles directory is set to `profiles`, this file location will be:
+### Stargate Teleporters Complete *(required)*
+
+Deadfall has a hard dependency on this mod. Certain areas of the map are physically inaccessible without teleportation, so the player experience **will not be complete as intended** without it.
+
+**Setup:**  
+Copy `extras/CBD_PortalTeleporterSystem.json` to your server profile directory.
+
+For example, if your profiles directory is named `profiles`:
 
 ```
 profiles/CBD_PortalTeleporterSystem.json
 ```
 
-Stargate Teleporters Complete by Chris
-https://steamcommunity.com/sharedfiles/filedetails/?id=2933015619
+> **Stargate Teleporters Complete** by Chris  
+> https://steamcommunity.com/sharedfiles/filedetails/?id=2933015619
 
-### SpawnerBubaku (optional)
+### SpawnerBubaku *(recommended)*
 
-To spawn AI in many underground and difficult-to-place areas, there is an included configuration file at
-`extras/SpawnerBubaku/SpawnerBubakuV2.jsonn`.  This must be placed in your server profile directory.
+This mod spawns AI creatures in underground areas and other locations that are difficult to populate using DayZ's standard CE system. An included configuration file pre-sets spawns tuned for Deadfall.
 
-For example, if your profiles directory is set to `profiles`, this file location will be:
+**Setup:**  
+Copy `extras/SpawnerBubaku/SpawnerBubakuV2.json` to your server profile directory, inside a `SpawnerBubaku` subfolder:
 
 ```
 profiles/SpawnerBubaku/SpawnerBubakuV2.json
 ```
 
-You can customize this file to spawn whatever creatures you'd like.
+You can edit this file to change which creatures spawn and at what quantities.
 
-SpawnerBubaku by Hunterz
-https://steamcommunity.com/sharedfiles/filedetails/?id=2482312670
+> **SpawnerBubaku** by Hunterz  
+> https://steamcommunity.com/sharedfiles/filedetails/?id=2482312670
 
-Note: This mod can be run server-side only.
+> **Note:** This mod can be run as a server-side mod — clients do not need to install it.
 
-### GasMasksOnly (recommended)
+### GasMasks Only *(recommended)*
 
-Deadfall has a large toxic zone at the passage.  It is recommended to use the GasMasksOnly to make it
-easier for players to get through this area.  Without this mod, you'll need to add the NBC gear to your
-economy via `db/types.xml`.
+Deadfall has a large toxic zone at the passage. This mod makes gas masks the primary protective option, which is simpler for players than sourcing a full NBC suit.
 
-GasMasksOnly by Crocodoc
-https://steamcommunity.com/sharedfiles/filedetails/?id=2621103156
+Without this mod, you will need to manually add NBC gear to your loot economy by editing `dayz.Deadfall/db/types.xml`.
 
+> **GasMasksOnly** by Crocodoc  
+> https://steamcommunity.com/sharedfiles/filedetails/?id=2621103156
 
-### Custom Labyrinth Monsters (optional)
+### Custom Labyrinth Monsters *(optional)*
 
-There is an event named `InfectedMonster` which you can use to customize spawning a unique creature or
-mutant in the labyrinth.  To do this, simply add children to this event.  Only 1 creature will spawn by default.
+There is a pre-defined event named `InfectedMonster` in `dayz.Deadfall/db/events.xml` that controls what creature (if any) spawns in the labyrinth. By default, no creature type is set — you must edit this event if you want creatures to spawn there.
 
-For example, set the children elements to the `InfectedMonster` event:
+**Example** — Spawning 6 custom creatures of type `Your_Creature`:
 
+```xml
+  <event name="InfectedMonster">
+      <nominal>0</nominal>
+      <min>0</min>
+      <max>6</max>
+      <lifetime>3</lifetime>
+      <restock>0</restock>
+      <saferadius>200</saferadius>
+      <distanceradius>50</distanceradius>
+      <cleanupradius>100</cleanupradius>
+      <flags deletable="0" init_random="0" remove_damaged="1" />
+      <position>player</position>
+      <limit>custom</limit>
+      <active>1</active>
+      <children>
+          <child lootmax="5" lootmin="0" max="1" min="1" type="Your_Creature" />
+      </children>
+  </event>
 ```
-<children>
-    <child lootmax="5" lootmin="0" max="0" min="100" type="SMCS_Mutant" />
-</children>
-```
 
-Note: You can also avoid editing mission files directly by overriding them in your own types.xml and events.xml
-files.  Doing this makes it easier to maintain your customizations.
+**Pro Tip:** Instead of editing the mission files directly, you can override `types.xml` and `events.xml` using your own server-side files. This keeps your customizations separate and makes future updates easier to apply.
 
 Read more: https://community.bistudio.com/wiki/DayZ:Central_Economy_mission_files_modding
