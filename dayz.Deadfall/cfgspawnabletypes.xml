@@ -106,6 +106,15 @@
 
 	<type name="PlateCarrierVest">
 	</type>
+	<type name="PlateCarrierVest_Camo">
+		<damage min="0.1" max="0.6" />
+		<attachments chance="0.85">
+			<item name="PlateCarrierHolster_Camo" chance="1.00" />
+		</attachments>
+		<attachments chance="0.85">
+			<item name="PlateCarrierPouches_Camo" chance="1.00" />
+		</attachments>
+	</type>
 	<type name="PlateCarrierVest_Black">
 		<damage min="0.1" max="0.6" />
 		<attachments chance="0.85">
@@ -115,6 +124,15 @@
 			<item name="PlateCarrierPouches_Black" chance="1.00" />
 		</attachments>
 	</type>
+	<type name="PlateCarrierVest_Desert">
+		<damage min="0.1" max="0.6" />
+		<attachments chance="0.25">
+			<item name="PlateCarrierHolster_Desert" chance="1.00" />
+		</attachments>
+		<attachments chance="0.15">
+			<item name="PlateCarrierPouches_Desert" chance="1.00" />
+		</attachments>
+	</type> 
 	<type name="PlateCarrierVest_Green">
 		<damage min="0.1" max="0.6" />
 		<attachments chance="0.25">
@@ -277,6 +295,10 @@
 		<cargo preset="mixArmy" />
 	</type>
 	<type name="TortillaBag_Winter">
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="TortillaBag_Desert">
 		<cargo preset="foodArmy" />
 		<cargo preset="mixArmy" />
 	</type>
@@ -1401,6 +1423,14 @@
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
 	</type>
+	<type name="ZmbF_usSoldier_normal_Desert">
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<attachments preset="headtorches" />
+		<attachments preset="hatsArmy" />
+		<attachments preset="bagsArmy" />
+		<attachments preset="vestsArmy" />
+	</type>
 	<type name="ZmbM_usSoldier_Officer_Desert">
 		<cargo preset="foodArmy" />
 		<cargo preset="ammoArmy" />
@@ -1412,6 +1442,11 @@
 		<cargo preset="ammoArmy" />
 	</type>
 	<type name="ZmbM_usSoldier_Heavy_Woodland">
+		<cargo preset="foodArmy" />
+		<attachments preset="HeavyArmorArmy" />
+		<attachments preset="HeavyHelmetArmy" />
+	</type>
+	<type name="ZmbF_usSoldier_Heavy_Desert">
 		<cargo preset="foodArmy" />
 		<attachments preset="HeavyArmorArmy" />
 		<attachments preset="HeavyHelmetArmy" />
@@ -2457,9 +2492,10 @@
 			<item name="Mag_MP5_30Rnd" chance="0.5" />
 		</attachments>
 		<attachments chance="0.20">
-			<item name="M68Optic" chance="0.40" />
-			<item name="M4_T3NRDSOptic" chance="0.25" />
-			<item name="ReflexOptic" chance="0.25" />
+			<item name="M68Optic" chance="0.30" />
+			<item name="HoloOptic" chance="0.20" />
+			<item name="M4_T3NRDSOptic" chance="0.20" />
+			<item name="ReflexOptic" chance="0.20" />
 			<item name="ACOGOptic" chance="0.10" />
 		</attachments>
 		<attachments chance="0.10">
@@ -2474,9 +2510,10 @@
 			<item name="Mag_UMP_25Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="0.30">
-			<item name="M68Optic" chance="0.40" />
-			<item name="M4_T3NRDSOptic" chance="0.25" />
-			<item name="ReflexOptic" chance="0.25" />
+			<item name="M68Optic" chance="0.30" />
+			<item name="HoloOptic" chance="0.20" />
+			<item name="M4_T3NRDSOptic" chance="0.20" />
+			<item name="ReflexOptic" chance="0.20" />
 			<item name="ACOGOptic" chance="0.10" />
 		</attachments>
 		<attachments chance="0.05">
@@ -2503,9 +2540,10 @@
 			<item name="Mag_Vikhr_30Rnd" chance="0.15" />
 		</attachments>
 		<attachments chance="0.30">
-			<item name="M68Optic" chance="0.40" />
-			<item name="M4_T3NRDSOptic" chance="0.25" />
-			<item name="ReflexOptic" chance="0.25" />
+			<item name="M68Optic" chance="0.30" />
+			<item name="HoloOptic" chance="0.20" />
+			<item name="M4_T3NRDSOptic" chance="0.20" />
+			<item name="ReflexOptic" chance="0.20" />
 			<item name="ACOGOptic" chance="0.10" />
 		</attachments>
 		<attachments chance="0.10">
@@ -2620,8 +2658,8 @@
 			<item name="PSO1Optic" chance="0.20" />
 		</attachments>
 		<attachments chance="0.30">
-			<item name="Mag_AK74_45Rnd" chance="0.15" />
-			<item name="Mag_AK74_30Rnd" chance="1.00" />
+			<item name="Mag_AK74_30Rnd" chance="0.75" />
+			<item name="Mag_AK74_45Rnd" chance="0.25" />
 		</attachments>
 	</type>
 	<type name="AKS74U">
@@ -2699,9 +2737,10 @@
 			<item name="Mag_STANAG_60Rnd" chance="0.33" />
 		</attachments>
 		<attachments chance="0.30">
-			<item name="M68Optic" chance="0.40" />
-			<item name="M4_T3NRDSOptic" chance="0.25" />
-			<item name="ReflexOptic" chance="0.25" />
+			<item name="M68Optic" chance="0.30" />
+			<item name="HoloOptic" chance="0.20" />
+			<item name="M4_T3NRDSOptic" chance="0.20" />
+			<item name="ReflexOptic" chance="0.20" />
 			<item name="ACOGOptic" chance="0.10" />
 		</attachments>
 		<attachments chance="0.10">
@@ -2721,13 +2760,48 @@
 			<item name="Fal_FoldingBttstck" chance="0.50" />
 		</attachments>
 		<attachments chance="0.20">
-			<item name="M68Optic" chance="0.40" />
-			<item name="M4_T3NRDSOptic" chance="0.25" />
-			<item name="ReflexOptic" chance="0.25" />
+			<item name="M68Optic" chance="0.30" />
+			<item name="HoloOptic" chance="0.20" />
+			<item name="M4_T3NRDSOptic" chance="0.20" />
+			<item name="ReflexOptic" chance="0.20" />
 			<item name="ACOGOptic" chance="0.10" />
 		</attachments>
 		<attachments chance="0.10">
 			<item name="Mag_FAL_20Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SCARH">
+		<damage min="0.45" max="0.85" />
+		<attachments chance="1.00">
+			<item name="SCAR_PrecisionBttstck" chance="0.50" />
+			<item name="SCAR_StockBttstck" chance="0.50" />
+		</attachments>
+		<attachments chance="0.33">
+			<item name="M68Optic" chance="0.30" />
+			<item name="HoloOptic" chance="0.20" />
+			<item name="M4_T3NRDSOptic" chance="0.20" />
+			<item name="ReflexOptic" chance="0.20" />
+			<item name="ACOGOptic" chance="0.10" />
+		</attachments>
+		<attachments chance="0.60">
+			<item name="Mag_SCARH_20Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="SCARH_Black">
+		<damage min="0.45" max="0.85" />
+		<attachments chance="1.00">
+			<item name="SCAR_PrecisionBttstck_Black" chance="0.50" />
+			<item name="SCAR_StockBttstck_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.33">
+			<item name="M68Optic" chance="0.30" />
+			<item name="HoloOptic" chance="0.20" />
+			<item name="M4_T3NRDSOptic" chance="0.20" />
+			<item name="ReflexOptic" chance="0.20" />
+			<item name="ACOGOptic" chance="0.10" />
+		</attachments>
+		<attachments chance="0.60">
+			<item name="Mag_SCARH_20Rnd_Black" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="SVD">
